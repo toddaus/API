@@ -1,0 +1,903 @@
+classification_fixed_id,base_pay_rate_id,base_rate_type,base_rate,calculated_pay_rate_id,calculated_rate_type,calculated_rate,parent_classification_name,classification,classification_level,employee_rate_type_code,operative_from,operative_to,version_number,published_year,last_modified_datetime
+88481,,,,,,,,Level 5*,,,2023-07-01,,3,2023,2023-06-02T08:37:38+00:00
+88520,,,,,,,,Level 2*,,,2023-07-01,,3,2023,2023-06-02T08:37:38+00:00
+88493,,,,,,,,Introductory Level*,,,2023-07-01,,3,2023,2023-06-02T08:37:38+00:00
+88377,,,,,,,,Introductory Level*,,,2023-07-01,,3,2023,2023-06-02T08:37:38+00:00
+88444,,,,,,,,Level 2*,,,2023-07-01,,3,2023,2023-06-02T08:37:38+00:00
+88475,,,,,,,,Level 4*,,,2023-07-01,,3,2023,2023-06-02T08:37:38+00:00
+88561,,,,,,,,Level 5*,,,2023-07-01,,3,2023,2023-06-02T08:37:38+00:00
+88449,,,,,,,,Level 3*,,,2023-07-01,,3,2023,2023-06-02T08:37:38+00:00
+88609,,,,,,,,Introductory Level*,,,2023-07-01,,3,2023,2023-06-02T08:37:38+00:00
+88636,,,,,,,,Level 4*,,,2023-07-01,,3,2023,2023-06-02T08:37:38+00:00
+88392,,,,,,,,Level 1*,,,2023-07-01,,3,2023,2023-06-02T08:37:38+00:00
+88554,,,,,,,,Level 4*,,,2023-07-01,,3,2023,2023-06-02T08:37:38+00:00
+88553,,,,,,,,Level 3*,,,2023-07-01,,3,2023,2023-06-02T08:37:38+00:00
+88627,,,,,,,,Level 3A*,,,2023-07-01,,3,2023,2023-06-02T08:37:38+00:00
+88623,,,,,,,,Level 3*,,,2023-07-01,,3,2023,2023-06-02T08:37:38+00:00
+88619,,,,,,,,Level 2*,,,2023-07-01,,3,2023,2023-06-02T08:37:38+00:00
+88644,,,,,,,,Level 6*,,,2023-07-01,,3,2023,2023-06-02T08:37:38+00:00
+88615,,,,,,,,Level 1*,,,2023-07-01,,3,2023,2023-06-02T08:37:38+00:00
+88640,,,,,,,,Level 5*,,,2023-07-01,,3,2023,2023-06-02T08:37:38+00:00
+88710,BR100545,Hourly,20.95,,,,,1st year,1,AA,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88714,BR100549,Hourly,20.95,,,,,1st 6 months,1,AA,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+242,BR89890,Weekly,859.3,CR25739,Hourly,22.61,,Introductory level,1,AD,2023-07-01,,5,2023,2023-06-02T08:37:38+00:00
+311,BR89908,Annual,56557,,,,,Managerial staff (Hotels),1,AD,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+108888,BR103719,Hourly,27.41,,,,,Level 3A,1,AD,2023-07-01,,5,2023,2023-06-19T11:07:48+00:00
+292,BR89900,Weekly,882.8,CR25748,Hourly,23.23,,Introductory level,1,AD,2023-07-01,,5,2023,2023-06-02T08:37:38+00:00
+108883,BR103714,Hourly,24.87,,,,,Level 3,1,AD,2023-07-01,,4,2023,2023-06-19T11:07:30+00:00
+88391,BR100248,Hourly,22.61,,,,Introductory Level,20 years of age,1,AD,2023-07-01,,5,2023,2023-06-02T08:37:38+00:00
+88519,BR100366,Hourly,22.61,,,,Introductory,20 years of age,1,AD,2023-07-01,,5,2023,2023-06-02T08:37:38+00:00
+108887,BR103718,Hourly,26.18,,,,,Level 3,1,AD,2023-07-01,,5,2023,2023-06-19T11:07:48+00:00
+88614,BR100453,Hourly,23.23,,,,Introductory level,20 years of age,1,AD,2023-07-01,,5,2023,2023-06-02T08:37:38+00:00
+90436,BR102179,Weekly,547.25,CR29791,Hourly,14.4,55%,1st year,1,AP,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+90451,BR102185,Weekly,696.5,CR29796,Hourly,18.33,70% of the standard weekly rate,1st 6 months,1,AP,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88389,BR100246,Hourly,15.83,,,,Introductory Level,18 years of age,1,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88514,BR100361,Hourly,10.17,,,,Introductory,15 years of age and under,1,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88518,BR100365,Hourly,20.35,,,,Introductory,19 years of age,1,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88390,BR100247,Hourly,19.22,,,,Introductory Level,19 years of age,1,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88612,BR100451,Hourly,16.26,,,,Introductory level,18 years of age,1,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88516,BR100363,Hourly,14.7,,,,Introductory,17 years of age,1,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+91139,BR102854,Hourly,19.75,,,,Introductory level,19 years of age,1,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88379,BR100240,Hourly,13.57,,,,Introductory Level,17 years of age,1,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88515,BR100362,Hourly,12.44,,,,Introductory,16 years of age,1,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88378,BR100239,Hourly,11.31,,,,Introductory Level,16 years of age and under,1,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88517,BR100364,Hourly,16.96,,,,Introductory,18 years of age,1,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88717,BR100552,Hourly,22.26,,,,,2nd 6 months,2,AA,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88709,BR100544,Hourly,22.61,,,,,2nd year,2,AA,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88711,BR100546,Hourly,22.61,,,,,3rd year,2,AA,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+293,BR89901,Weekly,933.7,CR25749,Hourly,24.57,Casino electronic gaming employee grade 1,Level 1,2,AD,2023-07-01,,5,2023,2023-06-02T08:37:38+00:00
+88618,BR100458,Hourly,24.57,,,,Level 1,20 years of age,2,AD,2023-07-01,,5,2023,2023-06-02T08:37:38+00:00
+88442,BR100297,Hourly,23.23,,,,Level 1,20 years of age,2,AD,2023-07-01,,5,2023,2023-06-02T08:37:38+00:00
+108884,BR103715,Hourly,26.18,,,,,Level 4,2,AD,2023-07-01,,4,2023,2023-06-19T11:07:30+00:00
+88526,BR100373,Hourly,24.08,,,,Level 2,20 years of age,2,AD,2023-07-01,,5,2023,2023-06-02T08:37:38+00:00
+243,BR89891,Weekly,882.8,CR25740,Hourly,23.23,Food and beverage attendant grade 1; Guest service grade 1; Kitchen attendant grade 1,Level 1,2,AD,2023-07-01,,5,2023,2023-06-02T08:37:38+00:00
+108889,BR103720,Hourly,27.83,,,,,Level 4,2,AD,2023-07-01,,5,2023,2023-06-19T11:07:48+00:00
+90437,BR102180,Weekly,646.75,CR29792,Hourly,17.02,65%,2nd year,2,AP,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+90452,BR102186,Weekly,845.75,CR29797,Hourly,22.26,85% of the standard weekly rate,2nd 6 months,2,AP,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88617,BR100457,Hourly,20.88,,,,Level 1,19 years of age,2,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88394,BR100251,Hourly,13.94,,,,Level 1,17 years of age,2,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88521,BR100368,Hourly,10.84,,,,Level 2,15 years of age and under,2,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88441,BR100296,Hourly,19.75,,,,Level 1,19 years of age,2,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88395,BR100252,Hourly,16.26,,,,Level 1,18 years of age,2,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88523,BR100370,Hourly,15.65,,,,Level 2,17 years of age,2,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88616,BR100459,Hourly,17.2,,,,Level 1,18 years of age,2,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88525,BR100372,Hourly,21.67,,,,Level 2,19 years of age,2,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88522,BR100369,Hourly,13.24,,,,Level 2,16 years of age,2,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88524,BR100371,Hourly,18.06,,,,Level 2,18 years of age,2,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88393,BR100250,Hourly,11.62,,,,Level 1,16 years of age and under,2,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88712,BR100547,Hourly,24.88,,,,,4th year – not attained standard of proficiency,3,AA,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88716,BR100551,Hourly,25.13,,,,,3rd 6 months,3,AA,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+294,BR89902,Weekly,963.8,CR25750,Hourly,25.36,Casino electronic gaming employee grade 2; Casino equipment technician grade 1; Casino table gaming employee grade 1; Customer liaison officer; Gaming finance employee grade 1,Level 2,3,AD,2023-07-01,,5,2023,2023-06-02T08:37:38+00:00
+88552,BR100398,Hourly,24.87,,,,Level 3,20 years of age,3,AD,2023-07-01,,5,2023,2023-06-02T08:37:38+00:00
+108890,BR103721,Hourly,28.66,,,,,Level 5,3,AD,2023-07-01,,5,2023,2023-06-19T11:07:48+00:00
+88448,BR100303,Hourly,24.08,,,,Level 2,20 years of age,3,AD,2023-07-01,,5,2023,2023-06-02T08:37:38+00:00
+108885,BR103716,Hourly,27.83,,,,,Level 5,3,AD,2023-07-01,,4,2023,2023-06-19T11:07:30+00:00
+246,BR89892,Weekly,914.9,CR25741,Hourly,24.08,Clerical grade 1; Cook grade 1; Door person/security officer grade 1; Food and beverage attendant grade 2; Front office grade 1; Gardener grade 1; Guest service grade 2; Kitchen attendant grade 2; Leisure attendant grade 1; Storeperson grade 1,Level 2,3,AD,2023-07-01,,5,2023,2023-06-02T08:37:38+00:00
+88622,BR100463,Hourly,25.36,,,,Level 2,20 years of age,3,AD,2023-07-01,,5,2023,2023-06-02T08:37:38+00:00
+90438,BR102181,Weekly,796,CR29793,Hourly,20.95,80%,3rd year,3,AP,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+90453,BR102187,Weekly,954.95,CR29798,Hourly,25.13,Midway between the minimum rate prescribed for Food and beverage attendant grade 2 in Table 3—Minimum rates and the standard weekly rate,3rd 6 months,3,AP,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88548,BR100394,Hourly,13.68,,,,Level 3,16 years of age,3,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88445,BR100300,Hourly,14.45,,,,Level 2,17 years of age,3,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88447,BR100302,Hourly,20.47,,,,Level 2,19 years of age,3,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88550,BR100396,Hourly,18.65,,,,Level 3,18 years of age,3,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88621,BR100462,Hourly,21.56,,,,Level 2,19 years of age,3,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88446,BR100301,Hourly,16.86,,,,Level 2,18 years of age,3,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88527,BR100374,Hourly,11.19,,,,Level 3,15 years of age and under,3,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88443,BR100298,Hourly,12.04,,,,Level 2,16 years of age and under,3,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88551,BR100397,Hourly,22.38,,,,Level 3,19 years of age,3,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88620,BR100461,Hourly,17.75,,,,Level 2,18 years of age,3,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88549,BR100395,Hourly,16.17,,,,Level 3,17 years of age,3,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88754,BR100580,Hourly,25.66,,,,,4th 6 months – not attained standard of proficiency,4,AA,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88713,BR100548,Hourly,26.18,,,,,4th year – attained standard of proficiency,4,AA,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+257,BR89894,Weekly,945,CR25743,Hourly,24.87,Clerical grade 2; Cook grade 2; Food and beverage attendant grade 3; Fork-lift driver; Front office grade 2; Gardener grade 2; Guest service grade 3; Handyperson; Kitchen attendant grade 3; Leisure attendant grade 2; Storeperson grade 2; Timekeeper/security officer grade 2,Level 3,4,AD,2023-07-01,,5,2023,2023-06-02T08:37:38+00:00
+299,BR89903,Weekly,995,CR25751,Hourly,26.18,Casino equipment technician grade 2; Gaming finance employee grade 2; Security officer grade 1,Level 3,4,AD,2023-07-01,,6,2023,2023-06-02T08:37:38+00:00
+302,BR89904,Weekly,1041.7,CR25752,Hourly,27.41,Casino table gaming employee grade 2,Level 3A,4,AD,2023-07-01,,6,2023,2023-06-02T08:37:38+00:00
+88630,BR100471,Hourly,27.41,,,,Level 3A,20 years of age,4,AD,2023-07-01,,5,2023,2023-06-02T08:37:38+00:00
+108886,BR103717,Hourly,28.57,,,,,Level 6,4,AD,2023-07-01,,4,2023,2023-06-19T11:07:30+00:00
+88474,BR100328,Hourly,24.87,,,,Level 3,20 years of age,4,AD,2023-07-01,,5,2023,2023-06-02T08:37:38+00:00
+88626,BR100467,Hourly,26.18,,,,Level 3,20 years of age,4,AD,2023-07-01,,5,2023,2023-06-02T08:37:38+00:00
+88560,BR100406,Hourly,26.18,,,,Level 4,20 years of age,4,AD,2023-07-01,,5,2023,2023-06-02T08:37:38+00:00
+108891,BR103722,Hourly,29.48,,,,,Level 6,4,AD,2023-07-01,,5,2023,2023-06-19T11:07:48+00:00
+90439,BR102182,Weekly,945.25,CR29794,Hourly,24.88,95%,4th year – not attained standard of proficiency,4,AP,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+90454,BR102188,Weekly,974.98,CR29799,Hourly,25.66,Midway between the rate specified for the 3rd 6 months and the standard weekly rate,4th 6 months – not attained standard of proficiency,4,AP,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88559,BR100405,Hourly,23.56,,,,Level 4,19 years of age,4,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88470,BR100324,Hourly,12.44,,,,Level 3,16 years of age and under,4,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88557,BR100403,Hourly,17.02,,,,Level 4,17 years of age,4,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88558,BR100404,Hourly,19.64,,,,Level 4,18 years of age,4,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88556,BR100402,Hourly,14.4,,,,Level 4,16 years of age,4,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88473,BR100327,Hourly,21.14,,,,Level 3,19 years of age,4,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88471,BR100325,Hourly,14.92,,,,Level 3,17 years of age,4,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88472,BR100326,Hourly,17.41,,,,Level 3,18 years of age,4,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88555,BR100401,Hourly,11.78,,,,Level 4,15 years of age and under,4,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88628,BR100469,Hourly,19.19,,,,Level 3A,18 years of age,4,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88629,BR100470,Hourly,23.3,,,,Level 3A,19 years of age,4,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88625,BR100466,Hourly,22.25,,,,Level 3,19 years of age,4,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88624,BR100465,Hourly,18.33,,,,Level 3,18 years of age,4,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88755,BR100581,Hourly,26.18,,,,,4th 6 months – attained standard of proficiency,5,AA,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+268,BR89895,Weekly,995,CR25744,Hourly,26.18,Clerical grade 3; Cook (tradesperson) grade 3; Food and beverage attendant (tradesperson) grade 4; Front office grade 3; Gardener grade 3 (tradesperson); Guest service grade 4; Leisure attendant grade 3; Storeperson grade 3,Level 4,5,AD,2023-07-01,,5,2023,2023-06-02T08:37:38+00:00
+88480,BR100334,Hourly,26.18,,,,Level 4,20 years of age,5,AD,2023-07-01,,5,2023,2023-06-02T08:37:38+00:00
+88567,BR100413,Hourly,27.83,,,,Level 5,20 years of age,5,AD,2023-07-01,,5,2023,2023-06-02T08:37:38+00:00
+88639,BR100480,Hourly,27.83,,,,Level 4,20 years of age,5,AD,2023-07-01,,5,2023,2023-06-02T08:37:38+00:00
+90455,BR102189,Weekly,995,CR29800,Hourly,26.18,100% of the standard weekly rate,4th 6 months – attained standard of proficiency,5,AP,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+90440,BR102183,Weekly,995,CR29795,Hourly,26.18,100%,4th year – attained standard of proficiency,5,AP,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88476,BR100330,Hourly,13.09,,,,Level 4,16 years of age and under,5,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88566,BR100412,Hourly,25.05,,,,Level 5,19 years of age,5,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88477,BR100331,Hourly,15.71,,,,Level 4,17 years of age,5,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88563,BR100409,Hourly,15.31,,,,Level 5,16 years of age,5,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88479,BR100333,Hourly,22.25,,,,Level 4,19 years of age,5,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88564,BR100410,Hourly,18.09,,,,Level 5,17 years of age,5,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88478,BR100332,Hourly,18.33,,,,Level 4,18 years of age,5,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88565,BR100411,Hourly,20.87,,,,Level 5,18 years of age,5,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88638,BR100479,Hourly,23.66,,,,Level 4,19 years of age,5,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88562,BR100408,Hourly,12.52,,,,Level 5,15 years of age and under,5,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88637,BR100478,Hourly,19.48,,,,Level 4,18 years of age,5,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88643,BR100484,Hourly,28.66,,,,Level 5,20 years of age,6,AD,2023-07-01,,5,2023,2023-06-02T08:37:38+00:00
+88486,BR100340,Hourly,27.83,,,,Level 5,20 years of age,6,AD,2023-07-01,,5,2023,2023-06-02T08:37:38+00:00
+276,BR89896,Weekly,1057.4,CR25745,Hourly,27.83,Clerical supervisor; Cook (tradesperson) grade 4; Food and beverage supervisor; Front office supervisor; Gardener grade 4 (tradesperson); Guest service supervisor,Level 5,6,AD,2023-07-01,,5,2023,2023-06-02T08:37:38+00:00
+303,BR89905,Weekly,1057.4,CR25753,Hourly,27.83,Casino equipment technician grade 3; Gaming finance employee grade 3; Security officer grade 2,Level 4,6,AD,2023-07-01,,6,2023,2023-06-02T08:37:38+00:00
+88482,BR100336,Hourly,13.92,,,,Level 5,16 years of age and under,6,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88483,BR100337,Hourly,16.7,,,,Level 5,17 years of age,6,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88484,BR100338,Hourly,19.48,,,,Level 5,18 years of age,6,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88485,BR100339,Hourly,23.66,,,,Level 5,19 years of age,6,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88641,BR100482,Hourly,20.06,,,,Level 5,18 years of age,6,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88642,BR100483,Hourly,24.36,,,,Level 5,19 years of age,6,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+306,BR89906,Weekly,1088.9,CR25754,Hourly,28.66,Casino table gaming employee grade 3; Gaming finance employee grade 4,Level 5,7,AD,2023-07-01,,5,2023,2023-06-02T08:37:38+00:00
+88647,BR100488,Hourly,29.48,,,,Level 6,20 years of age,7,AD,2023-07-01,,5,2023,2023-06-02T08:37:38+00:00
+282,BR89897,Weekly,1085.6,CR25746,Hourly,28.57,Cook (tradesperson) grade 5,Level 6,7,AD,2023-07-01,,5,2023,2023-06-02T08:37:38+00:00
+88646,BR100487,Hourly,25.06,,,,Level 6,19 years of age,7,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+88645,BR100486,Hourly,20.64,,,,Level 6,18 years of age,7,JN,2023-07-01,,4,2023,2023-06-02T08:37:38+00:00
+308,BR89907,Weekly,1120.2,CR25755,Hourly,29.48,Casino table gaming employee grade 4; Gaming finance employee grade 5; Surveillance operator,Level 6,8,AD,2023-07-01,,6,2023,2023-06-02T08:37:38+00:00
+88449,,,,,,,,Level 3*,,,2022-10-01,2023-06-30,2,2022,2022-06-24T11:31:58+00:00
+88636,,,,,,,,Level 4*,,,2022-10-01,2023-06-30,2,2022,2022-06-24T11:31:58+00:00
+88377,,,,,,,,Introductory Level*,,,2022-10-01,2023-06-30,2,2022,2022-06-24T11:31:58+00:00
+88561,,,,,,,,Level 5*,,,2022-10-01,2023-06-30,2,2022,2022-06-24T11:31:58+00:00
+88444,,,,,,,,Level 2*,,,2022-10-01,2023-06-30,2,2022,2022-06-24T11:31:58+00:00
+88619,,,,,,,,Level 2*,,,2022-10-01,2023-06-30,2,2022,2022-06-24T11:31:58+00:00
+88627,,,,,,,,Level 3A*,,,2022-10-01,2023-06-30,2,2022,2022-06-24T11:31:58+00:00
+88553,,,,,,,,Level 3*,,,2022-10-01,2023-06-30,2,2022,2022-06-24T11:31:58+00:00
+88520,,,,,,,,Level 2*,,,2022-10-01,2023-06-30,2,2022,2022-06-24T11:31:58+00:00
+88615,,,,,,,,Level 1*,,,2022-10-01,2023-06-30,2,2022,2022-06-24T11:31:58+00:00
+88609,,,,,,,,Introductory Level*,,,2022-10-01,2023-06-30,2,2022,2022-06-24T11:31:58+00:00
+88640,,,,,,,,Level 5*,,,2022-10-01,2023-06-30,2,2022,2022-06-24T11:31:58+00:00
+88392,,,,,,,,Level 1*,,,2022-10-01,2023-06-30,2,2022,2022-06-24T11:31:58+00:00
+88644,,,,,,,,Level 6*,,,2022-10-01,2023-06-30,2,2022,2022-06-24T11:31:58+00:00
+88554,,,,,,,,Level 4*,,,2022-10-01,2023-06-30,2,2022,2022-06-24T11:31:58+00:00
+88493,,,,,,,,Introductory Level*,,,2022-10-01,2023-06-30,2,2022,2022-06-24T11:31:58+00:00
+88475,,,,,,,,Level 4*,,,2022-10-01,2023-06-30,2,2022,2022-06-24T11:31:58+00:00
+88623,,,,,,,,Level 3*,,,2022-10-01,2023-06-30,2,2022,2022-06-24T11:31:58+00:00
+88481,,,,,,,,Level 5*,,,2022-10-01,2023-06-30,2,2022,2022-06-24T11:31:58+00:00
+88710,BR100545,Hourly,19.81,,,,,1st year,1,AA,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88714,BR100549,Hourly,19.81,,,,,1st 6 months,1,AA,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+108887,BR103718,Hourly,24.76,,,,,Level 3,1,AD,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+108888,BR103719,Hourly,25.92,,,,,Level 3A,1,AD,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+311,BR89908,Annual,53482,,,,,Managerial staff (Hotels),1,AD,2022-10-01,2023-06-30,3,2022,2022-07-01T17:26:00+00:00
+108883,BR103714,Hourly,23.52,,,,,Level 3,1,AD,2022-10-01,2023-06-30,2,2022,2022-06-24T11:31:58+00:00
+242,BR89890,Weekly,812.6,CR25739,Hourly,21.38,,Introductory level,1,AD,2022-10-01,2023-06-30,4,2022,2022-07-01T17:25:19+00:00
+292,BR89900,Weekly,834.8,CR25748,Hourly,21.97,,Introductory level,1,AD,2022-10-01,2023-06-30,4,2022,2022-07-01T17:27:06+00:00
+88519,BR100366,Hourly,21.38,,,,Introductory,20 years of age,1,AD,2022-10-01,2023-06-30,4,2022,2023-03-15T08:23:35+00:00
+88614,BR100453,Hourly,21.97,,,,Introductory level,20 years of age,1,AD,2022-10-01,2023-06-30,4,2022,2023-03-15T08:18:09+00:00
+88391,BR100248,Hourly,21.38,,,,Introductory Level,20 years of age,1,AD,2022-10-01,2023-06-30,4,2022,2023-03-15T08:17:14+00:00
+90436,BR102179,Weekly,517.5,CR29791,Hourly,13.62,55%,1st year,1,AP,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+90451,BR102185,Weekly,658.63,CR29796,Hourly,17.33,70% of the standard weekly rate,1st 6 months,1,AP,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88379,BR100240,Hourly,12.83,,,,Introductory Level,17 years of age,1,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88518,BR100365,Hourly,19.24,,,,Introductory,19 years of age,1,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88516,BR100363,Hourly,13.9,,,,Introductory,17 years of age,1,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+91139,BR102854,Hourly,18.67,,,,Introductory level,19 years of age,1,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88515,BR100362,Hourly,11.76,,,,Introductory,16 years of age,1,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88390,BR100247,Hourly,18.17,,,,Introductory Level,19 years of age,1,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88612,BR100451,Hourly,15.38,,,,Introductory level,18 years of age,1,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88389,BR100246,Hourly,14.97,,,,Introductory Level,18 years of age,1,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88514,BR100361,Hourly,9.62,,,,Introductory,15 years of age and under,1,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88378,BR100239,Hourly,10.69,,,,Introductory Level,16 years of age and under,1,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88517,BR100364,Hourly,16.04,,,,Introductory,18 years of age,1,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88709,BR100544,Hourly,21.38,,,,,2nd year,2,AA,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88717,BR100552,Hourly,21.05,,,,,2nd 6 months,2,AA,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88711,BR100546,Hourly,21.38,,,,,3rd year,2,AA,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+243,BR89891,Weekly,834.8,CR25740,Hourly,21.97,Food and beverage attendant grade 1; Guest service grade 1; Kitchen attendant grade 1,Level 1,2,AD,2022-10-01,2023-06-30,4,2022,2022-07-01T17:25:19+00:00
+293,BR89901,Weekly,882.9,CR25749,Hourly,23.23,Casino electronic gaming employee grade 1,Level 1,2,AD,2022-10-01,2023-06-30,4,2022,2022-07-01T17:27:06+00:00
+88442,BR100297,Hourly,21.97,,,,Level 1,20 years of age,2,AD,2022-10-01,2023-06-30,4,2022,2023-03-15T08:17:14+00:00
+108889,BR103720,Hourly,26.31,,,,,Level 4,2,AD,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+108884,BR103715,Hourly,24.76,,,,,Level 4,2,AD,2022-10-01,2023-06-30,2,2022,2022-06-24T11:31:58+00:00
+88526,BR100373,Hourly,22.77,,,,Level 2,20 years of age,2,AD,2022-10-01,2023-06-30,4,2022,2023-03-15T08:23:35+00:00
+88618,BR100458,Hourly,23.23,,,,Level 1,20 years of age,2,AD,2022-10-01,2023-06-30,4,2022,2023-03-15T08:18:09+00:00
+90437,BR102180,Weekly,611.59,CR29792,Hourly,16.09,65%,2nd year,2,AP,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+90452,BR102186,Weekly,799.77,CR29797,Hourly,21.05,85% of the standard weekly rate,2nd 6 months,2,AP,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88393,BR100250,Hourly,10.99,,,,Level 1,16 years of age and under,2,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88394,BR100251,Hourly,13.18,,,,Level 1,17 years of age,2,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88525,BR100372,Hourly,20.49,,,,Level 2,19 years of age,2,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88524,BR100371,Hourly,17.08,,,,Level 2,18 years of age,2,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88521,BR100368,Hourly,10.25,,,,Level 2,15 years of age and under,2,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88522,BR100369,Hourly,12.52,,,,Level 2,16 years of age,2,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88441,BR100296,Hourly,18.67,,,,Level 1,19 years of age,2,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88395,BR100252,Hourly,15.38,,,,Level 1,18 years of age,2,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88617,BR100457,Hourly,19.75,,,,Level 1,19 years of age,2,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88616,BR100459,Hourly,16.26,,,,Level 1,18 years of age,2,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88523,BR100370,Hourly,14.8,,,,Level 2,17 years of age,2,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88712,BR100547,Hourly,23.52,,,,,4th year – not attained standard of proficiency,3,AA,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88716,BR100551,Hourly,23.76,,,,,3rd 6 months,3,AA,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+294,BR89902,Weekly,911.4,CR25750,Hourly,23.98,Casino electronic gaming employee grade 2; Casino equipment technician grade 1; Casino table gaming employee grade 1; Customer liaison officer; Gaming finance employee grade 1,Level 2,3,AD,2022-10-01,2023-06-30,4,2022,2022-07-01T17:27:06+00:00
+108890,BR103721,Hourly,27.1,,,,,Level 5,3,AD,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+246,BR89892,Weekly,865.2,CR25741,Hourly,22.77,Clerical grade 1; Cook grade 1; Door person/security officer grade 1; Food and beverage attendant grade 2; Front office grade 1; Gardener grade 1; Guest service grade 2; Kitchen attendant grade 2; Leisure attendant grade 1; Storeperson grade 1,Level 2,3,AD,2022-10-01,2023-06-30,4,2022,2022-07-01T17:25:19+00:00
+88552,BR100398,Hourly,23.52,,,,Level 3,20 years of age,3,AD,2022-10-01,2023-06-30,4,2022,2023-03-15T08:23:35+00:00
+88622,BR100463,Hourly,23.98,,,,Level 2,20 years of age,3,AD,2022-10-01,2023-06-30,4,2022,2023-03-15T08:18:09+00:00
+88448,BR100303,Hourly,22.77,,,,Level 2,20 years of age,3,AD,2022-10-01,2023-06-30,4,2022,2023-03-15T08:17:14+00:00
+108885,BR103716,Hourly,26.31,,,,,Level 5,3,AD,2022-10-01,2023-06-30,2,2022,2022-06-24T11:31:58+00:00
+90453,BR102187,Weekly,903.05,CR29798,Hourly,23.76,Midway between the minimum rate prescribed for Food and beverage attendant grade 2 in Table 3—Minimum rates and the standard weekly rate,3rd 6 months,3,AP,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+90438,BR102181,Weekly,752.72,CR29793,Hourly,19.81,80%,3rd year,3,AP,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88445,BR100300,Hourly,13.66,,,,Level 2,17 years of age,3,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88551,BR100397,Hourly,21.17,,,,Level 3,19 years of age,3,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88549,BR100395,Hourly,15.29,,,,Level 3,17 years of age,3,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88527,BR100374,Hourly,10.58,,,,Level 3,15 years of age and under,3,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88447,BR100302,Hourly,19.35,,,,Level 2,19 years of age,3,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88443,BR100298,Hourly,11.39,,,,Level 2,16 years of age and under,3,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88446,BR100301,Hourly,15.94,,,,Level 2,18 years of age,3,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88620,BR100461,Hourly,16.79,,,,Level 2,18 years of age,3,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88548,BR100394,Hourly,12.94,,,,Level 3,16 years of age,3,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88550,BR100396,Hourly,17.64,,,,Level 3,18 years of age,3,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88621,BR100462,Hourly,20.38,,,,Level 2,19 years of age,3,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88754,BR100580,Hourly,24.26,,,,,4th 6 months – not attained standard of proficiency,4,AA,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88713,BR100548,Hourly,24.76,,,,,4th year – attained standard of proficiency,4,AA,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+108891,BR103722,Hourly,27.88,,,,,Level 6,4,AD,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88474,BR100328,Hourly,23.52,,,,Level 3,20 years of age,4,AD,2022-10-01,2023-06-30,4,2022,2023-03-15T08:17:14+00:00
+302,BR89904,Weekly,985.1,CR25752,Hourly,25.92,Casino table gaming employee grade 2,Level 3A,4,AD,2022-10-01,2023-06-30,5,2022,2022-07-01T17:27:06+00:00
+257,BR89894,Weekly,893.6,CR25743,Hourly,23.52,Clerical grade 2; Cook grade 2; Food and beverage attendant grade 3; Fork-lift driver; Front office grade 2; Gardener grade 2; Guest service grade 3; Handyperson; Kitchen attendant grade 3; Leisure attendant grade 2; Storeperson grade 2; Timekeeper/security officer grade 2,Level 3,4,AD,2022-10-01,2023-06-30,4,2022,2022-07-01T17:25:19+00:00
+299,BR89903,Weekly,940.9,CR25751,Hourly,24.76,Casino equipment technician grade 2; Gaming finance employee grade 2; Security officer grade 1,Level 3,4,AD,2022-10-01,2023-06-30,5,2022,2022-07-01T17:27:06+00:00
+88626,BR100467,Hourly,24.76,,,,Level 3,20 years of age,4,AD,2022-10-01,2023-06-30,4,2022,2023-03-15T08:18:09+00:00
+88560,BR100406,Hourly,24.76,,,,Level 4,20 years of age,4,AD,2022-10-01,2023-06-30,4,2022,2023-03-15T08:23:35+00:00
+88630,BR100471,Hourly,25.92,,,,Level 3A,20 years of age,4,AD,2022-10-01,2023-06-30,4,2022,2023-03-15T08:18:09+00:00
+108886,BR103717,Hourly,27.02,,,,,Level 6,4,AD,2022-10-01,2023-06-30,2,2022,2022-06-24T11:31:58+00:00
+90454,BR102188,Weekly,921.98,CR29799,Hourly,24.26,Midway between the rate specified for the 3rd 6 months and the standard weekly rate,4th 6 months – not attained standard of proficiency,4,AP,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+90439,BR102182,Weekly,893.86,CR29794,Hourly,23.52,95%,4th year – not attained standard of proficiency,4,AP,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88470,BR100324,Hourly,11.76,,,,Level 3,16 years of age and under,4,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88556,BR100402,Hourly,13.62,,,,Level 4,16 years of age,4,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88624,BR100465,Hourly,17.33,,,,Level 3,18 years of age,4,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88472,BR100326,Hourly,16.46,,,,Level 3,18 years of age,4,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88557,BR100403,Hourly,16.09,,,,Level 4,17 years of age,4,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88555,BR100401,Hourly,11.14,,,,Level 4,15 years of age and under,4,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88628,BR100469,Hourly,18.14,,,,Level 3A,18 years of age,4,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88471,BR100325,Hourly,14.11,,,,Level 3,17 years of age,4,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88558,BR100404,Hourly,18.57,,,,Level 4,18 years of age,4,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88625,BR100466,Hourly,21.05,,,,Level 3,19 years of age,4,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88629,BR100470,Hourly,22.03,,,,Level 3A,19 years of age,4,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88473,BR100327,Hourly,19.99,,,,Level 3,19 years of age,4,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88559,BR100405,Hourly,22.28,,,,Level 4,19 years of age,4,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88755,BR100581,Hourly,24.76,,,,,4th 6 months – attained standard of proficiency,5,AA,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+268,BR89895,Weekly,940.9,CR25744,Hourly,24.76,Clerical grade 3; Cook (tradesperson) grade 3; Food and beverage attendant (tradesperson) grade 4; Front office grade 3; Gardener grade 3 (tradesperson); Guest service grade 4; Leisure attendant grade 3; Storeperson grade 3,Level 4,5,AD,2022-10-01,2023-06-30,4,2022,2022-07-01T17:25:19+00:00
+88480,BR100334,Hourly,24.76,,,,Level 4,20 years of age,5,AD,2022-10-01,2023-06-30,4,2022,2023-03-15T08:17:14+00:00
+88639,BR100480,Hourly,26.31,,,,Level 4,20 years of age,5,AD,2022-10-01,2023-06-30,4,2022,2023-03-15T08:18:09+00:00
+88567,BR100413,Hourly,26.31,,,,Level 5,20 years of age,5,AD,2022-10-01,2023-06-30,4,2022,2023-03-15T08:23:35+00:00
+90440,BR102183,Weekly,940.9,CR29795,Hourly,24.76,100%,4th year – attained standard of proficiency,5,AP,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+90455,BR102189,Weekly,940.9,CR29800,Hourly,24.76,100% of the standard weekly rate,4th 6 months – attained standard of proficiency,5,AP,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88479,BR100333,Hourly,21.05,,,,Level 4,19 years of age,5,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88476,BR100330,Hourly,12.38,,,,Level 4,16 years of age and under,5,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88478,BR100332,Hourly,17.33,,,,Level 4,18 years of age,5,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88562,BR100408,Hourly,11.84,,,,Level 5,15 years of age and under,5,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88563,BR100409,Hourly,14.47,,,,Level 5,16 years of age,5,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88566,BR100412,Hourly,23.68,,,,Level 5,19 years of age,5,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88477,BR100331,Hourly,14.86,,,,Level 4,17 years of age,5,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88637,BR100478,Hourly,18.42,,,,Level 4,18 years of age,5,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88564,BR100410,Hourly,17.1,,,,Level 5,17 years of age,5,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88638,BR100479,Hourly,22.36,,,,Level 4,19 years of age,5,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88565,BR100411,Hourly,19.73,,,,Level 5,18 years of age,5,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+276,BR89896,Weekly,999.9,CR25745,Hourly,26.31,Clerical supervisor; Cook (tradesperson) grade 4; Food and beverage supervisor; Front office supervisor; Gardener grade 4 (tradesperson); Guest service supervisor,Level 5,6,AD,2022-10-01,2023-06-30,4,2022,2022-07-01T17:25:19+00:00
+88486,BR100340,Hourly,26.31,,,,Level 5,20 years of age,6,AD,2022-10-01,2023-06-30,4,2022,2023-03-15T08:17:14+00:00
+303,BR89905,Weekly,999.9,CR25753,Hourly,26.31,Casino equipment technician grade 3; Gaming finance employee grade 3; Security officer grade 2,Level 4,6,AD,2022-10-01,2023-06-30,5,2022,2022-07-01T17:27:06+00:00
+88643,BR100484,Hourly,27.1,,,,Level 5,20 years of age,6,AD,2022-10-01,2023-06-30,4,2022,2023-03-15T08:18:09+00:00
+88642,BR100483,Hourly,23.04,,,,Level 5,19 years of age,6,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88485,BR100339,Hourly,22.36,,,,Level 5,19 years of age,6,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88641,BR100482,Hourly,18.97,,,,Level 5,18 years of age,6,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88482,BR100336,Hourly,13.16,,,,Level 5,16 years of age and under,6,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88483,BR100337,Hourly,15.79,,,,Level 5,17 years of age,6,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88484,BR100338,Hourly,18.42,,,,Level 5,18 years of age,6,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88647,BR100488,Hourly,27.88,,,,Level 6,20 years of age,7,AD,2022-10-01,2023-06-30,4,2022,2023-03-15T08:18:09+00:00
+282,BR89897,Weekly,1026.6,CR25746,Hourly,27.02,Cook (tradesperson) grade 5,Level 6,7,AD,2022-10-01,2023-06-30,4,2022,2022-07-01T17:25:19+00:00
+306,BR89906,Weekly,1029.7,CR25754,Hourly,27.1,Casino table gaming employee grade 3; Gaming finance employee grade 4,Level 5,7,AD,2022-10-01,2023-06-30,4,2022,2022-07-01T17:27:06+00:00
+88646,BR100487,Hourly,23.7,,,,Level 6,19 years of age,7,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+88645,BR100486,Hourly,19.52,,,,Level 6,18 years of age,7,JN,2022-10-01,2023-06-30,3,2022,2022-06-24T11:31:58+00:00
+308,BR89907,Weekly,1059.3,CR25755,Hourly,27.88,Casino table gaming employee grade 4; Gaming finance employee grade 5; Surveillance operator,Level 6,8,AD,2022-10-01,2023-06-30,5,2022,2022-07-01T17:27:06+00:00
+88377,,,,,,,,Introductory Level*,,,2021-11-01,2022-09-30,1,2021,2022-06-28T14:29:04+00:00
+88392,,,,,,,,Level 1*,,,2021-11-01,2022-09-30,1,2021,2022-06-28T14:29:04+00:00
+88449,,,,,,,,Level 3*,,,2021-11-01,2022-09-30,1,2021,2022-06-28T14:29:04+00:00
+88444,,,,,,,,Level 2*,,,2021-11-01,2022-09-30,1,2021,2022-06-28T14:29:04+00:00
+88475,,,,,,,,Level 4*,,,2021-11-01,2022-09-30,1,2021,2022-06-28T14:29:04+00:00
+88481,,,,,,,,Level 5*,,,2021-11-01,2022-09-30,1,2021,2022-06-28T14:29:04+00:00
+88493,,,,,,,,Introductory Level*,,,2021-11-01,2022-09-30,1,2021,2022-06-28T14:31:54+00:00
+88520,,,,,,,,Level 2*,,,2021-11-01,2022-09-30,1,2021,2022-06-28T14:31:54+00:00
+88553,,,,,,,,Level 3*,,,2021-11-01,2022-09-30,1,2021,2022-06-28T14:31:54+00:00
+88561,,,,,,,,Level 5*,,,2021-11-01,2022-09-30,1,2021,2022-06-28T14:31:54+00:00
+88554,,,,,,,,Level 4*,,,2021-11-01,2022-09-30,1,2021,2022-06-28T14:31:54+00:00
+88609,,,,,,,,Introductory Level*,,,2021-11-01,2022-09-30,1,2021,2022-06-28T14:30:38+00:00
+88615,,,,,,,,Level 1*,,,2021-11-01,2022-09-30,1,2021,2022-06-28T14:30:38+00:00
+88619,,,,,,,,Level 2*,,,2021-11-01,2022-09-30,1,2021,2022-06-28T14:30:38+00:00
+88623,,,,,,,,Level 3*,,,2021-11-01,2022-09-30,1,2021,2022-06-28T14:30:38+00:00
+88627,,,,,,,,Level 3A*,,,2021-11-01,2022-09-30,1,2021,2022-06-28T14:30:38+00:00
+88636,,,,,,,,Level 4*,,,2021-11-01,2022-09-30,1,2021,2022-06-28T14:30:38+00:00
+88640,,,,,,,,Level 5*,,,2021-11-01,2022-09-30,1,2021,2022-06-28T14:30:38+00:00
+88644,,,,,,,,Level 6*,,,2021-11-01,2022-09-30,1,2021,2022-06-28T14:30:38+00:00
+88710,BR100545,Hourly,18.94,,,,,1st year,1,AA,2021-11-01,2022-09-30,2,2021,2022-06-28T14:33:14+00:00
+88714,BR100549,Hourly,18.94,,,,,1st 6 months,1,AA,2021-11-01,2022-09-30,2,2021,2022-06-28T14:33:29+00:00
+108883,BR103714,Hourly,22.46,,,,,Level 3,1,AD,2021-11-01,2022-09-30,1,2021,2022-06-28T14:33:43+00:00
+108887,BR103718,Hourly,23.67,,,,,Level 3,1,AD,2021-11-01,2022-09-30,2,2021,2022-06-28T14:33:57+00:00
+108888,BR103719,Hourly,24.78,,,,,Level 3A,1,AD,2021-11-01,2022-09-30,2,2021,2022-06-28T14:33:57+00:00
+311,BR89908,Annual,51130,,,,,Managerial staff (Hotels),1,AD,2021-11-01,2022-09-30,1,2021,2022-06-28T14:26:36+00:00
+292,BR89900,Weekly,794.8,CR25748,Hourly,20.92,,Introductory level,1,AD,2021-11-01,2022-09-30,2,2021,2022-06-28T14:27:26+00:00
+242,BR89890,Weekly,772.6,CR25739,Hourly,20.33,,Introductory level,1,AD,2021-11-01,2022-09-30,2,2021,2022-06-28T14:26:10+00:00
+90436,BR102179,Weekly,494.73,CR29791,Hourly,13.02,55%,1st year,1,AP,2021-11-01,2022-09-30,2,2021,2022-06-28T14:32:30+00:00
+90451,BR102185,Weekly,629.65,CR29796,Hourly,16.57,70% of the standard weekly rate,1st 6 months,1,AP,2021-11-01,2022-09-30,2,2021,2022-06-28T14:32:55+00:00
+91139,BR102854,Hourly,17.78,,,,Introductory level,19 years of age,1,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:30:38+00:00
+88379,BR100240,Hourly,12.2,,,,Introductory Level,17 years of age,1,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:29:04+00:00
+88378,BR100239,Hourly,10.17,,,,Introductory Level,16 years of age and under,1,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:29:04+00:00
+88389,BR100246,Hourly,14.23,,,,Introductory Level,18 years of age,1,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:29:04+00:00
+88390,BR100247,Hourly,17.28,,,,Introductory Level,19 years of age,1,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:29:04+00:00
+88391,BR100248,Hourly,20.33,,,,Introductory Level,20 years of age,1,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:29:04+00:00
+88614,BR100453,Hourly,20.92,,,,Introductory level,20 years of age,1,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:30:38+00:00
+88612,BR100451,Hourly,14.64,,,,Introductory level,18 years of age,1,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:30:38+00:00
+88517,BR100364,Hourly,15.25,,,,Introductory,18 years of age,1,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:31:54+00:00
+88518,BR100365,Hourly,18.3,,,,Introductory,19 years of age,1,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:31:54+00:00
+88515,BR100362,Hourly,11.18,,,,Introductory,16 years of age,1,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:31:54+00:00
+88516,BR100363,Hourly,13.21,,,,Introductory,17 years of age,1,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:31:54+00:00
+88519,BR100366,Hourly,20.33,,,,Introductory,20 years of age,1,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:31:54+00:00
+88514,BR100361,Hourly,9.15,,,,Introductory,15 years of age and under,1,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:31:54+00:00
+88709,BR100544,Hourly,20.33,,,,,2nd year,2,AA,2021-11-01,2022-09-30,2,2021,2022-06-28T14:33:14+00:00
+88711,BR100546,Hourly,20.33,,,,,3rd year,2,AA,2021-11-01,2022-09-30,2,2021,2022-06-28T14:33:14+00:00
+88717,BR100552,Hourly,20.12,,,,,2nd 6 months,2,AA,2021-11-01,2022-09-30,2,2021,2022-06-28T14:33:29+00:00
+108884,BR103715,Hourly,23.67,,,,,Level 4,2,AD,2021-11-01,2022-09-30,1,2021,2022-06-28T14:33:43+00:00
+108889,BR103720,Hourly,25.16,,,,,Level 4,2,AD,2021-11-01,2022-09-30,2,2021,2022-06-28T14:33:57+00:00
+293,BR89901,Weekly,842.9,CR25749,Hourly,22.18,Casino electronic gaming employee grade 1,Level 1,2,AD,2021-11-01,2022-09-30,2,2021,2022-06-28T14:27:26+00:00
+243,BR89891,Weekly,794.8,CR25740,Hourly,20.92,Food and beverage attendant grade 1; Guest service grade 1; Kitchen attendant grade 1,Level 1,2,AD,2021-11-01,2022-09-30,2,2021,2022-06-28T14:26:10+00:00
+90452,BR102186,Weekly,764.58,CR29797,Hourly,20.12,85% of the standard weekly rate,2nd 6 months,2,AP,2021-11-01,2022-09-30,2,2021,2022-06-28T14:32:55+00:00
+90437,BR102180,Weekly,584.68,CR29792,Hourly,15.39,65%,2nd year,2,AP,2021-11-01,2022-09-30,2,2021,2022-06-28T14:32:30+00:00
+88394,BR100251,Hourly,12.55,,,,Level 1,17 years of age,2,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:29:04+00:00
+88441,BR100296,Hourly,17.78,,,,Level 1,19 years of age,2,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:29:04+00:00
+88395,BR100252,Hourly,14.64,,,,Level 1,18 years of age,2,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:29:04+00:00
+88393,BR100250,Hourly,10.46,,,,Level 1,16 years of age and under,2,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:29:04+00:00
+88442,BR100297,Hourly,20.92,,,,Level 1,20 years of age,2,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:29:04+00:00
+88523,BR100370,Hourly,14.12,,,,Level 2,17 years of age,2,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:31:54+00:00
+88524,BR100371,Hourly,16.29,,,,Level 2,18 years of age,2,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:31:54+00:00
+88522,BR100369,Hourly,11.95,,,,Level 2,16 years of age,2,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:31:54+00:00
+88521,BR100368,Hourly,9.77,,,,Level 2,15 years of age and under,2,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:31:54+00:00
+88526,BR100373,Hourly,21.72,,,,Level 2,20 years of age,2,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:31:54+00:00
+88525,BR100372,Hourly,19.55,,,,Level 2,19 years of age,2,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:31:54+00:00
+88617,BR100457,Hourly,18.85,,,,Level 1,19 years of age,2,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:30:38+00:00
+88618,BR100458,Hourly,22.18,,,,Level 1,20 years of age,2,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:30:38+00:00
+88616,BR100459,Hourly,15.53,,,,Level 1,18 years of age,2,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:30:38+00:00
+88716,BR100551,Hourly,22.69,,,,,3rd 6 months,3,AA,2021-11-01,2022-09-30,2,2021,2022-06-28T14:33:29+00:00
+88712,BR100547,Hourly,22.49,,,,,4th year – not attained standard of proficiency,3,AA,2021-11-01,2022-09-30,2,2021,2022-06-28T14:33:14+00:00
+108885,BR103716,Hourly,25.16,,,,,Level 5,3,AD,2021-11-01,2022-09-30,1,2021,2022-06-28T14:33:43+00:00
+108890,BR103721,Hourly,25.91,,,,,Level 5,3,AD,2021-11-01,2022-09-30,2,2021,2022-06-28T14:33:57+00:00
+294,BR89902,Weekly,871.3,CR25750,Hourly,22.93,Casino electronic gaming employee grade 2; Casino equipment technician grade 1; Casino table gaming employee grade 1; Customer liaison officer; Gaming finance employee grade 1,Level 2,3,AD,2021-11-01,2022-09-30,2,2021,2022-06-28T14:27:26+00:00
+246,BR89892,Weekly,825.2,CR25741,Hourly,21.72,Clerical grade 1; Cook grade 1; Door person/security officer grade 1; Food and beverage attendant grade 2; Front office grade 1; Gardener grade 1; Guest service grade 2; Kitchen attendant grade 2; Leisure attendant grade 1; Storeperson grade 1,Level 2,3,AD,2021-11-01,2022-09-30,2,2021,2022-06-28T14:26:10+00:00
+90438,BR102181,Weekly,719.6,CR29793,Hourly,18.94,80%,3rd year,3,AP,2021-11-01,2022-09-30,2,2021,2022-06-28T14:32:30+00:00
+90453,BR102187,Weekly,862.35,CR29798,Hourly,22.69,Midway between the minimum rate prescribed for Food and beverage attendant grade 2 in Table 3—Minimum rates and the standard weekly rate,3rd 6 months,3,AP,2021-11-01,2022-09-30,2,2021,2022-06-28T14:32:55+00:00
+88443,BR100298,Hourly,10.86,,,,Level 2,16 years of age and under,3,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:29:04+00:00
+88447,BR100302,Hourly,18.46,,,,Level 2,19 years of age,3,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:29:04+00:00
+88445,BR100300,Hourly,13.03,,,,Level 2,17 years of age,3,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:29:04+00:00
+88448,BR100303,Hourly,21.72,,,,Level 2,20 years of age,3,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:29:04+00:00
+88446,BR100301,Hourly,15.2,,,,Level 2,18 years of age,3,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:29:04+00:00
+88620,BR100461,Hourly,16.05,,,,Level 2,18 years of age,3,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:30:38+00:00
+88622,BR100463,Hourly,22.93,,,,Level 2,20 years of age,3,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:30:38+00:00
+88621,BR100462,Hourly,19.49,,,,Level 2,19 years of age,3,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:30:38+00:00
+88549,BR100395,Hourly,14.6,,,,Level 3,17 years of age,3,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:31:54+00:00
+88527,BR100374,Hourly,10.11,,,,Level 3,15 years of age and under,3,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:31:54+00:00
+88551,BR100397,Hourly,20.21,,,,Level 3,19 years of age,3,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:31:54+00:00
+88552,BR100398,Hourly,22.46,,,,Level 3,20 years of age,3,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:31:54+00:00
+88550,BR100396,Hourly,16.85,,,,Level 3,18 years of age,3,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:31:54+00:00
+88548,BR100394,Hourly,12.35,,,,Level 3,16 years of age,3,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:31:54+00:00
+88713,BR100548,Hourly,23.67,,,,,4th year – attained standard of proficiency,4,AA,2021-11-01,2022-09-30,2,2021,2022-06-28T14:33:14+00:00
+88754,BR100580,Hourly,23.18,,,,,4th 6 months – not attained standard of proficiency,4,AA,2021-11-01,2022-09-30,2,2021,2022-06-28T14:33:29+00:00
+108891,BR103722,Hourly,26.65,,,,,Level 6,4,AD,2021-11-01,2022-09-30,2,2021,2022-06-28T14:33:57+00:00
+108886,BR103717,Hourly,25.83,,,,,Level 6,4,AD,2021-11-01,2022-09-30,1,2021,2022-06-28T14:33:43+00:00
+302,BR89904,Weekly,941.8,CR25752,Hourly,24.78,Casino table gaming employee grade 2,Level 3A,4,AD,2021-11-01,2022-09-30,3,2021,2022-06-28T14:27:26+00:00
+299,BR89903,Weekly,899.5,CR25751,Hourly,23.67,Casino equipment technician grade 2; Gaming finance employee grade 2; Security officer grade 1,Level 3,4,AD,2021-11-01,2022-09-30,3,2021,2022-06-28T14:27:26+00:00
+257,BR89894,Weekly,853.6,CR25743,Hourly,22.46,Clerical grade 2; Cook grade 2; Food and beverage attendant grade 3; Fork-lift driver; Front office grade 2; Gardener grade 2; Guest service grade 3; Handyperson; Kitchen attendant grade 3; Leisure attendant grade 2; Storeperson grade 2; Timekeeper/security officer grade 2,Level 3,4,AD,2021-11-01,2022-09-30,2,2021,2022-06-28T14:26:10+00:00
+90439,BR102182,Weekly,854.53,CR29794,Hourly,22.49,95%,4th year – not attained standard of proficiency,4,AP,2021-11-01,2022-09-30,2,2021,2022-06-28T14:32:30+00:00
+90454,BR102188,Weekly,880.93,CR29799,Hourly,23.18,Midway between the rate specified for the 3rd 6 months and the standard weekly rate,4th 6 months – not attained standard of proficiency,4,AP,2021-11-01,2022-09-30,2,2021,2022-06-28T14:32:55+00:00
+88470,BR100324,Hourly,11.23,,,,Level 3,16 years of age and under,4,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:29:04+00:00
+88471,BR100325,Hourly,13.48,,,,Level 3,17 years of age,4,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:29:04+00:00
+88473,BR100327,Hourly,19.09,,,,Level 3,19 years of age,4,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:29:04+00:00
+88472,BR100326,Hourly,15.72,,,,Level 3,18 years of age,4,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:29:04+00:00
+88474,BR100328,Hourly,22.46,,,,Level 3,20 years of age,4,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:29:04+00:00
+88556,BR100402,Hourly,13.02,,,,Level 4,16 years of age,4,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:31:54+00:00
+88557,BR100403,Hourly,15.39,,,,Level 4,17 years of age,4,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:31:54+00:00
+88555,BR100401,Hourly,10.65,,,,Level 4,15 years of age and under,4,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:31:54+00:00
+88559,BR100405,Hourly,21.3,,,,Level 4,19 years of age,4,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:31:54+00:00
+88560,BR100406,Hourly,23.67,,,,Level 4,20 years of age,4,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:31:54+00:00
+88625,BR100466,Hourly,20.12,,,,Level 3,19 years of age,4,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:30:38+00:00
+88626,BR100467,Hourly,23.67,,,,Level 3,20 years of age,4,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:30:38+00:00
+88628,BR100469,Hourly,17.35,,,,Level 3A,18 years of age,4,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:30:38+00:00
+88630,BR100471,Hourly,24.78,,,,Level 3A,20 years of age,4,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:30:38+00:00
+88629,BR100470,Hourly,21.06,,,,Level 3A,19 years of age,4,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:30:38+00:00
+88624,BR100465,Hourly,16.57,,,,Level 3,18 years of age,4,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:30:38+00:00
+88558,BR100404,Hourly,17.75,,,,Level 4,18 years of age,4,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:31:54+00:00
+88755,BR100581,Hourly,23.67,,,,,4th 6 months – attained standard of proficiency,5,AA,2021-11-01,2022-09-30,2,2021,2022-06-28T14:33:29+00:00
+268,BR89895,Weekly,899.5,CR25744,Hourly,23.67,Clerical grade 3; Cook (tradesperson) grade 3; Food and beverage attendant (tradesperson) grade 4; Front office grade 3; Gardener grade 3 (tradesperson); Guest service grade 4; Leisure attendant grade 3; Storeperson grade 3,Level 4,5,AD,2021-11-01,2022-09-30,2,2021,2022-06-28T14:26:10+00:00
+90455,BR102189,Weekly,899.5,CR29800,Hourly,23.67,100% of the standard weekly rate,4th 6 months – attained standard of proficiency,5,AP,2021-11-01,2022-09-30,2,2021,2022-06-28T14:32:55+00:00
+90440,BR102183,Weekly,899.5,CR29795,Hourly,23.67,100%,4th year – attained standard of proficiency,5,AP,2021-11-01,2022-09-30,2,2021,2022-06-28T14:32:30+00:00
+88478,BR100332,Hourly,16.57,,,,Level 4,18 years of age,5,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:29:04+00:00
+88479,BR100333,Hourly,20.12,,,,Level 4,19 years of age,5,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:29:04+00:00
+88476,BR100330,Hourly,11.84,,,,Level 4,16 years of age and under,5,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:29:04+00:00
+88477,BR100331,Hourly,14.2,,,,Level 4,17 years of age,5,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:29:04+00:00
+88565,BR100411,Hourly,18.87,,,,Level 5,18 years of age,5,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:31:54+00:00
+88563,BR100409,Hourly,13.84,,,,Level 5,16 years of age,5,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:31:54+00:00
+88567,BR100413,Hourly,25.16,,,,Level 5,20 years of age,5,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:31:54+00:00
+88638,BR100479,Hourly,21.39,,,,Level 4,19 years of age,5,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:30:38+00:00
+88639,BR100480,Hourly,25.16,,,,Level 4,20 years of age,5,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:30:38+00:00
+88637,BR100478,Hourly,17.61,,,,Level 4,18 years of age,5,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:30:38+00:00
+88564,BR100410,Hourly,16.35,,,,Level 5,17 years of age,5,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:31:54+00:00
+88562,BR100408,Hourly,11.32,,,,Level 5,15 years of age and under,5,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:31:54+00:00
+88566,BR100412,Hourly,22.64,,,,Level 5,19 years of age,5,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:31:54+00:00
+88480,BR100334,Hourly,23.67,,,,Level 4,20 years of age,5,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:29:04+00:00
+303,BR89905,Weekly,955.9,CR25753,Hourly,25.16,Casino equipment technician grade 3; Gaming finance employee grade 3; Security officer grade 2,Level 4,6,AD,2021-11-01,2022-09-30,3,2021,2022-06-28T14:27:26+00:00
+276,BR89896,Weekly,955.9,CR25745,Hourly,25.16,Clerical supervisor; Cook (tradesperson) grade 4; Food and beverage supervisor; Front office supervisor; Gardener grade 4 (tradesperson); Guest service supervisor,Level 5,6,AD,2021-11-01,2022-09-30,2,2021,2022-06-28T14:26:10+00:00
+88483,BR100337,Hourly,15.1,,,,Level 5,17 years of age,6,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:29:04+00:00
+88484,BR100338,Hourly,17.61,,,,Level 5,18 years of age,6,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:29:04+00:00
+88482,BR100336,Hourly,12.58,,,,Level 5,16 years of age and under,6,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:29:04+00:00
+88486,BR100340,Hourly,25.16,,,,Level 5,20 years of age,6,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:29:04+00:00
+88485,BR100339,Hourly,21.39,,,,Level 5,19 years of age,6,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:29:04+00:00
+88641,BR100482,Hourly,18.14,,,,Level 5,18 years of age,6,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:30:38+00:00
+88643,BR100484,Hourly,25.91,,,,Level 5,20 years of age,6,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:30:38+00:00
+88642,BR100483,Hourly,22.02,,,,Level 5,19 years of age,6,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:30:38+00:00
+306,BR89906,Weekly,984.4,CR25754,Hourly,25.91,Casino table gaming employee grade 3; Gaming finance employee grade 4,Level 5,7,AD,2021-11-01,2022-09-30,2,2021,2022-06-28T14:27:26+00:00
+282,BR89897,Weekly,981.5,CR25746,Hourly,25.83,Cook (tradesperson) grade 5,Level 6,7,AD,2021-11-01,2022-09-30,2,2021,2022-06-28T14:26:10+00:00
+88645,BR100486,Hourly,18.66,,,,Level 6,18 years of age,7,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:30:38+00:00
+88646,BR100487,Hourly,22.65,,,,Level 6,19 years of age,7,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:30:38+00:00
+88647,BR100488,Hourly,26.65,,,,Level 6,20 years of age,7,JN,2021-11-01,2022-09-30,2,2021,2022-06-28T14:30:38+00:00
+308,BR89907,Weekly,1012.7,CR25755,Hourly,26.65,Casino table gaming employee grade 4; Gaming finance employee grade 5; Surveillance operator,Level 6,8,AD,2021-11-01,2022-09-30,3,2021,2022-06-28T14:27:26+00:00
+257,,Weekly,832.8,,Hourly,21.92,Clerical grade 2; Cook grade 2; Food and beverage attendant grade 3; Fork-lift driver; Front office grade 2; Gardener grade 2; Guest service grade 3; Handyperson; Kitchen attendant grade 3; Leisure attendant grade 2; Storeperson grade 2; Timekeeper/security officer grade 2,Level 3,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+243,,Weekly,775.4,,Hourly,20.41,Food and beverage attendant grade 1; Guest service grade 1; Kitchen attendant grade 1,Level 1,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+276,,Weekly,932.6,,Hourly,24.54,Clerical supervisor; Cook (tradesperson) grade 4; Food and beverage supervisor; Front office supervisor; Gardener grade 4 (tradesperson); Guest service supervisor,Level 5,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+242,,Weekly,753.8,,Hourly,19.84,,Introductory level,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+268,,Weekly,877.6,,Hourly,23.09,Clerical grade 3; Cook (tradesperson) grade 3; Food and beverage attendant (tradesperson) grade 4; Front office grade 3; Gardener grade 3 (tradesperson); Guest service grade 4; Leisure attendant grade 3; Storeperson grade 3,Level 4,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+246,,Weekly,805.1,,Hourly,21.19,Clerical grade 1; Cook grade 1; Door person/security officer grade 1; Food and beverage attendant grade 2; Front office grade 1; Gardener grade 1; Guest service grade 2; Kitchen attendant grade 2; Leisure attendant grade 1; Storeperson grade 1,Level 2,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+282,,Weekly,957.6,,Hourly,25.2,Cook (tradesperson) grade 5,Level 6,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+292,,Weekly,775.4,,Hourly,20.41,,Introductory level,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+293,,Weekly,822.3,,Hourly,21.64,Casino electronic gaming employee grade 1,Level 1,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+303,,Weekly,932.6,,Hourly,24.54,Casino equipment technician grade 3; Gaming finance employee grade 3; Security officer grade 2,Level 4,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+299,,Weekly,877.6,,Hourly,23.09,Casino equipment technician grade 2; Gaming finance employee grade 2; Security officer grade 1,Level 3,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+308,,Weekly,988,,Hourly,26,Casino table gaming employee grade 4; Gaming finance employee grade 5; Surveillance operator,Level 6,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+294,,Weekly,850,,Hourly,22.37,Casino electronic gaming employee grade 2; Casino equipment technician grade 1; Casino table gaming employee grade 1; Customer liaison officer; Gaming finance employee grade 1,Level 2,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+306,,Weekly,960.4,,Hourly,25.27,Casino table gaming employee grade 3; Gaming finance employee grade 4,Level 5,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+302,,Weekly,918.8,,Hourly,24.18,Casino table gaming employee grade 2,Level 3A,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+311,,Annual,49883,,,,,Managerial staff (Hotels),,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88377,,,,,,,,Introductory Level*,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88378,,Hourly,9.92,,,,Introductory Level,16 years of age and under,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88379,,Hourly,11.9,,,,Introductory Level,17 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88392,,,,,,,,Level 1*,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88390,,Hourly,16.86,,,,Introductory Level,19 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88394,,Hourly,12.25,,,,Level 1,17 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88389,,Hourly,13.89,,,,Introductory Level,18 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88393,,Hourly,10.21,,,,Level 1,16 years of age and under,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88391,,Hourly,19.84,,,,Introductory Level,20 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88395,,Hourly,14.29,,,,Level 1,18 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88441,,Hourly,17.35,,,,Level 1,19 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88445,,Hourly,12.71,,,,Level 2,17 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88443,,Hourly,10.6,,,,Level 2,16 years of age and under,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88447,,Hourly,18.01,,,,Level 2,19 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88442,,Hourly,20.41,,,,Level 1,20 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88446,,Hourly,14.83,,,,Level 2,18 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88444,,,,,,,,Level 2*,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88448,,Hourly,21.19,,,,Level 2,20 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88449,,,,,,,,Level 3*,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88473,,Hourly,18.63,,,,Level 3,19 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88471,,Hourly,13.15,,,,Level 3,17 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88475,,,,,,,,Level 4*,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88470,,Hourly,10.96,,,,Level 3,16 years of age and under,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88474,,Hourly,21.92,,,,Level 3,20 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88472,,Hourly,15.34,,,,Level 3,18 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88476,,Hourly,11.55,,,,Level 4,16 years of age and under,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88477,,Hourly,13.85,,,,Level 4,17 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88481,,,,,,,,Level 5*,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88479,,Hourly,19.63,,,,Level 4,19 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88483,,Hourly,14.72,,,,Level 5,17 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88478,,Hourly,16.16,,,,Level 4,18 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88482,,Hourly,12.27,,,,Level 5,16 years of age and under,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88480,,Hourly,23.09,,,,Level 4,20 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88484,,Hourly,17.18,,,,Level 5,18 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88485,,Hourly,20.86,,,,Level 5,19 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88486,,Hourly,24.54,,,,Level 5,20 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88493,,,,,,,,Introductory Level*,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88514,,Hourly,8.93,,,,Introductory,15 years of age and under,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88518,,Hourly,17.86,,,,Introductory,19 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88516,,Hourly,12.9,,,,Introductory,17 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88520,,,,,,,,Level 2*,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88515,,Hourly,10.91,,,,Introductory,16 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88519,,Hourly,19.84,,,,Introductory,20 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88517,,Hourly,14.88,,,,Introductory,18 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88521,,Hourly,9.54,,,,Level 2,15 years of age and under,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88522,,Hourly,11.65,,,,Level 2,16 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88526,,Hourly,21.19,,,,Level 2,20 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88524,,Hourly,15.89,,,,Level 2,18 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88548,,Hourly,12.06,,,,Level 3,16 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88523,,Hourly,13.77,,,,Level 2,17 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88527,,Hourly,9.86,,,,Level 3,15 years of age and under,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88525,,Hourly,19.07,,,,Level 2,19 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88549,,Hourly,14.25,,,,Level 3,17 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88550,,Hourly,16.44,,,,Level 3,18 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88554,,,,,,,,Level 4*,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88552,,Hourly,21.92,,,,Level 3,20 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88556,,Hourly,12.7,,,,Level 4,16 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88551,,Hourly,19.73,,,,Level 3,19 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88555,,Hourly,10.39,,,,Level 4,15 years of age and under,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88553,,,,,,,,Level 3*,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88557,,Hourly,15.01,,,,Level 4,17 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88558,,Hourly,17.32,,,,Level 4,18 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88562,,Hourly,11.04,,,,Level 5,15 years of age and under,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88560,,Hourly,23.09,,,,Level 4,20 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88564,,Hourly,15.95,,,,Level 5,17 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88559,,Hourly,20.78,,,,Level 4,19 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88563,,Hourly,13.5,,,,Level 5,16 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88561,,,,,,,,Level 5*,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88565,,Hourly,18.41,,,,Level 5,18 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88566,,Hourly,22.09,,,,Level 5,19 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88567,,Hourly,24.54,,,,Level 5,20 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88609,,,,,,,,Introductory Level*,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88614,,Hourly,20.41,,,,Introductory level,20 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88616,,Hourly,15.15,,,,Level 1,18 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88615,,,,,,,,Level 1*,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88612,,Hourly,14.29,,,,Introductory level,18 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88617,,Hourly,18.39,,,,Level 1,19 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88618,,Hourly,21.64,,,,Level 1,20 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88622,,Hourly,22.37,,,,Level 2,20 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88620,,Hourly,15.66,,,,Level 2,18 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88624,,Hourly,16.16,,,,Level 3,18 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88619,,,,,,,,Level 2*,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88623,,,,,,,,Level 3*,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88621,,Hourly,19.01,,,,Level 2,19 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88625,,Hourly,19.63,,,,Level 3,19 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88626,,Hourly,23.09,,,,Level 3,20 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88630,,Hourly,24.18,,,,Level 3A,20 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88628,,Hourly,16.93,,,,Level 3A,18 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88637,,Hourly,17.18,,,,Level 4,18 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88627,,,,,,,,Level 3A*,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88636,,,,,,,,Level 4*,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88629,,Hourly,20.55,,,,Level 3A,19 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88638,,Hourly,20.86,,,,Level 4,19 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88639,,Hourly,24.54,,,,Level 4,20 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88643,,Hourly,25.27,,,,Level 5,20 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88641,,Hourly,17.69,,,,Level 5,18 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88645,,Hourly,18.2,,,,Level 6,18 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88640,,,,,,,,Level 5*,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88644,,,,,,,,Level 6*,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88642,,Hourly,21.48,,,,Level 5,19 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88646,,Hourly,22.1,,,,Level 6,19 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88647,,Hourly,26,,,,Level 6,20 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+90438,,Weekly,702.08,,Hourly,18.48,80%,3rd year,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+90436,,Weekly,482.68,,Hourly,12.7,55%,1st year,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+90440,,Weekly,877.6,,Hourly,23.09,100%,4th year – attained standard of proficiency,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+91139,,Hourly,17.35,,,,Introductory level,19 years of age,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+90439,,Weekly,833.72,,Hourly,21.94,95%,4th year – not attained standard of proficiency,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+90437,,Weekly,570.44,,Hourly,15.01,65%,2nd year,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+90451,,Weekly,614.32,,Hourly,16.17,70% of the standard weekly rate,1st 6 months,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+90455,,Weekly,877.6,,Hourly,23.09,100% of the standard weekly rate,4th 6 months – attained standard of proficiency,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+90453,,Weekly,841.35,,Hourly,22.14,Midway between the minimum rate prescribed for Food and beverage attendant grade 2 in Table 3—Minimum rates and the standard weekly rate,3rd 6 months,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88709,,Hourly,19.84,,,,,2nd year,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+90452,,Weekly,745.96,,Hourly,19.63,85% of the standard weekly rate,2nd 6 months,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+90454,,Weekly,859.48,,Hourly,22.62,Midway between the rate specified for the 3rd 6 months and the standard weekly rate,4th 6 months – not attained standard of proficiency,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88710,,Hourly,18.48,,,,,1st year,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88711,,Hourly,19.84,,,,,3rd year,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88716,,Hourly,22.14,,,,,3rd 6 months,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88713,,Hourly,23.09,,,,,4th year – attained standard of proficiency,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88754,,Hourly,22.62,,,,,4th 6 months – not attained standard of proficiency,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88712,,Hourly,21.94,,,,,4th year – not attained standard of proficiency,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88717,,Hourly,19.63,,,,,2nd 6 months,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88714,,Hourly,18.48,,,,,1st 6 months,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+88755,,Hourly,23.09,,,,,4th 6 months – attained standard of proficiency,,,2021-02-01,2021-10-31,,2020,2022-03-03T18:52:51+00:00
+108883,,Hourly,21.92,,,,,Level 3,,,2021-09-03,2021-10-31,,2020,2023-04-05T17:23:42+00:00
+108887,,Hourly,23.09,,,,,Level 3,,,2021-09-03,2021-10-31,,2020,2023-04-05T17:23:42+00:00
+108885,,Hourly,24.54,,,,,Level 5,,,2021-09-03,2021-10-31,,2020,2023-04-05T17:23:42+00:00
+108889,,Hourly,24.54,,,,,Level 4,,,2021-09-03,2021-10-31,,2020,2023-04-05T17:23:42+00:00
+108884,,Hourly,23.09,,,,,Level 4,,,2021-09-03,2021-10-31,,2020,2023-04-05T17:23:42+00:00
+108888,,Hourly,24.18,,,,,Level 3A,,,2021-09-03,2021-10-31,,2020,2023-04-05T17:23:42+00:00
+108886,,Hourly,25.2,,,,,Level 6,,,2021-09-03,2021-10-31,,2020,2023-04-05T17:23:42+00:00
+108890,,Monthly,25.27,,,,,Level 5,,,2021-09-03,2021-10-31,,2020,2023-04-05T17:23:42+00:00
+108891,,Hourly,26,,,,,Level 6,,,2021-09-03,2021-10-31,,2020,2023-04-05T17:23:42+00:00
+242,,Weekly,740.8,,Hourly,19.49,,Introductory,,,2019-07-01,2021-01-31,,2019,2022-03-03T18:52:51+00:00
+243,,Weekly,762.1,,Hourly,20.06,Level 1,Food and beverage attendant grade 1,,,2019-07-01,2021-01-31,,2019,2022-03-03T18:52:51+00:00
+244,,Weekly,762.1,,Hourly,20.06,Level 1,Guest service grade 1,,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+248,,Weekly,791.3,,Hourly,20.82,Level 2,Door person/security officer grade 1,,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+246,,Weekly,791.3,,Hourly,20.82,Level 2,Clerical grade 1,,,2019-07-01,2021-01-31,,2019,2022-03-03T18:52:51+00:00
+250,,Weekly,791.3,,Hourly,20.82,Level 2,Front office grade 1,,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+245,,Weekly,762.1,,Hourly,20.06,Level 1,Kitchen attendant grade 1,,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+249,,Weekly,791.3,,Hourly,20.82,Level 2,Food and beverage attendant grade 2,,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+247,,Weekly,791.3,,Hourly,20.82,Level 2,Cook grade 1,,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+251,,Weekly,791.3,,Hourly,20.82,Level 2,Guest service grade 2,,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+252,,Weekly,791.3,,Hourly,20.82,Level 2,Kitchen attendant grade 2,,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+256,,Weekly,818.5,,Hourly,21.54,Level 3,Clerical grade 2,,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+254,,Weekly,791.3,,Hourly,20.82,Level 2,Gardener grade 1,,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+258,,Weekly,818.5,,Hourly,21.54,Level 3,Food and beverage attendant grade 3,,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+253,,Weekly,791.3,,Hourly,20.82,Level 2,Leisure attendant grade 1,,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+257,,Weekly,818.5,,Hourly,21.54,Level 3,Cook grade 2,,,2019-07-01,2021-01-31,,2019,2022-03-03T18:52:51+00:00
+255,,Weekly,791.3,,Hourly,20.82,Level 2,Storeperson grade 1,,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+259,,Weekly,818.5,,Hourly,21.54,Level 3,Fork-lift driver,,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+260,,Weekly,818.5,,Hourly,21.54,Level 3,Front office grade 2,,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+264,,Weekly,818.5,,Hourly,21.54,Level 3,Leisure attendant grade 2,,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+262,,Weekly,818.5,,Hourly,21.54,Level 3,Handyperson,,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+266,,Weekly,818.5,,Hourly,21.54,Level 3,Storeperson grade 2,,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+261,,Weekly,818.5,,Hourly,21.54,Level 3,Guest service grade 3,,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+265,,Weekly,818.5,,Hourly,21.54,Level 3,Gardener grade 2,,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+263,,Weekly,818.5,,Hourly,21.54,Level 3,Kitchen attendant grade 3,,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+267,,Weekly,818.5,,Hourly,21.54,Level 3,Timekeeper/security officer grade 2,,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+268,,Weekly,862.5,,Hourly,22.7,Level 4,Clerical grade 3,,,2019-07-01,2021-01-31,,2019,2022-03-03T18:52:51+00:00
+272,,Weekly,862.5,,Hourly,22.7,Level 4,Guest service grade 4,,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+270,,Weekly,862.5,,Hourly,22.7,Level 4,Food and beverage attendant (tradesperson) grade 4,,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+274,,Weekly,862.5,,Hourly,22.7,Level 4,Gardener grade 3 (tradesperson),,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+269,,Weekly,862.5,,Hourly,22.7,Level 4,Cook (tradesperson) grade 3,,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+273,,Weekly,862.5,,Hourly,22.7,Level 4,Leisure attendant grade 3,,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+271,,Weekly,862.5,,Hourly,22.7,Level 4,Front office grade 3,,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+275,,Weekly,862.5,,Hourly,22.7,Level 4,Storeperson grade 3,,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+276,,Weekly,916.6,,Hourly,24.12,Level 5,Clerical supervisor,,,2019-07-01,2021-01-31,,2019,2022-03-03T18:52:51+00:00
+280,,Weekly,916.6,,Hourly,24.12,Level 5,Guest service supervisor,,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+278,,Weekly,916.6,,Hourly,24.12,Level 5,Food and beverage supervisor,,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+282,,Weekly,941.1,,Hourly,24.77,Level 6,Cook (tradesperson) grade 5,,,2019-07-01,2021-01-31,,2019,2022-03-03T18:52:51+00:00
+277,,Weekly,916.6,,Hourly,24.12,Level 5,Cook (tradesperson) grade 4,,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+281,,Weekly,916.6,,Hourly,24.12,Level 5,Gardener grade 4 (tradesperson),,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+279,,Weekly,916.6,,Hourly,24.12,Level 5,Front office supervisor,,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+283,,Annual,49025,,,,,Managerial staff (Hotels),,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+292,,Weekly,762.1,,Hourly,20.06,,Introductory,,,2019-07-01,2021-01-31,,2019,2022-03-03T18:52:51+00:00
+293,,Weekly,808.2,,Hourly,21.27,Level 1,Casino electronic gaming employee grade 1,,,2019-07-01,2021-01-31,,2019,2022-03-03T18:52:51+00:00
+297,,Weekly,835.4,,Hourly,21.98,Level 2,Customer liaison officer,,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+295,,Weekly,835.4,,Hourly,21.98,Level 2,Casino equipment technician grade 1,,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+299,,Weekly,862.5,,Hourly,22.7,Level 3,Casino equipment technician grade 2,,,2019-07-01,2021-01-31,,2019,2022-03-03T18:52:51+00:00
+294,,Weekly,835.4,,Hourly,21.98,Level 2,Casino electronic gaming employee grade 2,,,2019-07-01,2021-01-31,,2019,2022-03-03T18:52:51+00:00
+298,,Weekly,835.4,,Hourly,21.98,Level 2,Gaming finance employee grade 1,,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+296,,Weekly,835.4,,Hourly,21.98,Level 2,Casino table gaming employee grade 1,,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+300,,Weekly,862.5,,Hourly,22.7,Level 3,Gaming finance employee grade 2,,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+301,,Weekly,862.5,,Hourly,22.7,Level 3,Security officer grade 1,,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+305,,Weekly,916.6,,Hourly,24.12,Level 4,Security officer grade 2,,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+303,,Weekly,916.6,,Hourly,24.12,Level 4,Casino equipment technician grade 3,,,2019-07-01,2021-01-31,,2019,2022-03-03T18:52:51+00:00
+307,,Weekly,943.9,,Hourly,24.84,Level 5,Gaming finance employee grade 4,,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+302,,Weekly,903,,Hourly,23.76,Level 3A,Casino table gaming employee grade 2,,,2019-07-01,2021-01-31,,2019,2022-03-03T18:52:51+00:00
+306,,Weekly,943.9,,Hourly,24.84,Level 5,Casino table gaming employee grade 3,,,2019-07-01,2021-01-31,,2019,2022-03-03T18:52:51+00:00
+304,,Weekly,916.6,,Hourly,24.12,Level 4,Gaming finance employee grade 3,,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+308,,Weekly,971,,Hourly,25.55,Level 6,Casino table gaming employee grade 4,,,2019-07-01,2021-01-31,,2019,2022-03-03T18:52:51+00:00
+309,,Weekly,971,,Hourly,25.55,Level 6,Gaming finance employee grade 5,,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+311,,Annual,49025,,Annual,61281,,Salaries absorption (Managerial Staff (Hotels))—minimum amount,,,2019-07-01,2021-01-31,,2019,2023-04-05T09:46:37+00:00
+310,,Weekly,971,,Hourly,25.55,Level 6,Surveillance operator,,,2019-07-01,2021-01-31,,2019,2023-04-05T17:19:29+00:00
+244,,Weekly,739.9,,Hourly,19.47,Level 1,Guest service grade 1,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+242,,Weekly,719.2,,Hourly,18.93,,Introductory,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+246,,Weekly,768.3,,Hourly,20.22,Level 2,Clerical grade 1,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+245,,Weekly,739.9,,Hourly,19.47,Level 1,Kitchen attendant grade 1,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+243,,Weekly,739.9,,Hourly,19.47,Level 1,Food and beverage attendant grade 1,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+247,,Weekly,768.3,,Hourly,20.22,Level 2,Cook grade 1,,,2018-07-01,2019-06-30,,2018,2023-03-06T10:21:51+00:00
+248,,Weekly,768.3,,Hourly,20.22,Level 2,Door person/security officer grade 1,,,2018-07-01,2019-06-30,,2018,2023-03-06T10:21:51+00:00
+252,,Weekly,768.3,,Hourly,20.22,Level 2,Kitchen attendant grade 2,,,2018-07-01,2019-06-30,,2018,2023-03-06T10:21:51+00:00
+250,,Weekly,768.3,,Hourly,20.22,Level 2,Front office grade 1,,,2018-07-01,2019-06-30,,2018,2023-03-06T10:21:51+00:00
+254,,Weekly,768.3,,Hourly,20.22,Level 2,Gardener grade 1,,,2018-07-01,2019-06-30,,2018,2023-03-06T10:21:51+00:00
+249,,Weekly,768.3,,Hourly,20.22,Level 2,Food and beverage attendant grade 2,,,2018-07-01,2019-06-30,,2018,2023-03-06T10:21:51+00:00
+253,,Weekly,768.3,,Hourly,20.22,Level 2,Leisure attendant grade 1,,,2018-07-01,2019-06-30,,2018,2023-03-06T10:21:51+00:00
+251,,Weekly,768.3,,Hourly,20.22,Level 2,Guest service grade 2,,,2018-07-01,2019-06-30,,2018,2023-03-06T10:21:51+00:00
+255,,Weekly,768.3,,Hourly,20.22,Level 2,Storeperson grade 1,,,2018-07-01,2019-06-30,,2018,2023-03-06T10:21:51+00:00
+256,,Weekly,794.7,,Hourly,20.91,Level 3,Clerical grade 2,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+260,,Weekly,794.7,,Hourly,20.91,Level 3,Front office grade 2,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+258,,Weekly,794.7,,Hourly,20.91,Level 3,Food and beverage attendant grade 3,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+262,,Weekly,794.7,,Hourly,20.91,Level 3,Handyperson,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+257,,Weekly,794.7,,Hourly,20.91,Level 3,Cook grade 2,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+261,,Weekly,794.7,,Hourly,20.91,Level 3,Guest service grade 3,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+259,,Weekly,794.7,,Hourly,20.91,Level 3,Fork-lift driver,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+263,,Weekly,794.7,,Hourly,20.91,Level 3,Kitchen attendant grade 3,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+264,,Weekly,794.7,,Hourly,20.91,Level 3,Leisure attendant grade 2,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+268,,Weekly,837.4,,Hourly,22.04,Level 4,Clerical grade 3,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+266,,Weekly,794.7,,Hourly,20.91,Level 3,Storeperson grade 2,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+270,,Weekly,837.4,,Hourly,22.04,Level 4,Food and beverage attendant (tradesperson) grade 4,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+265,,Weekly,794.7,,Hourly,20.91,Level 3,Gardener grade 2,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+269,,Weekly,837.4,,Hourly,22.04,Level 4,Cook (tradesperson) grade 3,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+267,,Weekly,794.7,,Hourly,20.91,Level 3,Timekeeper/security officer grade 2,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+271,,Weekly,837.4,,Hourly,22.04,Level 4,Front office grade 3,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+272,,Weekly,837.4,,Hourly,22.04,Level 4,Guest service grade 4,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+276,,Weekly,889.9,,Hourly,23.42,Level 5,Clerical supervisor,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+274,,Weekly,837.4,,Hourly,22.04,Level 4,Gardener grade 3 (tradesperson),,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+278,,Weekly,889.9,,Hourly,23.42,Level 5,Food and beverage supervisor,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+273,,Weekly,837.4,,Hourly,22.04,Level 4,Leisure attendant grade 3,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+277,,Weekly,889.9,,Hourly,23.42,Level 5,Cook (tradesperson) grade 4,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+275,,Weekly,837.4,,Hourly,22.04,Level 4,Storeperson grade 3,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+279,,Weekly,889.9,,Hourly,23.42,Level 5,Front office supervisor,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+280,,Weekly,889.9,,Hourly,23.42,Level 5,Guest service supervisor,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+282,,Weekly,913.7,,Hourly,24.04,Level 6,Cook (tradesperson) grade 5,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+281,,Weekly,889.9,,Hourly,23.42,Level 5,Gardener grade 4 (tradesperson),,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+283,,Annual,47597,,,,,Managerial staff (Hotels),,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+293,,Weekly,784.7,,Hourly,20.65,Level 1,Casino electronic gaming employee grade 1,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+295,,Weekly,811.1,,Hourly,21.34,Level 2,Casino equipment technician grade 1,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+294,,Weekly,811.1,,Hourly,21.34,Level 2,Casino electronic gaming employee grade 2,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+292,,Weekly,739.9,,Hourly,19.47,,Introductory,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+296,,Weekly,811.1,,Hourly,21.34,Level 2,Casino table gaming employee grade 1,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+297,,Weekly,811.1,,Hourly,21.34,Level 2,Customer liaison officer,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+301,,Weekly,837.4,,Hourly,22.04,Level 3,Security officer grade 1,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+299,,Weekly,837.4,,Hourly,22.04,Level 3,Casino equipment technician grade 2,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+303,,Weekly,889.9,,Hourly,23.42,Level 4,Casino equipment technician grade 3,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+298,,Weekly,811.1,,Hourly,21.34,Level 2,Gaming finance employee grade 1,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+302,,Weekly,876.7,,Hourly,23.07,Level 3A,Casino table gaming employee grade 2,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+300,,Weekly,837.4,,Hourly,22.04,Level 3,Gaming finance employee grade 2,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+304,,Weekly,889.9,,Hourly,23.42,Level 4,Gaming finance employee grade 3,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+305,,Weekly,889.9,,Hourly,23.42,Level 4,Security officer grade 2,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+309,,Weekly,942.7,,Hourly,24.81,Level 6,Gaming finance employee grade 5,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+307,,Weekly,916.4,,Hourly,24.12,Level 5,Gaming finance employee grade 4,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+311,,Annual,47597,,Annual,59496,,Salaries absorption (Managerial Staff (Hotels))—minimum amount,,,2018-07-01,2019-06-30,,2018,2023-04-05T09:46:44+00:00
+306,,Weekly,916.4,,Hourly,24.12,Level 5,Casino table gaming employee grade 3,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+310,,Weekly,942.7,,Hourly,24.81,Level 6,Surveillance operator,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+308,,Weekly,942.7,,Hourly,24.81,Level 6,Casino table gaming employee grade 4,,,2018-07-01,2019-06-30,,2018,2022-02-15T15:47:09+00:00
+243,,Weekly,714.9,,Hourly,18.81,Level 1,Food and beverage attendant grade 1,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+242,,Weekly,694.9,,Hourly,18.29,,Introductory,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+244,,Weekly,714.9,,Hourly,18.81,Level 1,Guest service grade 1,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+245,,Weekly,714.9,,Hourly,18.81,Level 1,Kitchen attendant grade 1,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+249,,Weekly,742.3,,Hourly,19.53,Level 2,Food and beverage attendant grade 2,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+247,,Weekly,742.3,,Hourly,19.53,Level 2,Cook grade 1,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+251,,Weekly,742.3,,Hourly,19.53,Level 2,Guest service grade 2,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+246,,Weekly,742.3,,Hourly,19.53,Level 2,Clerical grade 1,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+250,,Weekly,742.3,,Hourly,19.53,Level 2,Front office grade 1,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+248,,Weekly,742.3,,Hourly,19.53,Level 2,Door person/security officer grade 1,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+252,,Weekly,742.3,,Hourly,19.53,Level 2,Kitchen attendant grade 2,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+253,,Weekly,742.3,,Hourly,19.53,Level 2,Leisure attendant grade 1,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+257,,Weekly,767.8,,Hourly,20.21,Level 3,Cook grade 2,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+255,,Weekly,742.3,,Hourly,19.53,Level 2,Storeperson grade 1,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+259,,Weekly,767.8,,Hourly,20.21,Level 3,Fork-lift driver,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+254,,Weekly,742.3,,Hourly,19.53,Level 2,Gardener grade 1,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+258,,Weekly,767.8,,Hourly,20.21,Level 3,Food and beverage attendant grade 3,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+256,,Weekly,767.8,,Hourly,20.21,Level 3,Clerical grade 2,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+260,,Weekly,767.8,,Hourly,20.21,Level 3,Front office grade 2,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+261,,Weekly,767.8,,Hourly,20.21,Level 3,Guest service grade 3,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+265,,Weekly,767.8,,Hourly,20.21,Level 3,Gardener grade 2,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+263,,Weekly,767.8,,Hourly,20.21,Level 3,Kitchen attendant grade 3,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+267,,Weekly,767.8,,Hourly,20.21,Level 3,Timekeeper/security officer grade 2,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+262,,Weekly,767.8,,Hourly,20.21,Level 3,Handyperson,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+266,,Weekly,767.8,,Hourly,20.21,Level 3,Storeperson grade 2,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+264,,Weekly,767.8,,Hourly,20.21,Level 3,Leisure attendant grade 2,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+268,,Weekly,809.1,,Hourly,21.29,Level 4,Clerical grade 3,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+269,,Weekly,809.1,,Hourly,21.29,Level 4,Cook (tradesperson) grade 3,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+273,,Weekly,809.1,,Hourly,21.29,Level 4,Leisure attendant grade 3,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+271,,Weekly,809.1,,Hourly,21.29,Level 4,Front office grade 3,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+275,,Weekly,809.1,,Hourly,21.29,Level 4,Storeperson grade 3,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+270,,Weekly,809.1,,Hourly,21.29,Level 4,Food and beverage attendant (tradesperson) grade 4,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+274,,Weekly,809.1,,Hourly,21.29,Level 4,Gardener grade 3 (tradesperson),,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+272,,Weekly,809.1,,Hourly,21.29,Level 4,Guest service grade 4,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+276,,Weekly,859.8,,Hourly,22.63,Level 5,Clerical supervisor,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+277,,Weekly,859.8,,Hourly,22.63,Level 5,Cook (tradesperson) grade 4,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+281,,Weekly,859.8,,Hourly,22.63,Level 5,Gardener grade 4 (tradesperson),,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+279,,Weekly,859.8,,Hourly,22.63,Level 5,Front office supervisor,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+283,,Annual,45987,,,,,Managerial staff (Hotels),,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+278,,Weekly,859.8,,Hourly,22.63,Level 5,Food and beverage supervisor,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+282,,Weekly,882.8,,Hourly,23.23,Level 6,Cook (tradesperson) grade 5,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+280,,Weekly,859.8,,Hourly,22.63,Level 5,Guest service supervisor,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+292,,Weekly,714.9,,Hourly,18.81,,Introductory,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+293,,Weekly,758.2,,Hourly,19.95,Level 1,Casino electronic gaming employee grade 1,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+294,,Weekly,783.7,,Hourly,20.62,Level 2,Casino electronic gaming employee grade 2,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+298,,Weekly,783.7,,Hourly,20.62,Level 2,Gaming finance employee grade 1,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+296,,Weekly,783.7,,Hourly,20.62,Level 2,Casino table gaming employee grade 1,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+300,,Weekly,809.1,,Hourly,21.29,Level 3,Gaming finance employee grade 2,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+295,,Weekly,783.7,,Hourly,20.62,Level 2,Casino equipment technician grade 1,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+299,,Weekly,809.1,,Hourly,21.29,Level 3,Casino equipment technician grade 2,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+297,,Weekly,783.7,,Hourly,20.62,Level 2,Customer liaison officer,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+301,,Weekly,809.1,,Hourly,21.29,Level 3,Security officer grade 1,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+302,,Weekly,847.1,,Hourly,22.29,Level 3A,Casino table gaming employee grade 2,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+306,,Weekly,885.4,,Hourly,23.3,Level 5,Casino table gaming employee grade 3,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+304,,Weekly,859.8,,Hourly,22.63,Level 4,Gaming finance employee grade 3,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+308,,Weekly,910.8,,Hourly,23.97,Level 6,Casino table gaming employee grade 4,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+303,,Weekly,859.8,,Hourly,22.63,Level 4,Casino equipment technician grade 3,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+307,,Weekly,885.4,,Hourly,23.3,Level 5,Gaming finance employee grade 4,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+305,,Weekly,859.8,,Hourly,22.63,Level 4,Security officer grade 2,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+309,,Weekly,910.8,,Hourly,23.97,Level 6,Gaming finance employee grade 5,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+310,,Weekly,910.8,,Hourly,23.97,Level 6,Surveillance operator,,,2017-07-01,2018-06-30,,2017,2022-02-15T15:47:08+00:00
+311,,Annual,45987,,Annual,57484,,Salaries absorption (Managerial Staff (Hotels))—minimum amount,,,2017-07-01,2018-06-30,,2017,2023-04-05T09:46:47+00:00
+245,,Weekly,692.1,,Hourly,18.21,Level 1,Kitchen attendant grade 1,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+243,,Weekly,692.1,,Hourly,18.21,Level 1,Food and beverage attendant grade 1,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+247,,Weekly,718.6,,Hourly,18.91,Level 2,Cook grade 1,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+242,,Weekly,672.7,,Hourly,17.7,,Introductory,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+246,,Weekly,718.6,,Hourly,18.91,Level 2,Clerical grade 1,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+244,,Weekly,692.1,,Hourly,18.21,Level 1,Guest service grade 1,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+248,,Weekly,718.6,,Hourly,18.91,Level 2,Door person/security officer grade 1,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+249,,Weekly,718.6,,Hourly,18.91,Level 2,Food and beverage attendant grade 2,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+253,,Weekly,718.6,,Hourly,18.91,Level 2,Leisure attendant grade 1,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+251,,Weekly,718.6,,Hourly,18.91,Level 2,Guest service grade 2,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+255,,Weekly,718.6,,Hourly,18.91,Level 2,Storeperson grade 1,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+250,,Weekly,718.6,,Hourly,18.91,Level 2,Front office grade 1,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+254,,Weekly,718.6,,Hourly,18.91,Level 2,Gardener grade 1,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+252,,Weekly,718.6,,Hourly,18.91,Level 2,Kitchen attendant grade 2,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+256,,Weekly,743.3,,Hourly,19.56,Level 3,Clerical grade 2,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+257,,Weekly,743.3,,Hourly,19.56,Level 3,Cook grade 2,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+261,,Weekly,743.3,,Hourly,19.56,Level 3,Guest service grade 3,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+259,,Weekly,743.3,,Hourly,19.56,Level 3,Fork-lift driver,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+263,,Weekly,743.3,,Hourly,19.56,Level 3,Kitchen attendant grade 3,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+258,,Weekly,743.3,,Hourly,19.56,Level 3,Food and beverage attendant grade 3,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+262,,Weekly,743.3,,Hourly,19.56,Level 3,Handyperson,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+260,,Weekly,743.3,,Hourly,19.56,Level 3,Front office grade 2,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+264,,Weekly,743.3,,Hourly,19.56,Level 3,Leisure attendant grade 2,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+265,,Weekly,743.3,,Hourly,19.56,Level 3,Gardener grade 2,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+269,,Weekly,783.3,,Hourly,20.61,Level 4,Cook (tradesperson) grade 3,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+267,,Weekly,743.3,,Hourly,19.56,Level 3,Timekeeper/security officer grade 2,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+271,,Weekly,783.3,,Hourly,20.61,Level 4,Front office grade 3,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+266,,Weekly,743.3,,Hourly,19.56,Level 3,Storeperson grade 2,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+270,,Piece rate,783.3,,Hourly,20.61,Level 4,Food and beverage attendant (tradesperson) grade 4,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+268,,Weekly,783.3,,Hourly,20.61,Level 4,Clerical grade 3,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+272,,Weekly,783.3,,Hourly,20.61,Level 4,Guest service grade 4,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+273,,Weekly,783.3,,Hourly,20.61,Level 4,Leisure attendant grade 3,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+277,,Weekly,832.3,,Hourly,21.9,Level 5,Cook (tradesperson) grade 4,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+275,,Weekly,783.3,,Hourly,20.61,Level 4,Storeperson grade 3,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+279,,Weekly,832.3,,Hourly,21.9,Level 5,Front office supervisor,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+274,,Weekly,783.3,,Hourly,20.61,Level 4,Gardener grade 3 (tradesperson),,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+278,,Weekly,832.3,,Hourly,21.9,Level 5,Food and beverage supervisor,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+276,,Weekly,832.3,,Hourly,21.9,Level 5,Clerical supervisor,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+280,,Weekly,832.3,,Hourly,21.9,Level 5,Guest service supervisor,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+281,,Weekly,832.3,,Hourly,21.9,Level 5,Gardener grade 4 (tradesperson),,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+283,,Annual,44518,,,,,Managerial staff (Hotels),,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+282,,Weekly,854.6,,Hourly,22.49,Level 6,Cook (tradesperson) grade 5,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+294,,Weekly,758.7,,Hourly,19.97,Level 2,Casino electronic gaming employee grade 2,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+292,,Weekly,692.1,,Hourly,18.21,,Introductory,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+296,,Weekly,758.7,,Hourly,19.97,Level 2,Casino table gaming employee grade 1,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+295,,Weekly,758.7,,Hourly,19.97,Level 2,Casino equipment technician grade 1,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+293,,Weekly,734,,Hourly,19.32,Level 1,Casino electronic gaming employee grade 1,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+297,,Weekly,758.7,,Hourly,19.97,Level 2,Customer liaison officer,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+298,,Weekly,758.7,,Hourly,19.97,Level 2,Gaming finance employee grade 1,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+302,,Weekly,820,,Hourly,21.58,Level 3A,Casino table gaming employee grade 2,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+300,,Weekly,783.3,,Hourly,20.61,Level 3,Gaming finance employee grade 2,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+304,,Weekly,832.3,,Hourly,21.9,Level 4,Gaming finance employee grade 3,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+299,,Weekly,783.3,,Hourly,20.61,Level 3,Casino equipment technician grade 2,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+303,,Weekly,832.3,,Hourly,21.9,Level 4,Casino equipment technician grade 3,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+301,,Weekly,783.3,,Hourly,20.61,Level 3,Security officer grade 1,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+305,,Weekly,832.3,,Hourly,21.9,Level 4,Security officer grade 2,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+306,,Weekly,857.1,,Hourly,22.56,Level 5,Casino table gaming employee grade 3,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+310,,Weekly,881.7,,Hourly,23.2,Level 6,Surveillance operator,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+308,,Weekly,881.7,,Hourly,23.2,Level 6,Casino table gaming employee grade 4,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+307,,Weekly,857.1,,Hourly,22.56,Level 5,Gaming finance employee grade 4,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+311,,Annual,44518,,Annual,55648,,Salaries absorption (Managerial Staff (Hotels))—minimum amount,,,2016-07-01,2017-06-30,,2016,2023-04-05T09:46:50+00:00
+309,,Weekly,881.7,,Hourly,23.2,Level 6,Gaming finance employee grade 5,,,2016-07-01,2017-06-30,,2016,2022-02-15T15:47:08+00:00
+243,,Weekly,675.9,,Hourly,17.79,Level 1,Food and beverage attendant grade 1,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+242,,Weekly,656.9,,Hourly,17.29,,Introductory,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+244,,Weekly,675.9,,Hourly,17.79,Level 1,Guest service grade 1,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+245,,Weekly,675.9,,Hourly,17.79,Level 1,Kitchen attendant grade 1,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+249,,Weekly,701.8,,Hourly,18.47,Level 2,Food and beverage attendant grade 2,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+247,,Weekly,701.8,,Hourly,18.47,Level 2,Cook grade 1,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+251,,Weekly,701.8,,Hourly,18.47,Level 2,Guest service grade 2,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+246,,Weekly,701.8,,Hourly,18.47,Level 2,Clerical grade 1,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+250,,Weekly,701.8,,Hourly,18.47,Level 2,Front office grade 1,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+248,,Weekly,701.8,,Hourly,18.47,Level 2,Door person/security officer grade 1,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+252,,Weekly,701.8,,Hourly,18.47,Level 2,Kitchen attendant grade 2,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+253,,Weekly,701.8,,Hourly,18.47,Level 2,Leisure attendant grade 1,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+257,,Weekly,725.9,,Hourly,19.1,Level 3,Cook grade 2,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+255,,Weekly,701.8,,Hourly,18.47,Level 2,Storeperson grade 1,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+259,,Weekly,725.9,,Hourly,19.1,Level 3,Fork-lift driver,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+254,,Weekly,701.8,,Hourly,18.47,Level 2,Gardener grade 1,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+258,,Weekly,725.9,,Hourly,19.1,Level 3,Food and beverage attendant grade 3,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+256,,Weekly,725.9,,Hourly,19.1,Level 3,Clerical grade 2,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+260,,Weekly,725.9,,Hourly,19.1,Level 3,Front office grade 2,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+261,,Weekly,725.9,,Hourly,19.1,Level 3,Guest service grade 3,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+265,,Weekly,725.9,,Hourly,19.1,Level 3,Gardener grade 2,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+263,,Weekly,725.9,,Hourly,19.1,Level 3,Kitchen attendant grade 3,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+267,,Weekly,725.9,,Hourly,19.1,Level 3,Timekeeper/security officer grade 2,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+262,,Weekly,725.9,,Hourly,19.1,Level 3,Handyperson,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+266,,Weekly,725.9,,Hourly,19.1,Level 3,Storeperson grade 2,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+264,,Weekly,725.9,,Hourly,19.1,Level 3,Leisure attendant grade 2,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+268,,Weekly,764.9,,Hourly,20.13,Level 4,Clerical grade 3,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+269,,Weekly,764.9,,Hourly,20.13,Level 4,Cook (tradesperson) grade 3,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+273,,Weekly,764.9,,Hourly,20.13,Level 4,Leisure attendant grade 3,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+271,,Weekly,764.9,,Hourly,20.13,Level 4,Front office grade 3,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+275,,Weekly,764.9,,Hourly,20.13,Level 4,Storeperson grade 3,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+270,,Weekly,764.9,,Hourly,20.13,Level 4,Food and beverage attendant (tradesperson) grade 4,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+274,,Weekly,764.9,,Hourly,20.13,Level 4,Gardener grade 3 (tradesperson),,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+272,,Weekly,764.9,,Hourly,20.13,Level 4,Guest service grade 4,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+276,,Weekly,812.8,,Hourly,21.39,Level 5,Clerical supervisor,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+277,,Weekly,812.8,,Hourly,21.39,Level 5,Cook (tradesperson) grade 4,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+281,,Weekly,812.8,,Hourly,21.39,Level 5,Gardener grade 4 (tradesperson),,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+279,,Weekly,812.8,,Hourly,21.39,Level 5,Front office supervisor,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+283,,Annual,43475,,,,,Managerial staff (Hotels),,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+278,,Weekly,812.8,,Hourly,21.39,Level 5,Food and beverage supervisor,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+282,,Weekly,834.6,,Hourly,21.96,Level 6,Cook (tradesperson) grade 5,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+280,,Weekly,812.8,,Hourly,21.39,Level 5,Guest service supervisor,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+292,,Weekly,675.9,,Hourly,17.79,,Introductory,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+293,,Weekly,716.8,,Hourly,18.86,Level 1,Casino electronic gaming employee grade 1,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+294,,Weekly,740.9,,Hourly,19.5,Level 2,Casino electronic gaming employee grade 2,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+298,,Weekly,740.9,,Hourly,19.5,Level 2,Gaming finance employee grade 1,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+296,,Weekly,740.9,,Hourly,19.5,Level 2,Casino table gaming employee grade 1,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+300,,Weekly,764.9,,Hourly,20.13,Level 3,Gaming finance employee grade 2,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+295,,Weekly,740.9,,Hourly,19.5,Level 2,Casino equipment technician grade 1,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+299,,Weekly,764.9,,Hourly,20.13,Level 3,Casino equipment technician grade 2,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+297,,Weekly,740.9,,Hourly,19.5,Level 2,Customer liaison officer,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+301,,Weekly,764.9,,Hourly,20.13,Level 3,Security officer grade 1,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+302,,Weekly,800.8,,Hourly,21.07,Level 3A,Casino table gaming employee grade 2,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+306,,Weekly,837,,Hourly,22.03,Level 5,Casino table gaming employee grade 3,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+304,,Weekly,812.8,,Hourly,21.39,Level 4,Gaming finance employee grade 3,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+308,,Weekly,861,,Hourly,22.66,Level 6,Casino table gaming employee grade 4,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+303,,Weekly,812.8,,Hourly,21.39,Level 4,Casino equipment technician grade 3,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+307,,Weekly,837,,Hourly,22.03,Level 5,Gaming finance employee grade 4,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+305,,Weekly,812.8,,Hourly,21.39,Level 4,Security officer grade 2,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+309,,Weekly,861,,Hourly,22.66,Level 6,Gaming finance employee grade 5,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+310,,Weekly,861,,Hourly,22.66,Level 6,Surveillance operator,,,2015-07-01,2016-06-30,,2015,2022-02-15T15:47:08+00:00
+311,,Annual,43475,,Annual,54344,,Salaries absorption (Managerial Staff (Hotels))—minimum amount,,,2015-07-01,2016-06-30,,2015,2023-04-05T09:46:53+00:00
