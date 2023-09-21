@@ -1,90 +1,90 @@
 expense_allowance_fixed_id,clause_fixed_id,clauses,parent_allowance,allowance,is_all_purpose,allowance_amount,payment_frequency,last_adjusted_year,cpi_quarter_last_adjusted,operative_from,operative_to,version_number,last_modified_datetime,published_year
-33,1851,26.5(a),,"Clothing, equipment and tools—where a cook or apprentice cook is required to use their own tools—Per day or part day",FALSE,1.98,per day or part day,2022,June Quarter,2023-07-01,,4,2023-06-02T10:12:41+00:00,2023
-34,1851,26.5(a),,"Clothing, equipment and tools—where a cook or apprentice cook is required to use their own tools—Per week (maximum)",FALSE,9.72,per week,2022,June Quarter,2023-07-01,,4,2023-06-02T10:12:41+00:00,2023
-9579,23098,37.7,–,Deductions - A meal - Same rate all ages,FALSE,9.26,per meal,2022,June Quarter,2023-07-01,,3,2023-06-02T10:12:41+00:00,2023
-37,1853,26.6(e),,Laundry allowance—motel employees—Per uniform,FALSE,2.4,per uniform laundered,2008,,2010-01-01,,2,2023-06-02T10:12:41+00:00,2023
-38,1853,26.6(e),,Laundry allowance—motel employees—Per week (maximum),FALSE,7.45,per week,2008,,2010-01-01,,2,2023-06-02T10:12:41+00:00,2023
-9558,23078,26.4(c),,Meal allowance—overtime of 2 hours or less and employee provides meal,FALSE,15.3,per occasion,2022,June Quarter,2023-07-01,,5,2023-06-02T10:12:41+00:00,2023
-32,1850,26.4(b)(i),,Meal allowance—overtime of more than 2 hours without required notice,FALSE,15.3,per occasion,2022,June Quarter,2023-07-01,,5,2023-06-02T10:12:41+00:00,2023
-39,1854,26.7(b),,Motor vehicle allowance,FALSE,0.96,per km,2022,June Quarter,2023-07-01,,4,2023-06-02T10:12:41+00:00,2023
-40,1855,26.11,,Travel allowance—airport catering employees,FALSE,8.16,per day of attendance,2022,June Quarter,2023-07-01,,5,2023-06-02T10:12:41+00:00,2023
-35,1852,26.6(d),,"Uniform/laundry allowance—catering employees, including airport catering employees—Full-time employees",FALSE,6,per week,2008,,2010-01-01,,2,2023-06-02T10:12:41+00:00,2023
-36,1852,26.6(d),,"Uniform/laundry allowance—catering employees, including airport catering employees—Part-time and casual employees",FALSE,2.05,per uniform laundered,2008,,2010-01-01,,2,2023-06-02T10:12:41+00:00,2023
-33,1851,26.5(a),,"Clothing, equipment and tools—where a cook or apprentice cook is required to use their own tools—Per day or part day",FALSE,1.93,per day or part day,2021,September Quarter,2022-10-01,2023-06-30,3,2022-08-01T18:23:24+00:00,2022
-34,1851,26.5(a),,"Clothing, equipment and tools—where a cook or apprentice cook is required to use their own tools—Per week (maximum)",FALSE,9.46,per week,2021,September Quarter,2022-10-01,2023-06-30,3,2022-08-01T18:23:24+00:00,2022
-9579,23098,37.7,–,Deductions - A meal - Same rate all ages,FALSE,8.71,per meal,2021,September Quarter,2022-10-01,2023-06-30,2,2022-08-01T18:23:24+00:00,2022
-37,1853,26.6(e),,Laundry allowance—motel employees—Per uniform,FALSE,2.4,per uniform laundered,2008,,2010-01-01,,2,2022-08-01T18:24:02+00:00,2022
-38,1853,26.6(e),,Laundry allowance—motel employees—Per week (maximum),FALSE,7.45,per week,2008,,2010-01-01,,2,2022-08-01T18:24:02+00:00,2022
-9558,23078,26.4(c),,Meal allowance—overtime of 2 hours or less and employee provides meal,FALSE,14.4,per occasion,2021,September Quarter,2022-10-01,2023-06-30,4,2022-08-01T18:23:24+00:00,2022
-32,1850,26.4(b)(i),,Meal allowance—overtime of more than 2 hours without required notice,FALSE,14.4,per occasion,2021,September Quarter,2022-10-01,2023-06-30,4,2022-08-01T18:23:24+00:00,2022
-39,1854,26.7(b),,Motor vehicle allowance,FALSE,0.94,per km,2021,September Quarter,2022-10-01,2023-06-30,3,2022-08-01T18:23:24+00:00,2022
-40,1855,26.11,,Travel allowance—airport catering employees,FALSE,8.02,per day of attendance,2021,September Quarter,2022-10-01,2023-06-30,4,2022-08-01T18:23:24+00:00,2022
-35,1852,26.6(d),,"Uniform/laundry allowance—catering employees, including airport catering employees—Full-time employees",FALSE,6,per week,2008,,2010-01-01,,2,2022-08-01T18:24:02+00:00,2022
-36,1852,26.6(d),,"Uniform/laundry allowance—catering employees, including airport catering employees—Part-time and casual employees",FALSE,2.05,per uniform laundered,2008,,2010-01-01,,2,2022-08-01T18:24:02+00:00,2022
-33,1851,26.5(a),,"Clothing, equipment and tools—where a cook or apprentice cook is required to use their own tools—Per day or part day",FALSE,1.86,per day or part day,2020,December Quarter,2021-11-01,2022-09-30,2,2022-02-15T15:41:38+00:00,2021
-34,1851,26.5(a),,"Clothing, equipment and tools—where a cook or apprentice cook is required to use their own tools—Per week (maximum)",FALSE,9.11,per week,2020,December Quarter,2021-11-01,2022-09-30,2,2022-02-15T15:41:38+00:00,2021
-9579,23098,37.7,–,Deductions - A meal - Same rate all ages,FALSE,8.44,per meal,2020,December Quarter,2021-11-01,2022-09-30,1,2022-02-15T15:41:38+00:00,2021
-37,1853,26.6(e),,Laundry allowance—motel employees—Per uniform,FALSE,2.4,per uniform laundered,2008,,2010-01-01,,2,2022-02-15T15:41:38+00:00,2021
-38,1853,26.6(e),,Laundry allowance—motel employees—Per week (maximum),FALSE,7.45,per week,2008,,2010-01-01,,2,2022-02-15T15:41:38+00:00,2021
-9558,23078,26.4(c),,Meal allowance—overtime of 2 hours or less and employee provides meal,FALSE,13.95,per occasion,2020,December Quarter,2021-11-01,2022-09-30,3,2022-03-08T13:45:11+00:00,2021
-32,1850,26.4(b)(i),,Meal allowance—overtime of more than 2 hours without required notice,FALSE,13.95,per occasion,2020,December Quarter,2021-11-01,2022-09-30,3,2022-03-08T13:44:57+00:00,2021
-39,1854,26.7(b),,Motor vehicle allowance,FALSE,0.85,per km,2014,,2021-11-01,2022-09-30,2,2022-02-15T15:41:38+00:00,2021
-40,1855,26.11,,Travel allowance—airport catering employees,FALSE,7.28,per day of attendance,2014,,2021-11-01,2022-09-30,3,2022-03-08T13:44:33+00:00,2021
-35,1852,26.6(d),,"Uniform/laundry allowance—catering employees, including airport catering employees—Full-time employees",FALSE,6,per week,2008,,2010-01-01,,2,2022-02-15T15:41:38+00:00,2021
-36,1852,26.6(d),,"Uniform/laundry allowance—catering employees, including airport catering employees—Part-time and casual employees",FALSE,2.05,per uniform laundered,2008,,2010-01-01,,2,2022-02-15T15:41:38+00:00,2021
-33,1851,26.5(a),,"Clothing, equipment and tools—where a cook or apprentice cook is required to use their own tools—Per day or part day",FALSE,1.82,per day or part day,2017,,2021-02-01,2021-10-31,0,2022-02-15T15:39:30+00:00,2020
-34,1851,26.5(a),,"Clothing, equipment and tools—where a cook or apprentice cook is required to use their own tools—Per week (maximum)",FALSE,8.92,per week,2017,,2021-02-01,2021-10-31,0,2022-02-15T15:39:30+00:00,2020
-9579,23098,37.7,–,Deductions - A meal - Same rate all ages,FALSE,8.34,per meal,2019,,2021-02-01,2021-10-31,0,2022-02-15T15:39:30+00:00,2020
-37,1853,26.6(e),,Laundry allowance—motel employees—Per uniform,FALSE,2.4,per uniform laundered,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2020
-38,1853,26.6(e),,Laundry allowance—motel employees—Per week (maximum),FALSE,7.45,per week,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2020
-9558,23078,26.4(c),,Meal allowance—overtime of 2 hours or less and employee provides meal,FALSE,13.79,per occasion,2019,,2021-02-01,2021-10-31,0,2022-02-15T15:39:30+00:00,2020
-32,1850,26.4(b)(i),,Meal allowance—overtime of more than 2 hours without required notice,FALSE,13.79,per occasion,2019,,2021-02-01,2021-10-31,0,2022-02-15T15:39:30+00:00,2020
-39,1854,26.7(b),,Motor vehicle allowance,FALSE,0.78,per km,2014,,2014-07-01,2021-10-31,0,2022-02-15T15:39:30+00:00,2020
-40,1855,26.11,,Travel allowance—airport catering employees,FALSE,6.68,per day of attendance,2014,,2014-07-01,2021-10-31,0,2022-02-15T15:39:30+00:00,2020
-35,1852,26.6(d),,"Uniform/laundry allowance—catering employees, including airport catering employees—Full-time employees",FALSE,6,per week,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2020
-36,1852,26.6(d),,"Uniform/laundry allowance—catering employees, including airport catering employees—Part-time and casual employees",FALSE,2.05,per uniform laundered,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2020
-33,1851,21.1(b)(i),,"Clothing, equipment and tools—where a cook is required to use their own tools—Per day or part day",FALSE,1.55,per day or part thereof,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2019
-34,1851,21.1(b)(i),,"Clothing, equipment and tools—where a cook is required to use their own tools—Per week (maximum)",FALSE,7.6,per week,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2019
-37,1853,21.1(d),,Laundry allowance—motel employees—Per uniform,FALSE,2.4,per uniform laundered,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2019
-38,1853,21.1(d),,Laundry allowance—motel employees—Per week (maximum),FALSE,7.45,per week,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2019
-32,1850,21.1(a)(i),,Meal allowance—overtime of more than 2 hours without required notice,FALSE,13.38,per occasion,2018,,2019-07-01,2021-01-31,0,2022-02-15T15:39:30+00:00,2019
-39,1854,21.1(e),,Motor vehicle allowance,FALSE,0.78,per km,2014,,2014-07-01,2021-10-31,0,2022-02-15T15:39:30+00:00,2019
-40,1855,21.1(i),,Travel allowance—airport catering employees,FALSE,6.68,per day of attendance,2014,,2014-07-01,2021-10-31,0,2022-02-15T15:39:30+00:00,2019
-35,1852,21.1(c),,"Uniform/laundry allowance—catering employees, including airport catering employees—Full-time employees",FALSE,6,per week,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2019
-36,1852,21.1(c),,"Uniform/laundry allowance—catering employees, including airport catering employees—Part-time and casual employees",FALSE,2.05,per uniform,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2019
-33,1851,21.1(b)(i),,"Clothing, equipment and tools—where a cook is required to use their own tools—Per day or part day",FALSE,1.55,per day or part thereof,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2018
-34,1851,21.1(b)(i),,"Clothing, equipment and tools—where a cook is required to use their own tools—Per week (maximum)",FALSE,7.6,per week,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2018
-37,1853,21.1(d),,Laundry allowance—motel employees—Per uniform,FALSE,2.4,per uniform laundered,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2018
-38,1853,21.1(d),,Laundry allowance—motel employees—Per week (maximum),FALSE,7.45,per week,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2018
-32,1850,21.1(a)(i),,Meal allowance—overtime of more than 2 hours without required notice,FALSE,12.97,per occasion,2017,,2018-07-01,2019-06-30,0,2022-02-15T15:39:30+00:00,2018
-39,1854,21.1(e),,Motor vehicle allowance,FALSE,0.78,per km,2014,,2014-07-01,2021-10-31,0,2022-02-15T15:39:30+00:00,2018
-40,1855,21.1(i),,Travel allowance—airport catering employees,FALSE,6.68,per day of attendance,2014,,2014-07-01,2021-10-31,0,2022-02-15T15:39:30+00:00,2018
-35,1852,21.1(c),,"Uniform/laundry allowance—catering employees, including airport catering employees—Full-time employees",FALSE,6,per week,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2018
-36,1852,21.1(c),,"Uniform/laundry allowance—catering employees, including airport catering employees—Part-time and casual employees",FALSE,2.05,per uniform,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2018
-33,1851,21.1(b)(i),,"Clothing, equipment and tools—where a cook is required to use their own tools—Per day or part day",FALSE,1.55,per day or part thereof,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2017
-34,1851,21.1(b)(i),,"Clothing, equipment and tools—where a cook is required to use their own tools—Per week (maximum)",FALSE,7.6,per week,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2017
-37,1853,21.1(d),,Laundry allowance—motel employees—Per uniform,FALSE,2.4,per uniform laundered,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2017
-38,1853,21.1(d),,Laundry allowance—motel employees—Per week (maximum),FALSE,7.45,per week,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2017
-32,1850,21.1(a)(i),,Meal allowance—overtime of more than 2 hours without required notice,FALSE,12.71,per occasion,2016,,2017-07-01,2018-06-30,0,2022-02-15T15:39:30+00:00,2017
-39,1854,21.1(e),,Motor vehicle allowance,FALSE,0.78,per km,2014,,2014-07-01,2021-10-31,0,2022-02-15T15:39:30+00:00,2017
-40,1855,21.1(i),,Travel allowance—airport catering employees,FALSE,6.68,per day of attendance,2014,,2014-07-01,2021-10-31,0,2022-02-15T15:39:30+00:00,2017
-35,1852,21.1(c),,"Uniform/laundry allowance—catering employees, including airport catering employees—Full-time employees",FALSE,6,per week,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2017
-36,1852,21.1(c),,"Uniform/laundry allowance—catering employees, including airport catering employees—Part-time and casual employees",FALSE,2.05,per uniform,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2017
-33,1851,21.1(b)(i),,"Clothing, equipment and tools—where a cook is required to use their own tools—Per day or part day",FALSE,1.55,per day or part thereof,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2016
-34,1851,21.1(b)(i),,"Clothing, equipment and tools—where a cook is required to use their own tools—Per week (maximum)",FALSE,7.6,per week,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2016
-37,1853,21.1(d),,Laundry allowance—motel employees—Per uniform,FALSE,2.4,per uniform laundered,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2016
-38,1853,21.1(d),,Laundry allowance—motel employees—Per week (maximum),FALSE,7.45,per week,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2016
-32,1850,21.1(a)(i),,Meal allowance—overtime of more than 2 hours without required notice,FALSE,12.57,per occasion,2015,,2016-07-01,2017-06-30,0,2022-02-15T15:39:30+00:00,2016
-39,1854,21.1(e),,Motor vehicle allowance,FALSE,0.78,per km,2014,,2014-07-01,2021-10-31,0,2022-02-15T15:39:30+00:00,2016
-40,1855,21.1(i),,Travel allowance—airport catering employees,FALSE,6.68,per day of attendance,2014,,2014-07-01,2021-10-31,0,2022-02-15T15:39:30+00:00,2016
-35,1852,21.1(c),,"Uniform/laundry allowance—catering employees, including airport catering employees—Full-time employees",FALSE,6,per week,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2016
-36,1852,21.1(c),,"Uniform/laundry allowance—catering employees, including airport catering employees—Part-time and casual employees",FALSE,2.05,per uniform,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2016
-33,1851,21.1(b)(i),,"Clothing, equipment and tools—where a cook is required to use their own tools—Per day or part day",FALSE,1.55,per day or part thereof,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2015
-34,1851,21.1(b)(i),,"Clothing, equipment and tools—where a cook is required to use their own tools—Per week (maximum)",FALSE,7.6,per week,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2015
-37,1853,21.1(d),,Laundry allowance—motel employees—Per uniform,FALSE,2.4,per uniform laundered,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2015
-38,1853,21.1(d),,Laundry allowance—motel employees—Per week (maximum),FALSE,7.45,per week,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2015
-32,1850,21.1(a)(i),,Meal allowance—overtime of more than 2 hours without required notice,FALSE,12.3,per occasion,2014,,2015-07-01,2016-06-30,0,2022-02-15T15:39:30+00:00,2015
-39,1854,21.1(e),,Motor vehicle allowance,FALSE,0.78,per km,2014,,2014-07-01,2021-10-31,0,2022-02-15T15:39:30+00:00,2015
-40,1855,21.1(i),,Travel allowance—airport catering employees,FALSE,6.68,per day of attendance,2014,,2014-07-01,2021-10-31,0,2022-02-15T15:39:30+00:00,2015
-35,1852,21.1(c),,"Uniform/laundry allowance—catering employees, including airport catering employees—Full-time employees",FALSE,6,per week,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2015
-36,1852,21.1(c),,"Uniform/laundry allowance—catering employees, including airport catering employees—Part-time and casual employees",FALSE,2.05,per uniform,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2015
+33,1851,26.5(a),,"Clothing, equipment and toolsâ€”where a cook or apprentice cook is required to use their own toolsâ€”Per day or part day",False,1.98,per day or part day,2022,June Quarter,2023-07-01,,4,2023-06-02T10:12:41+00:00,2023
+34,1851,26.5(a),,"Clothing, equipment and toolsâ€”where a cook or apprentice cook is required to use their own toolsâ€”Per week (maximum)",False,9.72,per week,2022,June Quarter,2023-07-01,,4,2023-06-02T10:12:41+00:00,2023
+9579,23098,37.7,â€“,Deductions - A meal - Same rate all ages,False,9.26,per meal,2022,June Quarter,2023-07-01,,3,2023-06-02T10:12:41+00:00,2023
+37,1853,26.6(e),,Laundry allowanceâ€”motel employeesâ€”Per uniform,False,2.4,per uniform laundered,2008,,2010-01-01,,2,2023-06-02T10:12:41+00:00,2023
+38,1853,26.6(e),,Laundry allowanceâ€”motel employeesâ€”Per week (maximum),False,7.45,per week,2008,,2010-01-01,,2,2023-06-02T10:12:41+00:00,2023
+9558,23078,26.4(c),,Meal allowanceâ€”overtime of 2 hours or less and employee provides meal,False,15.3,per occasion,2022,June Quarter,2023-07-01,,5,2023-06-02T10:12:41+00:00,2023
+32,1850,26.4(b)(i),,Meal allowanceâ€”overtime of more than 2 hours without required notice,False,15.3,per occasion,2022,June Quarter,2023-07-01,,5,2023-06-02T10:12:41+00:00,2023
+39,1854,26.7(b),,Motor vehicle allowance,False,0.96,per km,2022,June Quarter,2023-07-01,,4,2023-06-02T10:12:41+00:00,2023
+40,1855,26.11,,Travel allowanceâ€”airport catering employees,False,8.16,per day of attendance,2022,June Quarter,2023-07-01,,5,2023-06-02T10:12:41+00:00,2023
+35,1852,26.6(d),,"Uniform/laundry allowanceâ€”catering employees, including airport catering employeesâ€”Full-time employees",False,6.0,per week,2008,,2010-01-01,,2,2023-06-02T10:12:41+00:00,2023
+36,1852,26.6(d),,"Uniform/laundry allowanceâ€”catering employees, including airport catering employeesâ€”Part-time and casual employees",False,2.05,per uniform laundered,2008,,2010-01-01,,2,2023-06-02T10:12:41+00:00,2023
+33,1851,26.5(a),,"Clothing, equipment and toolsâ€”where a cook or apprentice cook is required to use their own toolsâ€”Per day or part day",False,1.93,per day or part day,2021,September Quarter,2022-10-01,2023-06-30,3,2022-08-01T18:23:24+00:00,2022
+34,1851,26.5(a),,"Clothing, equipment and toolsâ€”where a cook or apprentice cook is required to use their own toolsâ€”Per week (maximum)",False,9.46,per week,2021,September Quarter,2022-10-01,2023-06-30,3,2022-08-01T18:23:24+00:00,2022
+9579,23098,37.7,â€“,Deductions - A meal - Same rate all ages,False,8.71,per meal,2021,September Quarter,2022-10-01,2023-06-30,2,2022-08-01T18:23:24+00:00,2022
+37,1853,26.6(e),,Laundry allowanceâ€”motel employeesâ€”Per uniform,False,2.4,per uniform laundered,2008,,2010-01-01,,2,2022-08-01T18:24:02+00:00,2022
+38,1853,26.6(e),,Laundry allowanceâ€”motel employeesâ€”Per week (maximum),False,7.45,per week,2008,,2010-01-01,,2,2022-08-01T18:24:02+00:00,2022
+9558,23078,26.4(c),,Meal allowanceâ€”overtime of 2 hours or less and employee provides meal,False,14.4,per occasion,2021,September Quarter,2022-10-01,2023-06-30,4,2022-08-01T18:23:24+00:00,2022
+32,1850,26.4(b)(i),,Meal allowanceâ€”overtime of more than 2 hours without required notice,False,14.4,per occasion,2021,September Quarter,2022-10-01,2023-06-30,4,2022-08-01T18:23:24+00:00,2022
+39,1854,26.7(b),,Motor vehicle allowance,False,0.94,per km,2021,September Quarter,2022-10-01,2023-06-30,3,2022-08-01T18:23:24+00:00,2022
+40,1855,26.11,,Travel allowanceâ€”airport catering employees,False,8.02,per day of attendance,2021,September Quarter,2022-10-01,2023-06-30,4,2022-08-01T18:23:24+00:00,2022
+35,1852,26.6(d),,"Uniform/laundry allowanceâ€”catering employees, including airport catering employeesâ€”Full-time employees",False,6.0,per week,2008,,2010-01-01,,2,2022-08-01T18:24:02+00:00,2022
+36,1852,26.6(d),,"Uniform/laundry allowanceâ€”catering employees, including airport catering employeesâ€”Part-time and casual employees",False,2.05,per uniform laundered,2008,,2010-01-01,,2,2022-08-01T18:24:02+00:00,2022
+33,1851,26.5(a),,"Clothing, equipment and toolsâ€”where a cook or apprentice cook is required to use their own toolsâ€”Per day or part day",False,1.86,per day or part day,2020,December Quarter,2021-11-01,2022-09-30,2,2022-02-15T15:41:38+00:00,2021
+34,1851,26.5(a),,"Clothing, equipment and toolsâ€”where a cook or apprentice cook is required to use their own toolsâ€”Per week (maximum)",False,9.11,per week,2020,December Quarter,2021-11-01,2022-09-30,2,2022-02-15T15:41:38+00:00,2021
+9579,23098,37.7,â€“,Deductions - A meal - Same rate all ages,False,8.44,per meal,2020,December Quarter,2021-11-01,2022-09-30,1,2022-02-15T15:41:38+00:00,2021
+37,1853,26.6(e),,Laundry allowanceâ€”motel employeesâ€”Per uniform,False,2.4,per uniform laundered,2008,,2010-01-01,,2,2022-02-15T15:41:38+00:00,2021
+38,1853,26.6(e),,Laundry allowanceâ€”motel employeesâ€”Per week (maximum),False,7.45,per week,2008,,2010-01-01,,2,2022-02-15T15:41:38+00:00,2021
+9558,23078,26.4(c),,Meal allowanceâ€”overtime of 2 hours or less and employee provides meal,False,13.95,per occasion,2020,December Quarter,2021-11-01,2022-09-30,3,2022-03-08T13:45:11+00:00,2021
+32,1850,26.4(b)(i),,Meal allowanceâ€”overtime of more than 2 hours without required notice,False,13.95,per occasion,2020,December Quarter,2021-11-01,2022-09-30,3,2022-03-08T13:44:57+00:00,2021
+39,1854,26.7(b),,Motor vehicle allowance,False,0.85,per km,2014,,2021-11-01,2022-09-30,2,2022-02-15T15:41:38+00:00,2021
+40,1855,26.11,,Travel allowanceâ€”airport catering employees,False,7.28,per day of attendance,2014,,2021-11-01,2022-09-30,3,2022-03-08T13:44:33+00:00,2021
+35,1852,26.6(d),,"Uniform/laundry allowanceâ€”catering employees, including airport catering employeesâ€”Full-time employees",False,6.0,per week,2008,,2010-01-01,,2,2022-02-15T15:41:38+00:00,2021
+36,1852,26.6(d),,"Uniform/laundry allowanceâ€”catering employees, including airport catering employeesâ€”Part-time and casual employees",False,2.05,per uniform laundered,2008,,2010-01-01,,2,2022-02-15T15:41:38+00:00,2021
+33,1851,26.5(a),,"Clothing, equipment and toolsâ€”where a cook or apprentice cook is required to use their own toolsâ€”Per day or part day",False,1.82,per day or part day,2017,,2021-02-01,2021-10-31,0,2022-02-15T15:39:30+00:00,2020
+34,1851,26.5(a),,"Clothing, equipment and toolsâ€”where a cook or apprentice cook is required to use their own toolsâ€”Per week (maximum)",False,8.92,per week,2017,,2021-02-01,2021-10-31,0,2022-02-15T15:39:30+00:00,2020
+9579,23098,37.7,â€“,Deductions - A meal - Same rate all ages,False,8.34,per meal,2019,,2021-02-01,2021-10-31,0,2022-02-15T15:39:30+00:00,2020
+37,1853,26.6(e),,Laundry allowanceâ€”motel employeesâ€”Per uniform,False,2.4,per uniform laundered,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2020
+38,1853,26.6(e),,Laundry allowanceâ€”motel employeesâ€”Per week (maximum),False,7.45,per week,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2020
+9558,23078,26.4(c),,Meal allowanceâ€”overtime of 2 hours or less and employee provides meal,False,13.79,per occasion,2019,,2021-02-01,2021-10-31,0,2022-02-15T15:39:30+00:00,2020
+32,1850,26.4(b)(i),,Meal allowanceâ€”overtime of more than 2 hours without required notice,False,13.79,per occasion,2019,,2021-02-01,2021-10-31,0,2022-02-15T15:39:30+00:00,2020
+39,1854,26.7(b),,Motor vehicle allowance,False,0.78,per km,2014,,2014-07-01,2021-10-31,0,2022-02-15T15:39:30+00:00,2020
+40,1855,26.11,,Travel allowanceâ€”airport catering employees,False,6.68,per day of attendance,2014,,2014-07-01,2021-10-31,0,2022-02-15T15:39:30+00:00,2020
+35,1852,26.6(d),,"Uniform/laundry allowanceâ€”catering employees, including airport catering employeesâ€”Full-time employees",False,6.0,per week,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2020
+36,1852,26.6(d),,"Uniform/laundry allowanceâ€”catering employees, including airport catering employeesâ€”Part-time and casual employees",False,2.05,per uniform laundered,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2020
+33,1851,21.1(b)(i),,"Clothing, equipment and toolsâ€”where a cook is required to use their own toolsâ€”Per day or part day",False,1.55,per day or part thereof,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2019
+34,1851,21.1(b)(i),,"Clothing, equipment and toolsâ€”where a cook is required to use their own toolsâ€”Per week (maximum)",False,7.6,per week,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2019
+37,1853,21.1(d),,Laundry allowanceâ€”motel employeesâ€”Per uniform,False,2.4,per uniform laundered,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2019
+38,1853,21.1(d),,Laundry allowanceâ€”motel employeesâ€”Per week (maximum),False,7.45,per week,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2019
+32,1850,21.1(a)(i),,Meal allowanceâ€”overtime of more than 2 hours without required notice,False,13.38,per occasion,2018,,2019-07-01,2021-01-31,0,2022-02-15T15:39:30+00:00,2019
+39,1854,21.1(e),,Motor vehicle allowance,False,0.78,per km,2014,,2014-07-01,2021-10-31,0,2022-02-15T15:39:30+00:00,2019
+40,1855,21.1(i),,Travel allowanceâ€”airport catering employees,False,6.68,per day of attendance,2014,,2014-07-01,2021-10-31,0,2022-02-15T15:39:30+00:00,2019
+35,1852,21.1(c),,"Uniform/laundry allowanceâ€”catering employees, including airport catering employeesâ€”Full-time employees",False,6.0,per week,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2019
+36,1852,21.1(c),,"Uniform/laundry allowanceâ€”catering employees, including airport catering employeesâ€”Part-time and casual employees",False,2.05,per uniform,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2019
+33,1851,21.1(b)(i),,"Clothing, equipment and toolsâ€”where a cook is required to use their own toolsâ€”Per day or part day",False,1.55,per day or part thereof,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2018
+34,1851,21.1(b)(i),,"Clothing, equipment and toolsâ€”where a cook is required to use their own toolsâ€”Per week (maximum)",False,7.6,per week,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2018
+37,1853,21.1(d),,Laundry allowanceâ€”motel employeesâ€”Per uniform,False,2.4,per uniform laundered,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2018
+38,1853,21.1(d),,Laundry allowanceâ€”motel employeesâ€”Per week (maximum),False,7.45,per week,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2018
+32,1850,21.1(a)(i),,Meal allowanceâ€”overtime of more than 2 hours without required notice,False,12.97,per occasion,2017,,2018-07-01,2019-06-30,0,2022-02-15T15:39:30+00:00,2018
+39,1854,21.1(e),,Motor vehicle allowance,False,0.78,per km,2014,,2014-07-01,2021-10-31,0,2022-02-15T15:39:30+00:00,2018
+40,1855,21.1(i),,Travel allowanceâ€”airport catering employees,False,6.68,per day of attendance,2014,,2014-07-01,2021-10-31,0,2022-02-15T15:39:30+00:00,2018
+35,1852,21.1(c),,"Uniform/laundry allowanceâ€”catering employees, including airport catering employeesâ€”Full-time employees",False,6.0,per week,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2018
+36,1852,21.1(c),,"Uniform/laundry allowanceâ€”catering employees, including airport catering employeesâ€”Part-time and casual employees",False,2.05,per uniform,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2018
+33,1851,21.1(b)(i),,"Clothing, equipment and toolsâ€”where a cook is required to use their own toolsâ€”Per day or part day",False,1.55,per day or part thereof,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2017
+34,1851,21.1(b)(i),,"Clothing, equipment and toolsâ€”where a cook is required to use their own toolsâ€”Per week (maximum)",False,7.6,per week,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2017
+37,1853,21.1(d),,Laundry allowanceâ€”motel employeesâ€”Per uniform,False,2.4,per uniform laundered,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2017
+38,1853,21.1(d),,Laundry allowanceâ€”motel employeesâ€”Per week (maximum),False,7.45,per week,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2017
+32,1850,21.1(a)(i),,Meal allowanceâ€”overtime of more than 2 hours without required notice,False,12.71,per occasion,2016,,2017-07-01,2018-06-30,0,2022-02-15T15:39:30+00:00,2017
+39,1854,21.1(e),,Motor vehicle allowance,False,0.78,per km,2014,,2014-07-01,2021-10-31,0,2022-02-15T15:39:30+00:00,2017
+40,1855,21.1(i),,Travel allowanceâ€”airport catering employees,False,6.68,per day of attendance,2014,,2014-07-01,2021-10-31,0,2022-02-15T15:39:30+00:00,2017
+35,1852,21.1(c),,"Uniform/laundry allowanceâ€”catering employees, including airport catering employeesâ€”Full-time employees",False,6.0,per week,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2017
+36,1852,21.1(c),,"Uniform/laundry allowanceâ€”catering employees, including airport catering employeesâ€”Part-time and casual employees",False,2.05,per uniform,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2017
+33,1851,21.1(b)(i),,"Clothing, equipment and toolsâ€”where a cook is required to use their own toolsâ€”Per day or part day",False,1.55,per day or part thereof,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2016
+34,1851,21.1(b)(i),,"Clothing, equipment and toolsâ€”where a cook is required to use their own toolsâ€”Per week (maximum)",False,7.6,per week,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2016
+37,1853,21.1(d),,Laundry allowanceâ€”motel employeesâ€”Per uniform,False,2.4,per uniform laundered,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2016
+38,1853,21.1(d),,Laundry allowanceâ€”motel employeesâ€”Per week (maximum),False,7.45,per week,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2016
+32,1850,21.1(a)(i),,Meal allowanceâ€”overtime of more than 2 hours without required notice,False,12.57,per occasion,2015,,2016-07-01,2017-06-30,0,2022-02-15T15:39:30+00:00,2016
+39,1854,21.1(e),,Motor vehicle allowance,False,0.78,per km,2014,,2014-07-01,2021-10-31,0,2022-02-15T15:39:30+00:00,2016
+40,1855,21.1(i),,Travel allowanceâ€”airport catering employees,False,6.68,per day of attendance,2014,,2014-07-01,2021-10-31,0,2022-02-15T15:39:30+00:00,2016
+35,1852,21.1(c),,"Uniform/laundry allowanceâ€”catering employees, including airport catering employeesâ€”Full-time employees",False,6.0,per week,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2016
+36,1852,21.1(c),,"Uniform/laundry allowanceâ€”catering employees, including airport catering employeesâ€”Part-time and casual employees",False,2.05,per uniform,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2016
+33,1851,21.1(b)(i),,"Clothing, equipment and toolsâ€”where a cook is required to use their own toolsâ€”Per day or part day",False,1.55,per day or part thereof,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2015
+34,1851,21.1(b)(i),,"Clothing, equipment and toolsâ€”where a cook is required to use their own toolsâ€”Per week (maximum)",False,7.6,per week,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2015
+37,1853,21.1(d),,Laundry allowanceâ€”motel employeesâ€”Per uniform,False,2.4,per uniform laundered,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2015
+38,1853,21.1(d),,Laundry allowanceâ€”motel employeesâ€”Per week (maximum),False,7.45,per week,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2015
+32,1850,21.1(a)(i),,Meal allowanceâ€”overtime of more than 2 hours without required notice,False,12.3,per occasion,2014,,2015-07-01,2016-06-30,0,2022-02-15T15:39:30+00:00,2015
+39,1854,21.1(e),,Motor vehicle allowance,False,0.78,per km,2014,,2014-07-01,2021-10-31,0,2022-02-15T15:39:30+00:00,2015
+40,1855,21.1(i),,Travel allowanceâ€”airport catering employees,False,6.68,per day of attendance,2014,,2014-07-01,2021-10-31,0,2022-02-15T15:39:30+00:00,2015
+35,1852,21.1(c),,"Uniform/laundry allowanceâ€”catering employees, including airport catering employeesâ€”Full-time employees",False,6.0,per week,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2015
+36,1852,21.1(c),,"Uniform/laundry allowanceâ€”catering employees, including airport catering employeesâ€”Part-time and casual employees",False,2.05,per uniform,2008,,2010-01-01,,0,2022-02-15T15:41:38+00:00,2015

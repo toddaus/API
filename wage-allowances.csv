@@ -1,363 +1,363 @@
 wage_allowance_fixed_id,clause_fixed_id,clauses,parent_allowance,allowance,is_all_purpose,rate,rate_unit,base_pay_rate_id,allowance_amount,payment_frequency,operative_from,operative_to,version_number,last_modified_datetime,published_year
-81,735,26.13(b),,Airport catering—supervisory allowance—11 to 20 employees,FALSE,3.1,Percent,BR89895,30.85,per week,2023-07-01,,4,2023-06-01T22:37:40+00:00,2023
-80,735,26.13(b),,Airport catering—supervisory allowance—6 to 10 employees,FALSE,2.75,Percent,BR89895,27.36,per week,2023-07-01,,4,2023-06-01T22:37:40+00:00,2023
-82,735,26.13(b),,Airport catering—supervisory allowance—More than 20 employees,FALSE,5.2,Percent,BR89895,51.74,per week,2023-07-01,,4,2023-06-01T22:37:40+00:00,2023
-79,735,26.13(b),,Airport catering—supervisory allowance—Up to 5 employees,FALSE,2,Percent,BR89895,19.9,per week,2023-07-01,,4,2023-06-01T22:37:40+00:00,2023
-90,740,37.5,97.5% of 25% of standard weekly rate,Deductions - Shared room and 3 meals a day,FALSE,25,Percent,BR89895,242.53,per week,2023-07-01,,3,2023-06-01T22:37:40+00:00,2023
-99,741,37.6,45%,Deductions - Shared room and 3 meals a day - 15 years of age and under,FALSE,25,Percent,BR89895,109.14,per week,2023-07-01,,3,2023-06-01T22:37:40+00:00,2023
-100,741,37.6,55%,Deductions - Shared room and 3 meals a day - 16 years of age,FALSE,25,Percent,BR89895,133.39,per week,2023-07-01,,3,2023-06-01T22:37:40+00:00,2023
-101,741,37.6,70%,Deductions - Shared room and 3 meals a day - 17 years of age,FALSE,25,Percent,BR89895,169.77,per week,2023-07-01,,3,2023-06-01T22:37:40+00:00,2023
-102,741,37.6,80%,Deductions - Shared room and 3 meals a day - 18 years of age,FALSE,25,Percent,BR89895,194.02,per week,2023-07-01,,3,2023-06-01T22:37:40+00:00,2023
-103,741,37.6,90%,Deductions - Shared room and 3 meals a day - 19 years of age,FALSE,25,Percent,BR89895,218.28,per week,2023-07-01,,3,2023-06-01T22:37:40+00:00,2023
-92,740,37.5,92.5% of 25% of standard weekly rate,"Deductions - Shared room only, no meals",FALSE,25,Percent,BR89895,230.09,per week,2023-07-01,,3,2023-06-01T22:37:40+00:00,2023
-109,741,37.6,45%,Deductions - Shared room only; no meals - 15 years of age and under,FALSE,25,Percent,BR89895,103.54,per week,2023-07-01,,3,2023-06-01T22:37:40+00:00,2023
-110,741,37.6,55%,Deductions - Shared room only; no meals - 16 years of age,FALSE,25,Percent,BR89895,126.55,per week,2023-07-01,,3,2023-06-01T22:37:40+00:00,2023
-111,741,37.6,70%,Deductions - Shared room only; no meals - 17 years of age,FALSE,25,Percent,BR89895,161.06,per week,2023-07-01,,3,2023-06-01T22:37:40+00:00,2023
-112,741,37.6,80%,Deductions - Shared room only; no meals - 18 years of age,FALSE,25,Percent,BR89895,184.07,per week,2023-07-01,,3,2023-06-01T22:37:40+00:00,2023
-113,741,37.6,90%,Deductions - Shared room only; no meals - 19 years of age,FALSE,25,Percent,BR89895,207.08,per week,2023-07-01,,3,2023-06-01T22:37:40+00:00,2023
-89,740,37.5,25% of standard weekly rate,Deductions - Single room and 3 meals a day,FALSE,25,Percent,BR89895,248.75,per week,2023-07-01,,3,2023-06-01T22:37:40+00:00,2023
-94,741,37.6,45%,Deductions - Single room and 3 meals a day - 15 years of age and under,FALSE,25,Percent,BR89895,111.94,per week,2023-07-01,,3,2023-06-01T22:37:40+00:00,2023
-95,741,37.6,55%,Deductions - Single room and 3 meals a day - 16 years of age,FALSE,25,Percent,BR89895,136.81,per week,2023-07-01,,3,2023-06-01T22:37:40+00:00,2023
-96,741,37.6,70%,Deductions - Single room and 3 meals a day - 17 years of age,FALSE,25,Percent,BR89895,174.13,per week,2023-07-01,,3,2023-06-01T22:37:40+00:00,2023
-97,741,37.6,80%,Deductions - Single room and 3 meals a day - 18 years of age,FALSE,25,Percent,BR89895,199,per week,2023-07-01,,3,2023-06-01T22:37:40+00:00,2023
-98,741,37.6,90%,Deductions - Single room and 3 meals a day - 19 years of age,FALSE,25,Percent,BR89895,223.88,per week,2023-07-01,,3,2023-06-01T22:37:40+00:00,2023
-91,740,37.5,95% of 25% of standard weekly rate,"Deductions - Single room only, no meals",FALSE,25,Percent,BR89895,236.31,per week,2023-07-01,,3,2023-06-01T22:37:40+00:00,2023
-104,741,37.6,45%,Deductions - Single room only; no meals - 15 years of age and under,FALSE,25,Percent,BR89895,106.34,per week,2023-07-01,,3,2023-06-01T22:37:40+00:00,2023
-105,741,37.6,55%,Deductions - Single room only; no meals - 16 years of age,FALSE,25,Percent,BR89895,129.97,per week,2023-07-01,,3,2023-06-01T22:37:40+00:00,2023
-106,741,37.6,70%,Deductions - Single room only; no meals - 17 years of age,FALSE,25,Percent,BR89895,165.42,per week,2023-07-01,,3,2023-06-01T22:37:40+00:00,2023
-107,741,37.6,80%,Deductions - Single room only; no meals - 18 years of age,FALSE,25,Percent,BR89895,189.05,per week,2023-07-01,,3,2023-06-01T22:37:40+00:00,2023
-108,741,37.6,90%,Deductions - Single room only; no meals - 19 years of age,FALSE,25,Percent,BR89895,212.68,per week,2023-07-01,,3,2023-06-01T22:37:40+00:00,2023
-75,734,26.12(b)(i),,First aid allowance—Full-time employee,FALSE,1.2,Percent,BR89895,11.94,per week,2023-07-01,,5,2023-06-01T22:37:40+00:00,2023
-11951,22974,26.12(b)(ii),,First aid allowance—Part-time or casual employee,FALSE,0.24,Percent,BR89895,2.39,per day,2023-07-01,,5,2023-06-01T22:37:40+00:00,2023
-11952,22974,26.12(b)(ii),,First aid allowance—Part-time or casual maximum payment,FALSE,1.2,Percent,BR89895,11.94,per week,2023-07-01,,5,2023-06-01T22:37:40+00:00,2023
-11950,22973,26.3(a),,Fork-lift driver allowance,TRUE,1.5,Percent,BR89895,0.39,per hour,2023-07-01,,4,2023-06-01T22:37:40+00:00,2023
-12157,733,26.3(b),,Fork-lift driver allowance—Part-time or casual fork-lift driver—prior to 23 January 2020 (see C.1.2 for the rate from 23 January 2020),TRUE,0.3,Percent,BR89895,2.99,per day,2023-07-01,,4,2023-06-01T22:37:40+00:00,2023
-71,733,26.3(b),,Fork-lift driver allowance—Part-time or casual maximum payment—prior to 23 January 2020 (see C.1.2 for the rate from 23 January 2020),TRUE,1.5,Percent,BR89895,14.93,per week,2023-07-01,,4,2023-06-01T22:37:40+00:00,2023
-86,737,26.15(b)(i),,Overnight stay allowance—outside ordinary business operating hours,FALSE,6,Percent,BR89895,59.7,per overnight stay period,2023-07-01,,5,2023-06-01T22:37:40+00:00,2023
-87,738,29.2,,Penalty—Monday to Friday—7.00 pm to midnight,FALSE,10,Percent,BR89895,2.62,per hour or part thereof,2023-07-01,,3,2023-06-01T22:37:40+00:00,2023
-11954,738,29.2,,Penalty—Monday to Friday—midnight to 7.00 am,FALSE,15,Percent,BR89895,3.93,per hour or part thereof,2023-07-01,,3,2023-06-01T22:37:40+00:00,2023
-84,736,26.14(b)(i),,Split shift allowance—2 hours and up to 3 hours,FALSE,0.33,Percent,BR89895,3.28,per day,2023-07-01,,4,2023-06-01T22:37:40+00:00,2023
-11953,22975,26.14(b)(ii),,Split shift allowance—More than 3 hours,FALSE,0.5,Percent,BR89895,4.98,per day,2023-07-01,,4,2023-06-01T22:37:40+00:00,2023
-81,735,26.13(b),,Airport catering—supervisory allowance—11 to 20 employees,FALSE,3.1,Percent,BR89895,29.17,per week,2022-10-01,2023-06-30,3,2022-06-24T01:32:00+00:00,2022
-80,735,26.13(b),,Airport catering—supervisory allowance—6 to 10 employees,FALSE,2.75,Percent,BR89895,25.87,per week,2022-10-01,2023-06-30,3,2022-06-24T01:32:00+00:00,2022
-82,735,26.13(b),,Airport catering—supervisory allowance—More than 20 employees,FALSE,5.2,Percent,BR89895,48.93,per week,2022-10-01,2023-06-30,3,2022-06-24T01:32:00+00:00,2022
-79,735,26.13(b),,Airport catering—supervisory allowance—Up to 5 employees,FALSE,2,Percent,BR89895,18.82,per week,2022-10-01,2023-06-30,3,2022-06-24T01:32:00+00:00,2022
-90,740,37.5,97.5% of 25% of standard weekly rate,Deductions - Shared room and 3 meals a day,FALSE,25,Percent,BR89895,229.35,per week,2022-10-01,2023-06-30,2,2022-06-24T01:32:00+00:00,2022
-99,741,37.6,45%,Deductions - Shared room and 3 meals a day - 15 years of age and under,FALSE,25,Percent,BR89895,103.21,per week,2022-10-01,2023-06-30,2,2022-06-24T01:32:00+00:00,2022
-100,741,37.6,55%,Deductions - Shared room and 3 meals a day - 16 years of age,FALSE,25,Percent,BR89895,126.14,per week,2022-10-01,2023-06-30,2,2022-06-24T01:32:00+00:00,2022
-101,741,37.6,70%,Deductions - Shared room and 3 meals a day - 17 years of age,FALSE,25,Percent,BR89895,160.55,per week,2022-10-01,2023-06-30,2,2022-06-24T01:32:00+00:00,2022
-102,741,37.6,80%,Deductions - Shared room and 3 meals a day - 18 years of age,FALSE,25,Percent,BR89895,183.48,per week,2022-10-01,2023-06-30,2,2022-06-24T01:32:00+00:00,2022
-103,741,37.6,90%,Deductions - Shared room and 3 meals a day - 19 years of age,FALSE,25,Percent,BR89895,206.42,per week,2022-10-01,2023-06-30,2,2022-06-24T01:32:00+00:00,2022
-92,740,37.5,92.5% of 25% of standard weekly rate,"Deductions - Shared room only, no meals",FALSE,25,Percent,BR89895,217.59,per week,2022-10-01,2023-06-30,2,2022-06-24T01:32:00+00:00,2022
-109,741,37.6,45%,Deductions - Shared room only; no meals - 15 years of age and under,FALSE,25,Percent,BR89895,97.92,per week,2022-10-01,2023-06-30,2,2022-06-24T01:32:00+00:00,2022
-110,741,37.6,55%,Deductions - Shared room only; no meals - 16 years of age,FALSE,25,Percent,BR89895,119.67,per week,2022-10-01,2023-06-30,2,2022-06-24T01:32:00+00:00,2022
-111,741,37.6,70%,Deductions - Shared room only; no meals - 17 years of age,FALSE,25,Percent,BR89895,152.31,per week,2022-10-01,2023-06-30,2,2022-06-24T01:32:00+00:00,2022
-112,741,37.6,80%,Deductions - Shared room only; no meals - 18 years of age,FALSE,25,Percent,BR89895,174.07,per week,2022-10-01,2023-06-30,2,2022-06-24T01:32:00+00:00,2022
-113,741,37.6,90%,Deductions - Shared room only; no meals - 19 years of age,FALSE,25,Percent,BR89895,195.83,per week,2022-10-01,2023-06-30,2,2022-06-24T01:32:00+00:00,2022
-89,740,37.5,25% of standard weekly rate,Deductions - Single room and 3 meals a day,FALSE,25,Percent,BR89895,235.23,per week,2022-10-01,2023-06-30,2,2022-06-24T01:32:00+00:00,2022
-94,741,37.6,45%,Deductions - Single room and 3 meals a day - 15 years of age and under,FALSE,25,Percent,BR89895,105.85,per week,2022-10-01,2023-06-30,2,2022-06-24T01:32:00+00:00,2022
-95,741,37.6,55%,Deductions - Single room and 3 meals a day - 16 years of age,FALSE,25,Percent,BR89895,129.38,per week,2022-10-01,2023-06-30,2,2022-06-24T01:32:00+00:00,2022
-96,741,37.6,70%,Deductions - Single room and 3 meals a day - 17 years of age,FALSE,25,Percent,BR89895,164.66,per week,2022-10-01,2023-06-30,2,2022-06-24T01:32:00+00:00,2022
-97,741,37.6,80%,Deductions - Single room and 3 meals a day - 18 years of age,FALSE,25,Percent,BR89895,188.18,per week,2022-10-01,2023-06-30,2,2022-06-24T01:32:00+00:00,2022
-98,741,37.6,90%,Deductions - Single room and 3 meals a day - 19 years of age,FALSE,25,Percent,BR89895,211.71,per week,2022-10-01,2023-06-30,2,2022-06-24T01:32:00+00:00,2022
-91,740,37.5,95% of 25% of standard weekly rate,"Deductions - Single room only, no meals",FALSE,25,Percent,BR89895,223.47,per week,2022-10-01,2023-06-30,2,2022-06-24T01:32:00+00:00,2022
-104,741,37.6,45%,Deductions - Single room only; no meals - 15 years of age and under,FALSE,25,Percent,BR89895,100.56,per week,2022-10-01,2023-06-30,2,2022-06-24T01:32:00+00:00,2022
-105,741,37.6,55%,Deductions - Single room only; no meals - 16 years of age,FALSE,25,Percent,BR89895,122.91,per week,2022-10-01,2023-06-30,2,2022-06-24T01:32:00+00:00,2022
-106,741,37.6,70%,Deductions - Single room only; no meals - 17 years of age,FALSE,25,Percent,BR89895,156.43,per week,2022-10-01,2023-06-30,2,2022-06-24T01:32:00+00:00,2022
-107,741,37.6,80%,Deductions - Single room only; no meals - 18 years of age,FALSE,25,Percent,BR89895,178.78,per week,2022-10-01,2023-06-30,2,2022-06-24T01:32:00+00:00,2022
-108,741,37.6,90%,Deductions - Single room only; no meals - 19 years of age,FALSE,25,Percent,BR89895,201.12,per week,2022-10-01,2023-06-30,2,2022-06-24T01:32:00+00:00,2022
-75,734,26.12(b)(i),,First aid allowance—Full-time employee,FALSE,1.2,Percent,BR89895,11.29,per week,2022-10-01,2023-06-30,4,2022-06-24T01:32:00+00:00,2022
-11951,22974,26.12(b)(ii),,First aid allowance—Part-time or casual employee,FALSE,0.24,Percent,BR89895,2.26,per day,2022-10-01,2023-06-30,4,2022-06-24T01:32:00+00:00,2022
-11952,22974,26.12(b)(ii),,First aid allowance—Part-time or casual maximum payment,FALSE,1.2,Percent,BR89895,11.29,per week,2022-10-01,2023-06-30,4,2022-06-24T01:32:00+00:00,2022
-11950,22973,26.3(a),,Fork-lift driver allowance,TRUE,1.5,Percent,BR89895,0.37,per hour,2022-10-01,2023-06-30,3,2022-06-24T01:32:00+00:00,2022
-12157,733,26.3(b),,Fork-lift driver allowance—Part-time or casual fork-lift driver—prior to 23 January 2020 (see C.1.2 for the rate from 23 January 2020),TRUE,0.3,Percent,BR89895,2.82,per day,2022-10-01,2023-06-30,3,2022-06-24T01:32:00+00:00,2022
-71,733,26.3(b),,Fork-lift driver allowance—Part-time or casual maximum payment—prior to 23 January 2020 (see C.1.2 for the rate from 23 January 2020),TRUE,1.5,Percent,BR89895,14.11,per week,2022-10-01,2023-06-30,3,2022-06-24T01:32:00+00:00,2022
-86,737,26.15(b)(i),,Overnight stay allowance—outside ordinary business operating hours,FALSE,6,Percent,BR89895,56.45,per overnight stay period,2022-10-01,2023-06-30,4,2022-06-24T01:32:00+00:00,2022
-87,738,29.2,,Penalty—Monday to Friday—7.00 pm to midnight,FALSE,10,Percent,BR89895,2.48,per hour or part thereof,2022-10-01,2023-06-30,2,2022-06-24T01:32:00+00:00,2022
-11954,738,29.2,,Penalty—Monday to Friday—midnight to 7.00 am,FALSE,15,Percent,BR89895,3.71,per hour or part thereof,2022-10-01,2023-06-30,2,2022-06-24T01:32:00+00:00,2022
-84,736,26.14(b)(i),,Split shift allowance—2 hours and up to 3 hours,FALSE,0.33,Percent,BR89895,3.1,per day,2022-10-01,2023-06-30,3,2022-06-24T01:32:00+00:00,2022
-11953,22975,26.14(b)(ii),,Split shift allowance—More than 3 hours,FALSE,0.5,Percent,BR89895,4.7,per day,2022-10-01,2023-06-30,3,2022-06-24T01:32:00+00:00,2022
-81,735,26.13(b),,Airport catering—supervisory allowance—11 to 20 employees,FALSE,3.1,Percent,BR89895,27.88,per week,2021-11-01,2022-09-30,,2022-06-28T04:35:03+00:00,2021
-80,735,26.13(b),,Airport catering—supervisory allowance—6 to 10 employees,FALSE,2.75,Percent,BR89895,24.74,per week,2021-11-01,2022-09-30,,2022-06-28T04:35:03+00:00,2021
-82,735,26.13(b),,Airport catering—supervisory allowance—More than 20 employees,FALSE,5.2,Percent,BR89895,46.77,per week,2021-11-01,2022-09-30,,2022-06-28T04:35:03+00:00,2021
-79,735,26.13(b),,Airport catering—supervisory allowance—Up to 5 employees,FALSE,2,Percent,BR89895,17.99,per week,2021-11-01,2022-09-30,,2022-06-28T04:35:03+00:00,2021
-90,740,37.5,97.5% of 25% of standard weekly rate,Deductions - Shared room and 3 meals a day,FALSE,25,Percent,BR89895,219.26,per week,2021-11-01,2022-09-30,,2022-06-28T04:35:53+00:00,2021
-99,741,37.6,45%,Deductions - Shared room and 3 meals a day - 15 years of age and under,FALSE,25,Percent,BR89895,98.67,per week,2021-11-01,2022-09-30,,2022-06-28T04:36:45+00:00,2021
-100,741,37.6,55%,Deductions - Shared room and 3 meals a day - 16 years of age,FALSE,25,Percent,BR89895,120.59,per week,2021-11-01,2022-09-30,,2022-06-28T04:36:45+00:00,2021
-101,741,37.6,70%,Deductions - Shared room and 3 meals a day - 17 years of age,FALSE,25,Percent,BR89895,153.48,per week,2021-11-01,2022-09-30,,2022-06-28T04:36:45+00:00,2021
-102,741,37.6,80%,Deductions - Shared room and 3 meals a day - 18 years of age,FALSE,25,Percent,BR89895,175.41,per week,2021-11-01,2022-09-30,,2022-06-28T04:36:45+00:00,2021
-103,741,37.6,90%,Deductions - Shared room and 3 meals a day - 19 years of age,FALSE,25,Percent,BR89895,197.33,per week,2021-11-01,2022-09-30,,2022-06-28T04:36:45+00:00,2021
-92,740,37.5,92.5% of 25% of standard weekly rate,"Deductions - Shared room only, no meals",FALSE,25,Percent,BR89895,208.01,per week,2021-11-01,2022-09-30,,2022-06-28T04:35:53+00:00,2021
-109,741,37.6,45%,Deductions - Shared room only; no meals - 15 years of age and under,FALSE,25,Percent,BR89895,93.6,per week,2021-11-01,2022-09-30,,2022-06-28T04:36:45+00:00,2021
-110,741,37.6,55%,Deductions - Shared room only; no meals - 16 years of age,FALSE,25,Percent,BR89895,114.41,per week,2021-11-01,2022-09-30,,2022-06-28T04:36:45+00:00,2021
-111,741,37.6,70%,Deductions - Shared room only; no meals - 17 years of age,FALSE,25,Percent,BR89895,145.61,per week,2021-11-01,2022-09-30,,2022-06-28T04:36:45+00:00,2021
-112,741,37.6,80%,Deductions - Shared room only; no meals - 18 years of age,FALSE,25,Percent,BR89895,166.41,per week,2021-11-01,2022-09-30,,2022-06-28T04:36:45+00:00,2021
-113,741,37.6,90%,Deductions - Shared room only; no meals - 19 years of age,FALSE,25,Percent,BR89895,187.21,per week,2021-11-01,2022-09-30,,2022-06-28T04:36:45+00:00,2021
-89,740,37.5,25% of standard weekly rate,Deductions - Single room and 3 meals a day,FALSE,25,Percent,BR89895,224.88,per week,2021-11-01,2022-09-30,,2022-06-28T04:35:53+00:00,2021
-94,741,37.6,45%,Deductions - Single room and 3 meals a day - 15 years of age and under,FALSE,25,Percent,BR89895,101.2,per week,2021-11-01,2022-09-30,,2022-06-28T04:36:45+00:00,2021
-95,741,37.6,55%,Deductions - Single room and 3 meals a day - 16 years of age,FALSE,25,Percent,BR89895,123.68,per week,2021-11-01,2022-09-30,,2022-06-28T04:36:45+00:00,2021
-96,741,37.6,70%,Deductions - Single room and 3 meals a day - 17 years of age,FALSE,25,Percent,BR89895,157.42,per week,2021-11-01,2022-09-30,,2022-06-28T04:36:45+00:00,2021
-97,741,37.6,80%,Deductions - Single room and 3 meals a day - 18 years of age,FALSE,25,Percent,BR89895,179.9,per week,2021-11-01,2022-09-30,,2022-06-28T04:36:45+00:00,2021
-98,741,37.6,90%,Deductions - Single room and 3 meals a day - 19 years of age,FALSE,25,Percent,BR89895,202.39,per week,2021-11-01,2022-09-30,,2022-06-28T04:36:45+00:00,2021
-91,740,37.5,95% of 25% of standard weekly rate,"Deductions - Single room only, no meals",FALSE,25,Percent,BR89895,213.64,per week,2021-11-01,2022-09-30,,2022-06-28T04:35:53+00:00,2021
-104,741,37.6,45%,Deductions - Single room only; no meals - 15 years of age and under,FALSE,25,Percent,BR89895,96.14,per week,2021-11-01,2022-09-30,,2022-06-28T04:36:45+00:00,2021
-105,741,37.6,55%,Deductions - Single room only; no meals - 16 years of age,FALSE,25,Percent,BR89895,117.5,per week,2021-11-01,2022-09-30,,2022-06-28T04:36:45+00:00,2021
-106,741,37.6,70%,Deductions - Single room only; no meals - 17 years of age,FALSE,25,Percent,BR89895,149.55,per week,2021-11-01,2022-09-30,,2022-06-28T04:36:45+00:00,2021
-107,741,37.6,80%,Deductions - Single room only; no meals - 18 years of age,FALSE,25,Percent,BR89895,170.91,per week,2021-11-01,2022-09-30,,2022-06-28T04:36:45+00:00,2021
-108,741,37.6,90%,Deductions - Single room only; no meals - 19 years of age,FALSE,25,Percent,BR89895,192.28,per week,2021-11-01,2022-09-30,,2022-06-28T04:36:45+00:00,2021
-75,734,26.12(b)(i),,First aid allowance—Full-time employee,FALSE,1.2,Percent,BR89895,10.79,per week,2021-11-01,2022-09-30,,2022-06-28T04:34:41+00:00,2021
-11951,22974,26.12(b)(ii),,First aid allowance—Part-time or casual employee,FALSE,0.24,Percent,BR89895,2.16,per day,2021-11-01,2022-09-30,,2022-06-28T04:34:52+00:00,2021
-11952,22974,26.12(b)(ii),,First aid allowance—Part-time or casual maximum payment,FALSE,1.2,Percent,BR89895,10.79,per week,2021-11-01,2022-09-30,,2022-06-28T04:34:52+00:00,2021
-11950,22973,26.3(a),,Fork-lift driver allowance,TRUE,1.5,Percent,BR89895,0.36,per hour,2021-11-01,2022-09-30,,2022-06-28T04:34:18+00:00,2021
-12157,733,26.3(b),,Fork-lift driver allowance—Part-time or casual fork-lift driver—prior to 23 January 2020 (see C.1.2 for the rate from 23 January 2020),TRUE,0.3,Percent,BR89895,2.7,per day,2021-11-01,2022-09-30,,2022-06-28T04:34:33+00:00,2021
-71,733,26.3(b),,Fork-lift driver allowance—Part-time or casual maximum payment—prior to 23 January 2020 (see C.1.2 for the rate from 23 January 2020),TRUE,1.5,Percent,BR89895,13.49,per week,2021-11-01,2022-09-30,,2022-06-28T04:34:33+00:00,2021
-86,737,26.15(b)(i),,Overnight stay allowance—outside ordinary business operating hours,FALSE,6,Percent,BR89895,53.97,per overnight stay period,2021-11-01,2022-09-30,,2022-06-28T04:35:26+00:00,2021
-87,738,29.2,,Penalty—Monday to Friday—7.00 pm to midnight,FALSE,10,Percent,BR89895,2.37,per hour or part thereof,2021-11-01,2022-09-30,,2022-06-28T04:35:34+00:00,2021
-11954,738,29.2,,Penalty—Monday to Friday—midnight to 7.00 am,FALSE,15,Percent,BR89895,3.55,per hour or part thereof,2021-11-01,2022-09-30,,2022-06-28T04:35:34+00:00,2021
-84,736,26.14(b)(i),,Split shift allowance—2 hours and up to 3 hours,FALSE,0.33,Percent,BR89895,2.97,per day,2021-11-01,2022-09-30,,2022-06-28T04:35:10+00:00,2021
-11953,22975,26.14(b)(ii),,Split shift allowance—More than 3 hours,FALSE,0.5,Percent,BR89895,4.5,per day,2021-11-01,2022-09-30,,2022-06-28T04:35:18+00:00,2021
-81,735,26.13(b),,Airport catering—supervisory allowance—11 to 20 employees,FALSE,3.1,Percent,,27.21,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
-80,735,26.13(b),,Airport catering—supervisory allowance—6 to 10 employees,FALSE,2.75,Percent,,24.13,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
-82,735,26.13(b),,Airport catering—supervisory allowance—More than 20 employees,FALSE,5.2,Percent,,45.64,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
-79,735,26.13(b),,Airport catering—supervisory allowance—Up to 5 employees,FALSE,2,Percent,,17.55,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
-90,740,37.5,97.5% of 25% of standard weekly rate,Deductions - Shared room and 3 meals a day,FALSE,25,Percent,,213.92,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
-99,741,37.6,45%,Deductions - Shared room and 3 meals a day - 15 years of age and under,FALSE,25,Percent,,96.26,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
-100,741,37.6,55%,Deductions - Shared room and 3 meals a day - 16 years of age,FALSE,25,Percent,,117.66,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
-101,741,37.6,70%,Deductions - Shared room and 3 meals a day - 17 years of age,FALSE,25,Percent,,149.74,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
-102,741,37.6,80%,Deductions - Shared room and 3 meals a day - 18 years of age,FALSE,25,Percent,,171.14,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
-103,741,37.6,90%,Deductions - Shared room and 3 meals a day - 19 years of age,FALSE,25,Percent,,192.53,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
-92,740,37.5,92.5% of 25% of standard weekly rate,"Deductions - Shared room only, no meals",FALSE,25,Percent,,202.95,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
-109,741,37.6,45%,Deductions - Shared room only; no meals - 15 years of age and under,FALSE,25,Percent,,91.33,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
-110,741,37.6,55%,Deductions - Shared room only; no meals - 16 years of age,FALSE,25,Percent,,111.62,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
-111,741,37.6,70%,Deductions - Shared room only; no meals - 17 years of age,FALSE,25,Percent,,142.07,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
-112,741,37.6,80%,Deductions - Shared room only; no meals - 18 years of age,FALSE,25,Percent,,162.36,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
-113,741,37.6,90%,Deductions - Shared room only; no meals - 19 years of age,FALSE,25,Percent,,182.66,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
-89,740,37.5,25% of standard weekly rate,Deductions - Single room and 3 meals a day,FALSE,25,Percent,,219.4,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
-94,741,37.6,45%,Deductions - Single room and 3 meals a day - 15 years of age and under,FALSE,25,Percent,,98.73,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
-95,741,37.6,55%,Deductions - Single room and 3 meals a day - 16 years of age,FALSE,25,Percent,,120.67,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
-96,741,37.6,70%,Deductions - Single room and 3 meals a day - 17 years of age,FALSE,25,Percent,,153.58,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
-97,741,37.6,80%,Deductions - Single room and 3 meals a day - 18 years of age,FALSE,25,Percent,,175.52,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
-98,741,37.6,90%,Deductions - Single room and 3 meals a day - 19 years of age,FALSE,25,Percent,,197.46,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
-91,740,37.5,95% of 25% of standard weekly rate,"Deductions - Single room only, no meals",FALSE,25,Percent,,208.43,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
-104,741,37.6,45%,Deductions - Single room only; no meals - 15 years of age and under,FALSE,25,Percent,,93.79,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
-105,741,37.6,55%,Deductions - Single room only; no meals - 16 years of age,FALSE,25,Percent,,114.64,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
-106,741,37.6,70%,Deductions - Single room only; no meals - 17 years of age,FALSE,25,Percent,,145.9,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
-107,741,37.6,80%,Deductions - Single room only; no meals - 18 years of age,FALSE,25,Percent,,166.74,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
-108,741,37.6,90%,Deductions - Single room only; no meals - 19 years of age,FALSE,25,Percent,,187.59,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
-75,734,26.12(b)(i),,First aid allowance—Full-time employee,FALSE,1.2,Percent,,10.53,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
-11951,22974,26.12(b)(ii),,First aid allowance—Part-time or casual employee,FALSE,0.24,Percent,,2.11,per day,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
-11952,22974,26.12(b)(ii),,First aid allowance—Part-time or casual maximum payment,FALSE,1.2,Percent,,10.53,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
-11950,22973,26.3(a),,Fork-lift driver allowance,TRUE,1.5,Percent,,0.35,per hour,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
-12157,733,26.3(b),,Fork-lift driver allowance—Part-time or casual fork-lift driver—prior to 23 January 2020 (see C.1.2 for the rate from 23 January 2020),TRUE,0.3,Percent,,2.63,per day,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
-71,733,26.3(b),,Fork-lift driver allowance—Part-time or casual maximum payment—prior to 23 January 2020 (see C.1.2 for the rate from 23 January 2020),TRUE,1.5,Percent,,13.16,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
-86,737,26.15(b)(i),,Overnight stay allowance—outside ordinary business operating hours,FALSE,6,Percent,,52.66,per overnight stay period,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
-87,738,29.2,,Penalty—Monday to Friday—7.00 pm to midnight,FALSE,10,Percent,,2.31,per hour or part thereof,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
-11954,738,29.2,,Penalty—Monday to Friday—midnight to 7.00 am,FALSE,15,Percent,,3.46,per hour or part thereof,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
-84,736,26.14(b)(i),,Split shift allowance—2 hours and up to 3 hours,FALSE,0.33,Percent,,2.9,per day,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
-11953,22975,26.14(b)(ii),,Split shift allowance—More than 3 hours,FALSE,0.5,Percent,,4.39,per day,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
-81,735,21.2(c),,Airport catering—supervisory allowance—11 to 20 employees,FALSE,3.1,Percent,,26.74,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
-80,735,21.2(c),,Airport catering—supervisory allowance—6 to 10 employees,FALSE,2.75,Percent,,23.72,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
-82,735,21.2(c),,Airport catering—supervisory allowance—More than 20 employees,FALSE,5.2,Percent,,44.85,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
-79,735,21.2(c),,Airport catering—supervisory allowance—Up to 5 employees,FALSE,2,Percent,,17.25,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
-93,740,39.2,1% of the standard weekly rate,Deductions - A meal,FALSE,1,Percent,,8.63,per week,2019-07-01,2021-01-31,,2023-04-05T07:22:58+00:00,2019
-114,741,39.3,—,Deductions - A meal - Same rate all ages,FALSE,1,Percent,,8.63,per meal,2019-07-01,2021-01-31,,2023-04-05T07:22:58+00:00,2019
-90,740,39.2,97.5% of 25% of standard weekly rate,Deductions - Shared room and 3 meals a day,FALSE,25,Percent,,210.24,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
-99,741,39.3,45%,Deductions - Shared room and 3 meals a day - 15 yrs & under,FALSE,25,Percent,,94.61,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
-100,741,39.3,55%,Deductions - Shared room and 3 meals a day - 16 yrs,FALSE,25,Percent,,115.63,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
-101,741,39.3,70%,Deductions - Shared room and 3 meals a day - 17 yrs,FALSE,25,Percent,,147.17,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
-102,741,39.3,80%,Deductions - Shared room and 3 meals a day - 18 yrs,FALSE,25,Percent,,168.19,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
-103,741,39.3,90%,Deductions - Shared room and 3 meals a day - 19 yrs,FALSE,25,Percent,,189.22,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
-92,740,39.2,92.5% of 25% of standard weekly rate,"Deductions - Shared room only, no meals",FALSE,25,Percent,,199.46,per meal,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
-109,741,39.3,45%,Deductions - Shared room only; no meals - 15 yrs & under,FALSE,25,Percent,,89.76,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
-110,741,39.3,55%,Deductions - Shared room only; no meals - 16 yrs,FALSE,25,Percent,,109.7,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
-111,741,39.3,70%,Deductions - Shared room only; no meals - 17 yrs,FALSE,25,Percent,,139.62,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
-112,741,39.3,80%,Deductions - Shared room only; no meals - 18 yrs,FALSE,25,Percent,,159.57,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
-113,741,39.3,90%,Deductions - Shared room only; no meals - 19 yrs,FALSE,25,Percent,,179.51,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
-89,740,39.2,25% of standard weekly rate,Deductions - Single room and 3 meals a day,FALSE,25,Percent,,215.63,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
-94,741,39.3,45%,Deductions - Single room and 3 meals a day - 15 yrs & under,FALSE,25,Percent,,97.03,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
-95,741,39.3,55%,Deductions - Single room and 3 meals a day - 16 yrs,FALSE,25,Percent,,118.6,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
-96,741,39.3,70%,Deductions - Single room and 3 meals a day - 17 yrs,FALSE,25,Percent,,150.94,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
-97,741,39.3,80%,Deductions - Single room and 3 meals a day - 18 yrs,FALSE,25,Percent,,172.5,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
-98,741,39.3,90%,Deductions - Single room and 3 meals a day - 19 yrs,FALSE,25,Percent,,194.07,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
-91,740,39.2,95% of 25% of standard weekly rate,"Deductions - Single room only, no meals",FALSE,25,Percent,,204.85,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
-104,741,39.3,45%,Deductions - Single room only; no meals - 15 yrs & under,FALSE,25,Percent,,92.18,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
-105,741,39.3,55%,Deductions - Single room only; no meals - 16 yrs,FALSE,25,Percent,,112.67,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
-106,741,39.3,70%,Deductions - Single room only; no meals - 17 yrs,FALSE,25,Percent,,143.4,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
-107,741,39.3,80%,Deductions - Single room only; no meals - 18 yrs,FALSE,25,Percent,,163.88,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
-108,741,39.3,90%,Deductions - Single room only; no meals - 19 yrs,FALSE,25,Percent,,184.37,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
-75,734,21.2(b),,First aid allowance—Full-time employee,FALSE,1.2,Percent,,10.35,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
-11951,734,21.2(b),,First aid allowance—Part-time or casual employee,FALSE,0.24,Percent,,2.07,per day,2019-07-01,2021-01-31,,2023-04-05T07:24:58+00:00,2019
-11952,734,21.2(b),,First aid allowance—Part-time or casual maximum payment,FALSE,1.2,Percent,,10.35,per week,2019-07-01,2021-01-31,,2023-04-05T07:24:58+00:00,2019
-11950,733,21.2(a),,Fork-lift driver allowance,TRUE,1.5,Percent,,12.94,per week,2019-07-01,2021-01-31,,2023-04-05T07:24:58+00:00,2019
-12157,733,21.2(a),,Fork-lift driver allowance—Part-time or casual fork-lift driver,TRUE,0.3,Percent,,2.59,per day,2019-07-01,2021-01-31,,2023-04-05T07:24:58+00:00,2019
-73,733,21.2(a),,Fork-lift driver allowance—Part-time or casual maximum payment,TRUE,1.5,Percent,,12.94,per week,2019-07-01,2021-01-31,,2023-04-05T07:22:58+00:00,2019
-86,737,21.3(b)(i),,Overnight stay allowance—outside ordinary business operating hours,FALSE,6,Percent,,51.75,per overnight stay period,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
-87,738,32.3(a),,Penalty—Monday to Friday—7.00pm to midnight,FALSE,10,Percent,,2.27,per hour,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
-11954,739,32.3(b),,Penalty—Monday to Friday—midnight to 7.00 am,FALSE,15,Percent,,3.41,per hour,2019-07-01,2021-01-31,,2023-04-05T07:24:58+00:00,2019
-84,736,21.3(a),,Split shift allowance—2 hours and up to 3 hours,FALSE,0.33,Percent,,2.85,per day,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
-11953,736,21.3(a),,Split shift allowance—More than 3 hours,FALSE,0.5,Percent,,4.31,per day,2019-07-01,2021-01-31,,2023-04-05T07:24:58+00:00,2019
-81,735,21.2(c),,Airport catering—supervisory allowance—11 to 20 employees,FALSE,3.1,Percent,,25.96,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
-80,735,21.2(c),,Airport catering—supervisory allowance—6 to 10 employees,FALSE,2.75,Percent,,23.03,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
-82,735,21.2(c),,Airport catering—supervisory allowance—More than 20 employees,FALSE,5.2,Percent,,43.54,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
-79,735,21.2(c),,Airport catering—supervisory allowance—Up to 5 employees,FALSE,2,Percent,,16.75,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
-93,740,39.2,1% of the standard weekly rate,Deductions - A meal,FALSE,1,Percent,,8.37,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
-114,741,39.3,—,Deductions - A meal - Same rate all ages,FALSE,1,Percent,,8.37,per meal,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
-90,740,39.2,97.5% of 25% of standard weekly rate,Deductions - Shared room and 3 meals a day,FALSE,25,Percent,,204.12,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
-99,741,39.3,45%,Deductions - Shared room and 3 meals a day  - 15 yrs & under,FALSE,25,Percent,,91.85,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
-100,741,39.3,55%,Deductions - Shared room and 3 meals a day  - 16 yrs,FALSE,25,Percent,,112.27,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
-101,741,39.3,70%,Deductions - Shared room and 3 meals a day  - 17 yrs,FALSE,25,Percent,,142.88,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
-102,741,39.3,80%,Deductions - Shared room and 3 meals a day  - 18 yrs,FALSE,25,Percent,,163.3,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
-103,741,39.3,90%,Deductions - Shared room and 3 meals a day  - 19 yrs,FALSE,25,Percent,,183.71,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
-92,740,39.2,92.5% of 25% of standard weekly rate,"Deductions - Shared room only, no meals",FALSE,25,Percent,,193.65,per meal,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
-109,741,39.3,45%,Deductions - Shared room only; no meals - 15 yrs & under,FALSE,25,Percent,,87.14,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
-110,741,39.3,55%,Deductions - Shared room only; no meals -16 yrs,FALSE,25,Percent,,106.51,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
-111,741,39.3,70%,Deductions - Shared room only; no meals -17 yrs,FALSE,25,Percent,,135.56,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
-112,741,39.3,80%,Deductions - Shared room only; no meals -18 yrs,FALSE,25,Percent,,154.92,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
-113,741,39.3,90%,Deductions - Shared room only; no meals -19 yrs,FALSE,25,Percent,,174.29,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
-89,740,39.2,25% of standard weekly rate,Deductions - Single room and 3 meals a day,FALSE,25,Percent,,209.35,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
-94,741,39.3,45%,Deductions - Single room and 3 meals a day  - 15 yrs & under,FALSE,25,Percent,,94.21,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
-95,741,39.3,55%,Deductions - Single room and 3 meals a day - 16 yrs,FALSE,25,Percent,,115.14,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
-96,741,39.3,70%,Deductions - Single room and 3 meals a day - 17 yrs,FALSE,25,Percent,,146.55,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
-97,741,39.3,80%,Deductions - Single room and 3 meals a day - 18 yrs,FALSE,25,Percent,,167.48,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
-98,741,39.3,90%,Deductions - Single room and 3 meals a day - 19 yrs,FALSE,25,Percent,,188.42,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
-91,740,39.2,95% of 25% of standard weekly rate,"Deductions - Single room only, no meals",FALSE,25,Percent,,198.88,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
-104,741,39.3,45%,Deductions - Single room only; no meals - 15 yrs & under,FALSE,25,Percent,,89.5,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
-105,741,39.3,55%,Deductions - Single room only; no meals -16 yrs,FALSE,25,Percent,,109.38,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
-106,741,39.3,70%,Deductions - Single room only; no meals -17 yrs,FALSE,25,Percent,,139.22,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
-107,741,39.3,80%,Deductions - Single room only; no meals -18 yrs,FALSE,25,Percent,,159.1,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
-108,741,39.3,90%,Deductions - Single room only; no meals -19 yrs,FALSE,25,Percent,,178.99,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
-75,734,21.2(b),,First aid allowance—Full-time employee,FALSE,1.2,Percent,,10.05,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
-11951,734,21.2(b),,First aid allowance—Part-time or casual employee,FALSE,0.24,Percent,,2.01,per day,2018-07-01,2019-06-30,,2023-04-05T07:24:57+00:00,2018
-11952,734,21.2(b),,First aid allowance—Part-time or casual maximum payment,FALSE,1.2,Percent,,10.05,per week,2018-07-01,2019-06-30,,2023-04-05T07:24:57+00:00,2018
-11950,733,21.2(a),,Fork-lift driver allowance,TRUE,1.5,Percent,,12.56,per week,2018-07-01,2019-06-30,,2023-04-05T07:24:57+00:00,2018
-12157,733,21.2(a),,Fork-lift driver allowance—Part-time or casual fork-lift driver,TRUE,0.3,Percent,,2.51,per day,2018-07-01,2019-06-30,,2023-04-05T07:24:57+00:00,2018
-73,733,21.2(a),,Fork-lift driver allowance—Part-time or casual maximum payment,TRUE,1.5,Percent,,12.56,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
-86,737,21.3(b)(i),,Overnight stay allowance—outside ordinary business operating hours,FALSE,6,Percent,,50.24,per overnight stay period,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
-87,738,32.3(a),,Penalty—Monday to Friday—7.00pm to midnight,FALSE,10,Percent,,2.2,per hour,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
-11954,739,32.3(b),,Penalty—Monday to Friday—midnight to 7.00 am,FALSE,15,Percent,,3.31,per hour,2018-07-01,2019-06-30,,2023-04-05T07:24:57+00:00,2018
-84,736,21.3(a),,Split shift allowance—2 hours and up to 3 hours,FALSE,0.33,Percent,,2.76,per day,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
-11953,736,21.3(a),,Split shift allowance—More than 3 hours,FALSE,0.5,Percent,,4.19,per day,2018-07-01,2019-06-30,,2023-04-05T07:24:57+00:00,2018
-81,735,21.2(c),,Airport catering—supervisory allowance—11 to 20 employees,FALSE,3.1,Percent,,25.08,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
-80,735,21.2(c),,Airport catering—supervisory allowance—6 to 10 employees,FALSE,2.75,Percent,,22.25,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
-82,735,21.2(c),,Airport catering—supervisory allowance—More than 20 employees,FALSE,5.2,Percent,,42.07,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
-79,735,21.2(c),,Airport catering—supervisory allowance—Up to 5 employees,FALSE,2,Percent,,16.18,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
-12256,740,39.2,1% of the standard weekly rate,Deductions - A meal,FALSE,1,Percent,,8.09,per week,2017-07-01,2018-06-30,,2023-04-05T07:24:57+00:00,2017
-114,741,39.3,—,Deductions - A meal - Same rate all ages,FALSE,1,Percent,,8.09,per meal,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
-90,740,39.2,97.5% of 25% of standard weekly rate,Deductions - Shared room and 3 meals a day,FALSE,25,Percent,,197.22,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
-99,741,39.3,45%,Deductions - Shared room and 3 meals a day  - 15 yrs & under,FALSE,25,Percent,,88.75,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
-100,741,39.3,55%,Deductions - Shared room and 3 meals a day  - 16 yrs,FALSE,25,Percent,,108.47,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
-101,741,39.3,70%,Deductions - Shared room and 3 meals a day  - 17 yrs,FALSE,25,Percent,,138.05,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
-102,741,39.3,80%,Deductions - Shared room and 3 meals a day  - 18 yrs,FALSE,25,Percent,,157.78,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
-103,741,39.3,90%,Deductions - Shared room and 3 meals a day  - 19 yrs,FALSE,25,Percent,,177.5,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
-92,740,39.2,92.5% of 25% of standard weekly rate,"Deductions - Shared room only, no meals",FALSE,25,Percent,,187.11,per meal,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
-109,741,39.3,45%,Deductions - Shared room only; no meals - 15 yrs & under,FALSE,25,Percent,,84.2,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
-110,741,39.3,55%,Deductions - Shared room only; no meals -16 yrs,FALSE,25,Percent,,102.91,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
-111,741,39.3,70%,Deductions - Shared room only; no meals -17 yrs,FALSE,25,Percent,,130.98,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
-112,741,39.3,80%,Deductions - Shared room only; no meals -18 yrs,FALSE,25,Percent,,149.69,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
-113,741,39.3,90%,Deductions - Shared room only; no meals -19 yrs,FALSE,25,Percent,,168.4,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
-89,740,39.2,25% of standard weekly rate,Deductions - Single room and 3 meals a day,FALSE,25,Percent,,202.28,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
-94,741,39.3,45%,Deductions - Single room and 3 meals a day  - 15 yrs & under,FALSE,25,Percent,,91.03,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
-95,741,39.3,55%,Deductions - Single room and 3 meals a day - 16 yrs,FALSE,25,Percent,,111.25,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
-96,741,39.3,70%,Deductions - Single room and 3 meals a day - 17 yrs,FALSE,25,Percent,,141.6,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
-97,741,39.3,80%,Deductions - Single room and 3 meals a day - 18 yrs,FALSE,25,Percent,,161.82,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
-98,741,39.3,90%,Deductions - Single room and 3 meals a day - 19 yrs,FALSE,25,Percent,,182.05,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
-91,740,39.2,95% of 25% of standard weekly rate,"Deductions - Single room only, no meals",FALSE,25,Percent,,192.17,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
-104,741,39.3,45%,Deductions - Single room only; no meals - 15 yrs & under,FALSE,25,Percent,,86.48,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
-105,741,39.3,55%,Deductions - Single room only; no meals -16 yrs,FALSE,25,Percent,,105.69,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
-106,741,39.3,70%,Deductions - Single room only; no meals -17 yrs,FALSE,25,Percent,,134.52,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
-107,741,39.3,80%,Deductions - Single room only; no meals -18 yrs,FALSE,25,Percent,,153.74,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
-108,741,39.3,90%,Deductions - Single room only; no meals -19 yrs,FALSE,25,Percent,,172.95,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
-75,734,21.2(b),,First aid allowance—Full-time employee,FALSE,1.2,Percent,,9.71,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
-11951,734,21.2(b),,First aid allowance—Part-time or casual employee,FALSE,0.24,Percent,,1.94,per day,2017-07-01,2018-06-30,,2023-04-05T07:24:57+00:00,2017
-11952,734,21.2(b),,First aid allowance—Part-time or casual maximum payment,FALSE,1.2,Percent,,9.71,per week,2017-07-01,2018-06-30,,2023-04-05T07:24:57+00:00,2017
-11950,733,21.2(a),,Fork-lift driver allowance,TRUE,1.5,Percent,,12.14,per week,2017-07-01,2018-06-30,,2023-04-05T07:24:57+00:00,2017
-12157,733,21.2(a),,Fork-lift driver allowance—Part-time or casual fork-lift driver,TRUE,0.3,Percent,,2.43,per day,2017-07-01,2018-06-30,,2023-04-05T07:24:57+00:00,2017
-73,733,21.2(a),,Fork-lift driver allowance—Part-time or casual maximum payment,TRUE,1.5,Percent,,12.14,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
-86,737,21.3(b)(i),,Overnight stay allowance—outside ordinary business operating hours,FALSE,6,Percent,,48.55,per overnight stay period,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
-87,738,32.3(a),,Penalty—Monday to Friday—7.00pm to midnight,FALSE,10,Percent,,2.13,per hour,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
-11954,739,32.3(b),,Penalty—Monday to Friday—midnight to 7.00 am,FALSE,15,Percent,,3.19,per hour,2017-07-01,2018-06-30,,2023-04-05T07:24:57+00:00,2017
-84,736,21.3(a),,Split shift allowance—2 hours and up to 3 hours,FALSE,0.33,Percent,,2.67,per day,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
-11953,736,21.3(a),,Split shift allowance—More than 3 hours,FALSE,0.5,Percent,,4.05,per day,2017-07-01,2018-06-30,,2023-04-05T07:24:57+00:00,2017
-81,735,21.2(c),,Airport catering—supervisory allowance—11 to 20 employees,FALSE,3.1,Percent,,24.28,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
-80,735,21.2(c),,Airport catering—supervisory allowance—6 to 10 employees,FALSE,2.75,Percent,,21.54,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
-82,735,21.2(c),,Airport catering—supervisory allowance—More than 20 employees,FALSE,5.2,Percent,,40.73,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
-79,735,21.2(c),,Airport catering—supervisory allowance—Up to 5 employees,FALSE,2,Percent,,15.67,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
-12256,740,39.2,1% of the standard weekly rate,Deductions - A meal,FALSE,1,Percent,,7.83,per week,2016-07-01,2017-06-30,,2023-04-05T07:24:56+00:00,2016
-114,741,39.3,"—
-",Deductions - A meal - Same rate all ages,FALSE,1,Percent,,7.83,per meal,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
-90,740,39.2,97.5% of 25% of standard weekly rate,Deductions - Shared room and 3 meals a day,FALSE,25,Percent,,190.93,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
-99,741,39.3,45%,Deductions - Shared room and 3 meals a day  - 15 yrs & under,FALSE,25,Percent,,85.92,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
-100,741,39.3,55%,Deductions - Shared room and 3 meals a day  - 16 yrs,FALSE,25,Percent,,105.01,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
-101,741,39.3,70%,Deductions - Shared room and 3 meals a day  - 17 yrs,FALSE,25,Percent,,133.65,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
-102,741,39.3,80%,Deductions - Shared room and 3 meals a day  - 18 yrs,FALSE,25,Percent,,152.74,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
-103,741,39.3,90%,Deductions - Shared room and 3 meals a day  - 19 yrs,FALSE,25,Percent,,171.84,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
-92,740,39.2,92.5% of 25% of standard weekly rate,"Deductions - Shared room only, no meals",FALSE,25,Percent,,181.14,per meal,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
-109,741,39.3,45%,Deductions - Shared room only; no meals - 15 yrs & under,FALSE,25,Percent,,81.51,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
-110,741,39.3,55%,Deductions - Shared room only; no meals -16 yrs,FALSE,25,Percent,,99.63,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
-111,741,39.3,70%,Deductions - Shared room only; no meals -17 yrs,FALSE,25,Percent,,126.8,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
-112,741,39.3,80%,Deductions - Shared room only; no meals -18 yrs,FALSE,25,Percent,,144.91,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
-113,741,39.3,90%,Deductions - Shared room only; no meals -19 yrs,FALSE,25,Percent,,163.03,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
-89,740,39.2,25% of standard weekly rate,Deductions - Single room and 3 meals a day,FALSE,25,Percent,,195.83,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
-94,741,39.3,45%,Deductions - Single room and 3 meals a day  - 15 yrs & under,FALSE,25,Percent,,88.12,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
-95,741,39.3,55%,Deductions - Single room and 3 meals a day - 16 yrs,FALSE,25,Percent,,107.71,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
-96,741,39.3,70%,Deductions - Single room and 3 meals a day - 17 yrs,FALSE,25,Percent,,137.08,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
-97,741,39.3,80%,Deductions - Single room and 3 meals a day - 18 yrs,FALSE,25,Percent,,156.66,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
-98,741,39.3,90%,Deductions - Single room and 3 meals a day - 19 yrs,FALSE,25,Percent,,176.25,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
-91,740,39.2,95% of 25% of standard weekly rate,"Deductions - Single room only, no meals",FALSE,25,Percent,,186.04,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
-104,741,39.3,45%,Deductions - Single room only; no meals - 15 yrs & under,FALSE,25,Percent,,83.71,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
-105,741,39.3,55%,Deductions - Single room only; no meals -16 yrs,FALSE,25,Percent,,102.32,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
-106,741,39.3,70%,Deductions - Single room only; no meals -17 yrs,FALSE,25,Percent,,130.22,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
-107,741,39.3,80%,Deductions - Single room only; no meals -18 yrs,FALSE,25,Percent,,148.82,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
-108,741,39.3,90%,Deductions - Single room only; no meals -19 yrs,FALSE,25,Percent,,167.43,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
-75,734,21.2(b),,First aid allowance—Full-time employee,FALSE,1.2,Percent,,9.4,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
-11951,734,21.2(b),,First aid allowance—Part-time or casual employee,FALSE,0.24,Percent,,1.88,per day,2016-07-01,2017-06-30,,2023-04-05T07:24:56+00:00,2016
-11952,734,21.2(b),,First aid allowance—Part-time or casual maximum payment,FALSE,1.2,Percent,,9.4,per week,2016-07-01,2017-06-30,,2023-04-05T07:24:56+00:00,2016
-11950,733,21.2(a),,Fork-lift driver allowance,TRUE,1.5,Percent,,11.75,per week,2016-07-01,2017-06-30,,2023-04-05T07:24:56+00:00,2016
-12157,733,21.2(a),,Fork-lift driver allowance—Part-time or casual fork-lift driver,TRUE,0.3,Percent,,2.35,per day,2016-07-01,2017-06-30,,2023-04-05T07:24:56+00:00,2016
-73,733,21.2(a),,Fork-lift driver allowance—Part-time or casual maximum payment,TRUE,1.5,Percent,,11.75,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
-86,737,21.3(b)(i),,Overnight stay allowance—outside ordinary business operating hours,FALSE,6,Percent,,47,per overnight stay period,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
-87,738,32.3(a),,Penalty—Monday to Friday—7.00pm to midnight,FALSE,10,Percent,,2.06,per hour,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
-11954,739,32.3(b),,Penalty—Monday to Friday—midnight to 7.00 am,FALSE,15,Percent,,3.09,per hour,2016-07-01,2017-06-30,,2023-04-05T07:24:56+00:00,2016
-84,736,21.3(a),,Split shift allowance—2 hours and up to 3 hours,FALSE,0.33,Percent,,2.58,per day,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
-11953,736,21.3(a),,Split shift allowance—More than 3 hours,FALSE,0.5,Percent,,3.92,per day,2016-07-01,2017-06-30,,2023-04-05T07:24:56+00:00,2016
-81,735,21.2(c),,Airport catering—supervisory allowance—11 to 20 employees,FALSE,3.1,Percent,,23.71,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
-80,735,21.2(c),,Airport catering—supervisory allowance—6 to 10 employees,FALSE,2.75,Percent,,21.03,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
-82,735,21.2(c),,Airport catering—supervisory allowance—More than 20 employees,FALSE,5.2,Percent,,39.77,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
-79,735,21.2(c),,Airport catering—supervisory allowance—Up to 5 employees,FALSE,2,Percent,,15.3,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
-12256,740,39.2,1% of the standard weekly rate,Deductions - A meal,FALSE,1,Percent,,7.65,per week,2015-07-01,2016-06-30,,2023-04-05T07:24:55+00:00,2015
-114,741,39.3,—,Deductions - A meal - Same rate all ages,FALSE,1,Percent,,7.65,per meal,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
-90,740,39.2,97.5% of 25% of standard weekly rate,Deductions - Shared room and 3 meals a day,FALSE,25,Percent,,186.45,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
-99,741,39.3,45%,Deductions - Shared room and 3 meals a day  - 15 yrs & under,FALSE,25,Percent,,83.9,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
-100,741,39.3,55%,Deductions - Shared room and 3 meals a day  - 16 yrs,FALSE,25,Percent,,102.55,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
-101,741,39.3,70%,Deductions - Shared room and 3 meals a day  - 17 yrs,FALSE,25,Percent,,130.52,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
-102,741,39.3,80%,Deductions - Shared room and 3 meals a day  - 18 yrs,FALSE,25,Percent,,149.16,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
-103,741,39.3,90%,Deductions - Shared room and 3 meals a day  - 19 yrs,FALSE,25,Percent,,167.81,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
-92,740,39.2,92.5% of 25% of standard weekly rate,"Deductions - Shared room only, no meals",FALSE,25,Percent,,176.89,per meal,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
-109,741,39.3,45%,Deductions - Shared room only; no meals - 15 yrs & under,FALSE,25,Percent,,79.6,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
-110,741,39.3,55%,Deductions - Shared room only; no meals -16 yrs,FALSE,25,Percent,,97.29,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
-111,741,39.3,70%,Deductions - Shared room only; no meals -17 yrs,FALSE,25,Percent,,123.82,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
-112,741,39.3,80%,Deductions - Shared room only; no meals -18 yrs,FALSE,25,Percent,,141.51,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
-113,741,39.3,90%,Deductions - Shared room only; no meals -19 yrs,FALSE,25,Percent,,159.2,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
-89,740,39.2,25% of standard weekly rate,Deductions - Single room and 3 meals a day,FALSE,25,Percent,,191.23,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
-94,741,39.3,45%,Deductions - Single room and 3 meals a day  - 15 yrs & under,FALSE,25,Percent,,86.05,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
-95,741,39.3,55%,Deductions - Single room and 3 meals a day - 16 yrs,FALSE,25,Percent,,105.18,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
-96,741,39.3,70%,Deductions - Single room and 3 meals a day - 17 yrs,FALSE,25,Percent,,133.86,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
-97,741,39.3,80%,Deductions - Single room and 3 meals a day - 18 yrs,FALSE,25,Percent,,152.98,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
-98,741,39.3,90%,Deductions - Single room and 3 meals a day - 19 yrs,FALSE,25,Percent,,172.11,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
-91,740,39.2,95% of 25% of standard weekly rate,"Deductions - Single room only, no meals",FALSE,25,Percent,,181.67,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
-104,741,39.3,45%,Deductions - Single room only; no meals - 15 yrs & under,FALSE,25,Percent,,81.75,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
-105,741,39.3,55%,Deductions - Single room only; no meals -16 yrs,FALSE,25,Percent,,99.92,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
-106,741,39.3,70%,Deductions - Single room only; no meals -17 yrs,FALSE,25,Percent,,127.17,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
-107,741,39.3,80%,Deductions - Single room only; no meals -18 yrs,FALSE,25,Percent,,145.34,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
-108,741,39.3,90%,Deductions - Single room only; no meals -19 yrs,FALSE,25,Percent,,163.5,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
-75,734,21.2(b),,First aid allowance—Full-time employee,FALSE,1.2,Percent,,9.18,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
-11951,734,21.2(b),,First aid allowance—Part-time or casual employee,FALSE,0.24,Percent,,1.84,per day,2015-07-01,2016-06-30,,2023-04-05T07:24:55+00:00,2015
-11952,734,21.2(b),,First aid allowance—Part-time or casual maximum payment,FALSE,1.2,Percent,,9.18,per week,2015-07-01,2016-06-30,,2023-04-05T07:24:55+00:00,2015
-11950,733,21.2(a),,Fork-lift driver allowance,TRUE,1.5,Percent,,11.47,per week,2015-07-01,2016-06-30,,2023-04-05T07:24:55+00:00,2015
-12157,733,21.2(a),,Fork-lift driver allowance—Part-time or casual fork-lift driver,TRUE,0.3,Percent,,2.29,per day,2015-07-01,2016-06-30,,2023-04-05T07:24:55+00:00,2015
-73,733,21.2(a),,Fork-lift driver allowance—Part-time or casual maximum payment,TRUE,1.5,Percent,,11.47,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
-86,737,21.3(b)(i),,Overnight stay allowance—outside ordinary business operating hours,FALSE,6,Percent,,45.89,per overnight stay period,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
-87,738,32.3(a),,Penalty—Monday to Friday—7.00pm to midnight,FALSE,10,Percent,,2.01,per hour,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
-11954,739,32.3(b),,Penalty—Monday to Friday—midnight to 7.00 am,FALSE,15,Percent,,3.02,per hour,2015-07-01,2016-06-30,,2023-04-05T07:24:55+00:00,2015
-84,736,21.3(a),,Split shift allowance—2 hours and up to 3 hours,FALSE,0.33,Percent,,2.52,per day,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
-11953,736,21.3(a),,Split shift allowance—More than 3 hours,FALSE,0.5,Percent,,3.82,per day,2015-07-01,2016-06-30,,2023-04-05T07:24:55+00:00,2015
+81,735,26.13(b),,Airport cateringâ€”supervisory allowanceâ€”11 to 20 employees,False,3.1,Percent,BR89895,30.85,per week,2023-07-01,,4.0,2023-06-01T22:37:40+00:00,2023
+80,735,26.13(b),,Airport cateringâ€”supervisory allowanceâ€”6 to 10 employees,False,2.75,Percent,BR89895,27.36,per week,2023-07-01,,4.0,2023-06-01T22:37:40+00:00,2023
+82,735,26.13(b),,Airport cateringâ€”supervisory allowanceâ€”More than 20 employees,False,5.2,Percent,BR89895,51.74,per week,2023-07-01,,4.0,2023-06-01T22:37:40+00:00,2023
+79,735,26.13(b),,Airport cateringâ€”supervisory allowanceâ€”Up to 5 employees,False,2.0,Percent,BR89895,19.9,per week,2023-07-01,,4.0,2023-06-01T22:37:40+00:00,2023
+90,740,37.5,97.5% of 25% of standard weekly rate,Deductions - Shared room and 3 meals a day,False,25.0,Percent,BR89895,242.53,per week,2023-07-01,,3.0,2023-06-01T22:37:40+00:00,2023
+99,741,37.6,45%,Deductions - Shared room and 3Â meals a day - 15 years of age and under,False,25.0,Percent,BR89895,109.14,per week,2023-07-01,,3.0,2023-06-01T22:37:40+00:00,2023
+100,741,37.6,55%,Deductions - Shared room and 3Â meals a day - 16 years of age,False,25.0,Percent,BR89895,133.39,per week,2023-07-01,,3.0,2023-06-01T22:37:40+00:00,2023
+101,741,37.6,70%,Deductions - Shared room and 3Â meals a day - 17 years of age,False,25.0,Percent,BR89895,169.77,per week,2023-07-01,,3.0,2023-06-01T22:37:40+00:00,2023
+102,741,37.6,80%,Deductions - Shared room and 3Â meals a day - 18 years of age,False,25.0,Percent,BR89895,194.02,per week,2023-07-01,,3.0,2023-06-01T22:37:40+00:00,2023
+103,741,37.6,90%,Deductions - Shared room and 3Â meals a day - 19 years of age,False,25.0,Percent,BR89895,218.28,per week,2023-07-01,,3.0,2023-06-01T22:37:40+00:00,2023
+92,740,37.5,92.5% of 25% of standard weekly rate,"Deductions - Shared room only, no meals",False,25.0,Percent,BR89895,230.09,per week,2023-07-01,,3.0,2023-06-01T22:37:40+00:00,2023
+109,741,37.6,45%,Deductions - Shared room only; no meals - 15 years of age and under,False,25.0,Percent,BR89895,103.54,per week,2023-07-01,,3.0,2023-06-01T22:37:40+00:00,2023
+110,741,37.6,55%,Deductions - Shared room only; no meals - 16 years of age,False,25.0,Percent,BR89895,126.55,per week,2023-07-01,,3.0,2023-06-01T22:37:40+00:00,2023
+111,741,37.6,70%,Deductions - Shared room only; no meals - 17 years of age,False,25.0,Percent,BR89895,161.06,per week,2023-07-01,,3.0,2023-06-01T22:37:40+00:00,2023
+112,741,37.6,80%,Deductions - Shared room only; no meals - 18 years of age,False,25.0,Percent,BR89895,184.07,per week,2023-07-01,,3.0,2023-06-01T22:37:40+00:00,2023
+113,741,37.6,90%,Deductions - Shared room only; no meals - 19 years of age,False,25.0,Percent,BR89895,207.08,per week,2023-07-01,,3.0,2023-06-01T22:37:40+00:00,2023
+89,740,37.5,25% of standard weekly rate,Deductions - Single room and 3 meals a day,False,25.0,Percent,BR89895,248.75,per week,2023-07-01,,3.0,2023-06-01T22:37:40+00:00,2023
+94,741,37.6,45%,Deductions - Single room and 3Â meals a day - 15 years of age and under,False,25.0,Percent,BR89895,111.94,per week,2023-07-01,,3.0,2023-06-01T22:37:40+00:00,2023
+95,741,37.6,55%,Deductions - Single room and 3Â meals a day - 16 years of age,False,25.0,Percent,BR89895,136.81,per week,2023-07-01,,3.0,2023-06-01T22:37:40+00:00,2023
+96,741,37.6,70%,Deductions - Single room and 3Â meals a day - 17 years of age,False,25.0,Percent,BR89895,174.13,per week,2023-07-01,,3.0,2023-06-01T22:37:40+00:00,2023
+97,741,37.6,80%,Deductions - Single room and 3Â meals a day - 18 years of age,False,25.0,Percent,BR89895,199.0,per week,2023-07-01,,3.0,2023-06-01T22:37:40+00:00,2023
+98,741,37.6,90%,Deductions - Single room and 3Â meals a day - 19 years of age,False,25.0,Percent,BR89895,223.88,per week,2023-07-01,,3.0,2023-06-01T22:37:40+00:00,2023
+91,740,37.5,95% of 25% of standard weekly rate,"Deductions - Single room only, no meals",False,25.0,Percent,BR89895,236.31,per week,2023-07-01,,3.0,2023-06-01T22:37:40+00:00,2023
+104,741,37.6,45%,Deductions - Single room only; no meals - 15 years of age and under,False,25.0,Percent,BR89895,106.34,per week,2023-07-01,,3.0,2023-06-01T22:37:40+00:00,2023
+105,741,37.6,55%,Deductions - Single room only; no meals - 16 years of age,False,25.0,Percent,BR89895,129.97,per week,2023-07-01,,3.0,2023-06-01T22:37:40+00:00,2023
+106,741,37.6,70%,Deductions - Single room only; no meals - 17 years of age,False,25.0,Percent,BR89895,165.42,per week,2023-07-01,,3.0,2023-06-01T22:37:40+00:00,2023
+107,741,37.6,80%,Deductions - Single room only; no meals - 18 years of age,False,25.0,Percent,BR89895,189.05,per week,2023-07-01,,3.0,2023-06-01T22:37:40+00:00,2023
+108,741,37.6,90%,Deductions - Single room only; no meals - 19 years of age,False,25.0,Percent,BR89895,212.68,per week,2023-07-01,,3.0,2023-06-01T22:37:40+00:00,2023
+75,734,26.12(b)(i),,First aid allowanceâ€”Full-time employee,False,1.2,Percent,BR89895,11.94,per week,2023-07-01,,5.0,2023-06-01T22:37:40+00:00,2023
+11951,22974,26.12(b)(ii),,First aid allowanceâ€”Part-time or casual employee,False,0.24,Percent,BR89895,2.39,per day,2023-07-01,,5.0,2023-06-01T22:37:40+00:00,2023
+11952,22974,26.12(b)(ii),,First aid allowanceâ€”Part-time or casual maximum payment,False,1.2,Percent,BR89895,11.94,per week,2023-07-01,,5.0,2023-06-01T22:37:40+00:00,2023
+11950,22973,26.3(a),,Fork-lift driver allowance,True,1.5,Percent,BR89895,0.39,per hour,2023-07-01,,4.0,2023-06-01T22:37:40+00:00,2023
+12157,733,26.3(b),,Fork-lift driver allowanceâ€”Part-time or casual fork-lift driverâ€”prior to 23 January 2020 (see C.1.2 for the rate from 23 January 2020),True,0.3,Percent,BR89895,2.99,per day,2023-07-01,,4.0,2023-06-01T22:37:40+00:00,2023
+71,733,26.3(b),,Fork-lift driver allowanceâ€”Part-time or casual maximum paymentâ€”prior to 23 January 2020 (see C.1.2 for the rate from 23 January 2020),True,1.5,Percent,BR89895,14.93,per week,2023-07-01,,4.0,2023-06-01T22:37:40+00:00,2023
+86,737,26.15(b)(i),,Overnight stay allowanceâ€”outside ordinary business operating hours,False,6.0,Percent,BR89895,59.7,per overnight stay period,2023-07-01,,5.0,2023-06-01T22:37:40+00:00,2023
+87,738,29.2,,Penaltyâ€”Monday to Fridayâ€”7.00 pm to midnight,False,10.0,Percent,BR89895,2.62,per hour or part thereof,2023-07-01,,3.0,2023-06-01T22:37:40+00:00,2023
+11954,738,29.2,,Penaltyâ€”Monday to Fridayâ€”midnight to 7.00 am,False,15.0,Percent,BR89895,3.93,per hour or part thereof,2023-07-01,,3.0,2023-06-01T22:37:40+00:00,2023
+84,736,26.14(b)(i),,Split shift allowanceâ€”2 hours and up to 3 hours,False,0.33,Percent,BR89895,3.28,per day,2023-07-01,,4.0,2023-06-01T22:37:40+00:00,2023
+11953,22975,26.14(b)(ii),,Split shift allowanceâ€”More than 3 hours,False,0.5,Percent,BR89895,4.98,per day,2023-07-01,,4.0,2023-06-01T22:37:40+00:00,2023
+81,735,26.13(b),,Airport cateringâ€”supervisory allowanceâ€”11 to 20 employees,False,3.1,Percent,BR89895,29.17,per week,2022-10-01,2023-06-30,3.0,2022-06-24T01:32:00+00:00,2022
+80,735,26.13(b),,Airport cateringâ€”supervisory allowanceâ€”6 to 10 employees,False,2.75,Percent,BR89895,25.87,per week,2022-10-01,2023-06-30,3.0,2022-06-24T01:32:00+00:00,2022
+82,735,26.13(b),,Airport cateringâ€”supervisory allowanceâ€”More than 20 employees,False,5.2,Percent,BR89895,48.93,per week,2022-10-01,2023-06-30,3.0,2022-06-24T01:32:00+00:00,2022
+79,735,26.13(b),,Airport cateringâ€”supervisory allowanceâ€”Up to 5 employees,False,2.0,Percent,BR89895,18.82,per week,2022-10-01,2023-06-30,3.0,2022-06-24T01:32:00+00:00,2022
+90,740,37.5,97.5% of 25% of standard weekly rate,Deductions - Shared room and 3 meals a day,False,25.0,Percent,BR89895,229.35,per week,2022-10-01,2023-06-30,2.0,2022-06-24T01:32:00+00:00,2022
+99,741,37.6,45%,Deductions - Shared room and 3Â meals a day - 15 years of age and under,False,25.0,Percent,BR89895,103.21,per week,2022-10-01,2023-06-30,2.0,2022-06-24T01:32:00+00:00,2022
+100,741,37.6,55%,Deductions - Shared room and 3Â meals a day - 16 years of age,False,25.0,Percent,BR89895,126.14,per week,2022-10-01,2023-06-30,2.0,2022-06-24T01:32:00+00:00,2022
+101,741,37.6,70%,Deductions - Shared room and 3Â meals a day - 17 years of age,False,25.0,Percent,BR89895,160.55,per week,2022-10-01,2023-06-30,2.0,2022-06-24T01:32:00+00:00,2022
+102,741,37.6,80%,Deductions - Shared room and 3Â meals a day - 18 years of age,False,25.0,Percent,BR89895,183.48,per week,2022-10-01,2023-06-30,2.0,2022-06-24T01:32:00+00:00,2022
+103,741,37.6,90%,Deductions - Shared room and 3Â meals a day - 19 years of age,False,25.0,Percent,BR89895,206.42,per week,2022-10-01,2023-06-30,2.0,2022-06-24T01:32:00+00:00,2022
+92,740,37.5,92.5% of 25% of standard weekly rate,"Deductions - Shared room only, no meals",False,25.0,Percent,BR89895,217.59,per week,2022-10-01,2023-06-30,2.0,2022-06-24T01:32:00+00:00,2022
+109,741,37.6,45%,Deductions - Shared room only; no meals - 15 years of age and under,False,25.0,Percent,BR89895,97.92,per week,2022-10-01,2023-06-30,2.0,2022-06-24T01:32:00+00:00,2022
+110,741,37.6,55%,Deductions - Shared room only; no meals - 16 years of age,False,25.0,Percent,BR89895,119.67,per week,2022-10-01,2023-06-30,2.0,2022-06-24T01:32:00+00:00,2022
+111,741,37.6,70%,Deductions - Shared room only; no meals - 17 years of age,False,25.0,Percent,BR89895,152.31,per week,2022-10-01,2023-06-30,2.0,2022-06-24T01:32:00+00:00,2022
+112,741,37.6,80%,Deductions - Shared room only; no meals - 18 years of age,False,25.0,Percent,BR89895,174.07,per week,2022-10-01,2023-06-30,2.0,2022-06-24T01:32:00+00:00,2022
+113,741,37.6,90%,Deductions - Shared room only; no meals - 19 years of age,False,25.0,Percent,BR89895,195.83,per week,2022-10-01,2023-06-30,2.0,2022-06-24T01:32:00+00:00,2022
+89,740,37.5,25% of standard weekly rate,Deductions - Single room and 3 meals a day,False,25.0,Percent,BR89895,235.23,per week,2022-10-01,2023-06-30,2.0,2022-06-24T01:32:00+00:00,2022
+94,741,37.6,45%,Deductions - Single room and 3Â meals a day - 15 years of age and under,False,25.0,Percent,BR89895,105.85,per week,2022-10-01,2023-06-30,2.0,2022-06-24T01:32:00+00:00,2022
+95,741,37.6,55%,Deductions - Single room and 3Â meals a day - 16 years of age,False,25.0,Percent,BR89895,129.38,per week,2022-10-01,2023-06-30,2.0,2022-06-24T01:32:00+00:00,2022
+96,741,37.6,70%,Deductions - Single room and 3Â meals a day - 17 years of age,False,25.0,Percent,BR89895,164.66,per week,2022-10-01,2023-06-30,2.0,2022-06-24T01:32:00+00:00,2022
+97,741,37.6,80%,Deductions - Single room and 3Â meals a day - 18 years of age,False,25.0,Percent,BR89895,188.18,per week,2022-10-01,2023-06-30,2.0,2022-06-24T01:32:00+00:00,2022
+98,741,37.6,90%,Deductions - Single room and 3Â meals a day - 19 years of age,False,25.0,Percent,BR89895,211.71,per week,2022-10-01,2023-06-30,2.0,2022-06-24T01:32:00+00:00,2022
+91,740,37.5,95% of 25% of standard weekly rate,"Deductions - Single room only, no meals",False,25.0,Percent,BR89895,223.47,per week,2022-10-01,2023-06-30,2.0,2022-06-24T01:32:00+00:00,2022
+104,741,37.6,45%,Deductions - Single room only; no meals - 15 years of age and under,False,25.0,Percent,BR89895,100.56,per week,2022-10-01,2023-06-30,2.0,2022-06-24T01:32:00+00:00,2022
+105,741,37.6,55%,Deductions - Single room only; no meals - 16 years of age,False,25.0,Percent,BR89895,122.91,per week,2022-10-01,2023-06-30,2.0,2022-06-24T01:32:00+00:00,2022
+106,741,37.6,70%,Deductions - Single room only; no meals - 17 years of age,False,25.0,Percent,BR89895,156.43,per week,2022-10-01,2023-06-30,2.0,2022-06-24T01:32:00+00:00,2022
+107,741,37.6,80%,Deductions - Single room only; no meals - 18 years of age,False,25.0,Percent,BR89895,178.78,per week,2022-10-01,2023-06-30,2.0,2022-06-24T01:32:00+00:00,2022
+108,741,37.6,90%,Deductions - Single room only; no meals - 19 years of age,False,25.0,Percent,BR89895,201.12,per week,2022-10-01,2023-06-30,2.0,2022-06-24T01:32:00+00:00,2022
+75,734,26.12(b)(i),,First aid allowanceâ€”Full-time employee,False,1.2,Percent,BR89895,11.29,per week,2022-10-01,2023-06-30,4.0,2022-06-24T01:32:00+00:00,2022
+11951,22974,26.12(b)(ii),,First aid allowanceâ€”Part-time or casual employee,False,0.24,Percent,BR89895,2.26,per day,2022-10-01,2023-06-30,4.0,2022-06-24T01:32:00+00:00,2022
+11952,22974,26.12(b)(ii),,First aid allowanceâ€”Part-time or casual maximum payment,False,1.2,Percent,BR89895,11.29,per week,2022-10-01,2023-06-30,4.0,2022-06-24T01:32:00+00:00,2022
+11950,22973,26.3(a),,Fork-lift driver allowance,True,1.5,Percent,BR89895,0.37,per hour,2022-10-01,2023-06-30,3.0,2022-06-24T01:32:00+00:00,2022
+12157,733,26.3(b),,Fork-lift driver allowanceâ€”Part-time or casual fork-lift driverâ€”prior to 23 January 2020 (see C.1.2 for the rate from 23 January 2020),True,0.3,Percent,BR89895,2.82,per day,2022-10-01,2023-06-30,3.0,2022-06-24T01:32:00+00:00,2022
+71,733,26.3(b),,Fork-lift driver allowanceâ€”Part-time or casual maximum paymentâ€”prior to 23 January 2020 (see C.1.2 for the rate from 23 January 2020),True,1.5,Percent,BR89895,14.11,per week,2022-10-01,2023-06-30,3.0,2022-06-24T01:32:00+00:00,2022
+86,737,26.15(b)(i),,Overnight stay allowanceâ€”outside ordinary business operating hours,False,6.0,Percent,BR89895,56.45,per overnight stay period,2022-10-01,2023-06-30,4.0,2022-06-24T01:32:00+00:00,2022
+87,738,29.2,,Penaltyâ€”Monday to Fridayâ€”7.00 pm to midnight,False,10.0,Percent,BR89895,2.48,per hour or part thereof,2022-10-01,2023-06-30,2.0,2022-06-24T01:32:00+00:00,2022
+11954,738,29.2,,Penaltyâ€”Monday to Fridayâ€”midnight to 7.00 am,False,15.0,Percent,BR89895,3.71,per hour or part thereof,2022-10-01,2023-06-30,2.0,2022-06-24T01:32:00+00:00,2022
+84,736,26.14(b)(i),,Split shift allowanceâ€”2 hours and up to 3 hours,False,0.33,Percent,BR89895,3.1,per day,2022-10-01,2023-06-30,3.0,2022-06-24T01:32:00+00:00,2022
+11953,22975,26.14(b)(ii),,Split shift allowanceâ€”More than 3 hours,False,0.5,Percent,BR89895,4.7,per day,2022-10-01,2023-06-30,3.0,2022-06-24T01:32:00+00:00,2022
+81,735,26.13(b),,Airport cateringâ€”supervisory allowanceâ€”11 to 20 employees,False,3.1,Percent,BR89895,27.88,per week,2021-11-01,2022-09-30,,2022-06-28T04:35:03+00:00,2021
+80,735,26.13(b),,Airport cateringâ€”supervisory allowanceâ€”6 to 10 employees,False,2.75,Percent,BR89895,24.74,per week,2021-11-01,2022-09-30,,2022-06-28T04:35:03+00:00,2021
+82,735,26.13(b),,Airport cateringâ€”supervisory allowanceâ€”More than 20 employees,False,5.2,Percent,BR89895,46.77,per week,2021-11-01,2022-09-30,,2022-06-28T04:35:03+00:00,2021
+79,735,26.13(b),,Airport cateringâ€”supervisory allowanceâ€”Up to 5 employees,False,2.0,Percent,BR89895,17.99,per week,2021-11-01,2022-09-30,,2022-06-28T04:35:03+00:00,2021
+90,740,37.5,97.5% of 25% of standard weekly rate,Deductions - Shared room and 3 meals a day,False,25.0,Percent,BR89895,219.26,per week,2021-11-01,2022-09-30,,2022-06-28T04:35:53+00:00,2021
+99,741,37.6,45%,Deductions - Shared room and 3Â meals a day - 15 years of age and under,False,25.0,Percent,BR89895,98.67,per week,2021-11-01,2022-09-30,,2022-06-28T04:36:45+00:00,2021
+100,741,37.6,55%,Deductions - Shared room and 3Â meals a day - 16 years of age,False,25.0,Percent,BR89895,120.59,per week,2021-11-01,2022-09-30,,2022-06-28T04:36:45+00:00,2021
+101,741,37.6,70%,Deductions - Shared room and 3Â meals a day - 17 years of age,False,25.0,Percent,BR89895,153.48,per week,2021-11-01,2022-09-30,,2022-06-28T04:36:45+00:00,2021
+102,741,37.6,80%,Deductions - Shared room and 3Â meals a day - 18 years of age,False,25.0,Percent,BR89895,175.41,per week,2021-11-01,2022-09-30,,2022-06-28T04:36:45+00:00,2021
+103,741,37.6,90%,Deductions - Shared room and 3Â meals a day - 19 years of age,False,25.0,Percent,BR89895,197.33,per week,2021-11-01,2022-09-30,,2022-06-28T04:36:45+00:00,2021
+92,740,37.5,92.5% of 25% of standard weekly rate,"Deductions - Shared room only, no meals",False,25.0,Percent,BR89895,208.01,per week,2021-11-01,2022-09-30,,2022-06-28T04:35:53+00:00,2021
+109,741,37.6,45%,Deductions - Shared room only; no meals - 15 years of age and under,False,25.0,Percent,BR89895,93.6,per week,2021-11-01,2022-09-30,,2022-06-28T04:36:45+00:00,2021
+110,741,37.6,55%,Deductions - Shared room only; no meals - 16 years of age,False,25.0,Percent,BR89895,114.41,per week,2021-11-01,2022-09-30,,2022-06-28T04:36:45+00:00,2021
+111,741,37.6,70%,Deductions - Shared room only; no meals - 17 years of age,False,25.0,Percent,BR89895,145.61,per week,2021-11-01,2022-09-30,,2022-06-28T04:36:45+00:00,2021
+112,741,37.6,80%,Deductions - Shared room only; no meals - 18 years of age,False,25.0,Percent,BR89895,166.41,per week,2021-11-01,2022-09-30,,2022-06-28T04:36:45+00:00,2021
+113,741,37.6,90%,Deductions - Shared room only; no meals - 19 years of age,False,25.0,Percent,BR89895,187.21,per week,2021-11-01,2022-09-30,,2022-06-28T04:36:45+00:00,2021
+89,740,37.5,25% of standard weekly rate,Deductions - Single room and 3 meals a day,False,25.0,Percent,BR89895,224.88,per week,2021-11-01,2022-09-30,,2022-06-28T04:35:53+00:00,2021
+94,741,37.6,45%,Deductions - Single room and 3Â meals a day - 15 years of age and under,False,25.0,Percent,BR89895,101.2,per week,2021-11-01,2022-09-30,,2022-06-28T04:36:45+00:00,2021
+95,741,37.6,55%,Deductions - Single room and 3Â meals a day - 16 years of age,False,25.0,Percent,BR89895,123.68,per week,2021-11-01,2022-09-30,,2022-06-28T04:36:45+00:00,2021
+96,741,37.6,70%,Deductions - Single room and 3Â meals a day - 17 years of age,False,25.0,Percent,BR89895,157.42,per week,2021-11-01,2022-09-30,,2022-06-28T04:36:45+00:00,2021
+97,741,37.6,80%,Deductions - Single room and 3Â meals a day - 18 years of age,False,25.0,Percent,BR89895,179.9,per week,2021-11-01,2022-09-30,,2022-06-28T04:36:45+00:00,2021
+98,741,37.6,90%,Deductions - Single room and 3Â meals a day - 19 years of age,False,25.0,Percent,BR89895,202.39,per week,2021-11-01,2022-09-30,,2022-06-28T04:36:45+00:00,2021
+91,740,37.5,95% of 25% of standard weekly rate,"Deductions - Single room only, no meals",False,25.0,Percent,BR89895,213.64,per week,2021-11-01,2022-09-30,,2022-06-28T04:35:53+00:00,2021
+104,741,37.6,45%,Deductions - Single room only; no meals - 15 years of age and under,False,25.0,Percent,BR89895,96.14,per week,2021-11-01,2022-09-30,,2022-06-28T04:36:45+00:00,2021
+105,741,37.6,55%,Deductions - Single room only; no meals - 16 years of age,False,25.0,Percent,BR89895,117.5,per week,2021-11-01,2022-09-30,,2022-06-28T04:36:45+00:00,2021
+106,741,37.6,70%,Deductions - Single room only; no meals - 17 years of age,False,25.0,Percent,BR89895,149.55,per week,2021-11-01,2022-09-30,,2022-06-28T04:36:45+00:00,2021
+107,741,37.6,80%,Deductions - Single room only; no meals - 18 years of age,False,25.0,Percent,BR89895,170.91,per week,2021-11-01,2022-09-30,,2022-06-28T04:36:45+00:00,2021
+108,741,37.6,90%,Deductions - Single room only; no meals - 19 years of age,False,25.0,Percent,BR89895,192.28,per week,2021-11-01,2022-09-30,,2022-06-28T04:36:45+00:00,2021
+75,734,26.12(b)(i),,First aid allowanceâ€”Full-time employee,False,1.2,Percent,BR89895,10.79,per week,2021-11-01,2022-09-30,,2022-06-28T04:34:41+00:00,2021
+11951,22974,26.12(b)(ii),,First aid allowanceâ€”Part-time or casual employee,False,0.24,Percent,BR89895,2.16,per day,2021-11-01,2022-09-30,,2022-06-28T04:34:52+00:00,2021
+11952,22974,26.12(b)(ii),,First aid allowanceâ€”Part-time or casual maximum payment,False,1.2,Percent,BR89895,10.79,per week,2021-11-01,2022-09-30,,2022-06-28T04:34:52+00:00,2021
+11950,22973,26.3(a),,Fork-lift driver allowance,True,1.5,Percent,BR89895,0.36,per hour,2021-11-01,2022-09-30,,2022-06-28T04:34:18+00:00,2021
+12157,733,26.3(b),,Fork-lift driver allowanceâ€”Part-time or casual fork-lift driverâ€”prior to 23 January 2020 (see C.1.2 for the rate from 23 January 2020),True,0.3,Percent,BR89895,2.7,per day,2021-11-01,2022-09-30,,2022-06-28T04:34:33+00:00,2021
+71,733,26.3(b),,Fork-lift driver allowanceâ€”Part-time or casual maximum paymentâ€”prior to 23 January 2020 (see C.1.2 for the rate from 23 January 2020),True,1.5,Percent,BR89895,13.49,per week,2021-11-01,2022-09-30,,2022-06-28T04:34:33+00:00,2021
+86,737,26.15(b)(i),,Overnight stay allowanceâ€”outside ordinary business operating hours,False,6.0,Percent,BR89895,53.97,per overnight stay period,2021-11-01,2022-09-30,,2022-06-28T04:35:26+00:00,2021
+87,738,29.2,,Penaltyâ€”Monday to Fridayâ€”7.00 pm to midnight,False,10.0,Percent,BR89895,2.37,per hour or part thereof,2021-11-01,2022-09-30,,2022-06-28T04:35:34+00:00,2021
+11954,738,29.2,,Penaltyâ€”Monday to Fridayâ€”midnight to 7.00 am,False,15.0,Percent,BR89895,3.55,per hour or part thereof,2021-11-01,2022-09-30,,2022-06-28T04:35:34+00:00,2021
+84,736,26.14(b)(i),,Split shift allowanceâ€”2 hours and up to 3 hours,False,0.33,Percent,BR89895,2.97,per day,2021-11-01,2022-09-30,,2022-06-28T04:35:10+00:00,2021
+11953,22975,26.14(b)(ii),,Split shift allowanceâ€”More than 3 hours,False,0.5,Percent,BR89895,4.5,per day,2021-11-01,2022-09-30,,2022-06-28T04:35:18+00:00,2021
+81,735,26.13(b),,Airport cateringâ€”supervisory allowanceâ€”11 to 20 employees,False,3.1,Percent,,27.21,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
+80,735,26.13(b),,Airport cateringâ€”supervisory allowanceâ€”6 to 10 employees,False,2.75,Percent,,24.13,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
+82,735,26.13(b),,Airport cateringâ€”supervisory allowanceâ€”More than 20 employees,False,5.2,Percent,,45.64,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
+79,735,26.13(b),,Airport cateringâ€”supervisory allowanceâ€”Up to 5 employees,False,2.0,Percent,,17.55,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
+90,740,37.5,97.5% of 25% of standard weekly rate,Deductions - Shared room and 3 meals a day,False,25.0,Percent,,213.92,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
+99,741,37.6,45%,Deductions - Shared room and 3Â meals a day - 15 years of age and under,False,25.0,Percent,,96.26,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
+100,741,37.6,55%,Deductions - Shared room and 3Â meals a day - 16 years of age,False,25.0,Percent,,117.66,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
+101,741,37.6,70%,Deductions - Shared room and 3Â meals a day - 17 years of age,False,25.0,Percent,,149.74,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
+102,741,37.6,80%,Deductions - Shared room and 3Â meals a day - 18 years of age,False,25.0,Percent,,171.14,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
+103,741,37.6,90%,Deductions - Shared room and 3Â meals a day - 19 years of age,False,25.0,Percent,,192.53,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
+92,740,37.5,92.5% of 25% of standard weekly rate,"Deductions - Shared room only, no meals",False,25.0,Percent,,202.95,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
+109,741,37.6,45%,Deductions - Shared room only; no meals - 15 years of age and under,False,25.0,Percent,,91.33,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
+110,741,37.6,55%,Deductions - Shared room only; no meals - 16 years of age,False,25.0,Percent,,111.62,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
+111,741,37.6,70%,Deductions - Shared room only; no meals - 17 years of age,False,25.0,Percent,,142.07,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
+112,741,37.6,80%,Deductions - Shared room only; no meals - 18 years of age,False,25.0,Percent,,162.36,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
+113,741,37.6,90%,Deductions - Shared room only; no meals - 19 years of age,False,25.0,Percent,,182.66,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
+89,740,37.5,25% of standard weekly rate,Deductions - Single room and 3 meals a day,False,25.0,Percent,,219.4,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
+94,741,37.6,45%,Deductions - Single room and 3Â meals a day - 15 years of age and under,False,25.0,Percent,,98.73,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
+95,741,37.6,55%,Deductions - Single room and 3Â meals a day - 16 years of age,False,25.0,Percent,,120.67,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
+96,741,37.6,70%,Deductions - Single room and 3Â meals a day - 17 years of age,False,25.0,Percent,,153.58,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
+97,741,37.6,80%,Deductions - Single room and 3Â meals a day - 18 years of age,False,25.0,Percent,,175.52,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
+98,741,37.6,90%,Deductions - Single room and 3Â meals a day - 19 years of age,False,25.0,Percent,,197.46,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
+91,740,37.5,95% of 25% of standard weekly rate,"Deductions - Single room only, no meals",False,25.0,Percent,,208.43,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
+104,741,37.6,45%,Deductions - Single room only; no meals - 15 years of age and under,False,25.0,Percent,,93.79,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
+105,741,37.6,55%,Deductions - Single room only; no meals - 16 years of age,False,25.0,Percent,,114.64,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
+106,741,37.6,70%,Deductions - Single room only; no meals - 17 years of age,False,25.0,Percent,,145.9,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
+107,741,37.6,80%,Deductions - Single room only; no meals - 18 years of age,False,25.0,Percent,,166.74,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
+108,741,37.6,90%,Deductions - Single room only; no meals - 19 years of age,False,25.0,Percent,,187.59,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
+75,734,26.12(b)(i),,First aid allowanceâ€”Full-time employee,False,1.2,Percent,,10.53,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
+11951,22974,26.12(b)(ii),,First aid allowanceâ€”Part-time or casual employee,False,0.24,Percent,,2.11,per day,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
+11952,22974,26.12(b)(ii),,First aid allowanceâ€”Part-time or casual maximum payment,False,1.2,Percent,,10.53,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
+11950,22973,26.3(a),,Fork-lift driver allowance,True,1.5,Percent,,0.35,per hour,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
+12157,733,26.3(b),,Fork-lift driver allowanceâ€”Part-time or casual fork-lift driverâ€”prior to 23 January 2020 (see C.1.2 for the rate from 23 January 2020),True,0.3,Percent,,2.63,per day,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
+71,733,26.3(b),,Fork-lift driver allowanceâ€”Part-time or casual maximum paymentâ€”prior to 23 January 2020 (see C.1.2 for the rate from 23 January 2020),True,1.5,Percent,,13.16,per week,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
+86,737,26.15(b)(i),,Overnight stay allowanceâ€”outside ordinary business operating hours,False,6.0,Percent,,52.66,per overnight stay period,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
+87,738,29.2,,Penaltyâ€”Monday to Fridayâ€”7.00 pm to midnight,False,10.0,Percent,,2.31,per hour or part thereof,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
+11954,738,29.2,,Penaltyâ€”Monday to Fridayâ€”midnight to 7.00 am,False,15.0,Percent,,3.46,per hour or part thereof,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
+84,736,26.14(b)(i),,Split shift allowanceâ€”2 hours and up to 3 hours,False,0.33,Percent,,2.9,per day,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
+11953,22975,26.14(b)(ii),,Split shift allowanceâ€”More than 3 hours,False,0.5,Percent,,4.39,per day,2021-02-01,2021-10-31,,2022-03-03T09:01:31+00:00,2020
+81,735,21.2(c),,Airport cateringâ€”supervisory allowanceâ€”11 to 20 employees,False,3.1,Percent,,26.74,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
+80,735,21.2(c),,Airport cateringâ€”supervisory allowanceâ€”6 to 10 employees,False,2.75,Percent,,23.72,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
+82,735,21.2(c),,Airport cateringâ€”supervisory allowanceâ€”More than 20 employees,False,5.2,Percent,,44.85,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
+79,735,21.2(c),,Airport cateringâ€”supervisory allowanceâ€”Up to 5 employees,False,2.0,Percent,,17.25,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
+93,740,39.2,1% of the standard weekly rate,Deductions - A meal,False,1.0,Percent,,8.63,per week,2019-07-01,2021-01-31,,2023-04-05T07:22:58+00:00,2019
+114,741,39.3,â€”,Deductions - A meal - Same rate all ages,False,1.0,Percent,,8.63,per meal,2019-07-01,2021-01-31,,2023-04-05T07:22:58+00:00,2019
+90,740,39.2,97.5% of 25% of standard weekly rate,Deductions - Shared room and 3 meals a day,False,25.0,Percent,,210.24,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
+99,741,39.3,45%,Deductions - Shared room and 3Â meals a day - 15 yrs & under,False,25.0,Percent,,94.61,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
+100,741,39.3,55%,Deductions - Shared room and 3Â meals a day - 16 yrs,False,25.0,Percent,,115.63,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
+101,741,39.3,70%,Deductions - Shared room and 3Â meals a day - 17 yrs,False,25.0,Percent,,147.17,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
+102,741,39.3,80%,Deductions - Shared room and 3Â meals a day - 18 yrs,False,25.0,Percent,,168.19,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
+103,741,39.3,90%,Deductions - Shared room and 3Â meals a day - 19 yrs,False,25.0,Percent,,189.22,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
+92,740,39.2,92.5% of 25% of standard weekly rate,"Deductions - Shared room only, no meals",False,25.0,Percent,,199.46,per meal,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
+109,741,39.3,45%,Deductions - Shared room only; no meals - 15 yrs & under,False,25.0,Percent,,89.76,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
+110,741,39.3,55%,Deductions - Shared room only; no meals - 16 yrs,False,25.0,Percent,,109.7,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
+111,741,39.3,70%,Deductions - Shared room only; no meals - 17 yrs,False,25.0,Percent,,139.62,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
+112,741,39.3,80%,Deductions - Shared room only; no meals - 18 yrs,False,25.0,Percent,,159.57,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
+113,741,39.3,90%,Deductions - Shared room only; no meals - 19 yrs,False,25.0,Percent,,179.51,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
+89,740,39.2,25% of standard weekly rate,Deductions - Single room and 3 meals a day,False,25.0,Percent,,215.63,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
+94,741,39.3,45%,Deductions - Single room and 3Â meals a day - 15 yrs & under,False,25.0,Percent,,97.03,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
+95,741,39.3,55%,Deductions - Single room and 3Â meals a day - 16 yrs,False,25.0,Percent,,118.6,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
+96,741,39.3,70%,Deductions - Single room and 3Â meals a day - 17 yrs,False,25.0,Percent,,150.94,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
+97,741,39.3,80%,Deductions - Single room and 3Â meals a day - 18 yrs,False,25.0,Percent,,172.5,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
+98,741,39.3,90%,Deductions - Single room and 3Â meals a day - 19 yrs,False,25.0,Percent,,194.07,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
+91,740,39.2,95% of 25% of standard weekly rate,"Deductions - Single room only, no meals",False,25.0,Percent,,204.85,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
+104,741,39.3,45%,Deductions - Single room only; no meals - 15 yrs & under,False,25.0,Percent,,92.18,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
+105,741,39.3,55%,Deductions - Single room only; no meals - 16 yrs,False,25.0,Percent,,112.67,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
+106,741,39.3,70%,Deductions - Single room only; no meals - 17 yrs,False,25.0,Percent,,143.4,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
+107,741,39.3,80%,Deductions - Single room only; no meals - 18 yrs,False,25.0,Percent,,163.88,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
+108,741,39.3,90%,Deductions - Single room only; no meals - 19 yrs,False,25.0,Percent,,184.37,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
+75,734,21.2(b),,First aid allowanceâ€”Full-time employee,False,1.2,Percent,,10.35,per week,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
+11951,734,21.2(b),,First aid allowanceâ€”Part-time or casual employee,False,0.24,Percent,,2.07,per day,2019-07-01,2021-01-31,,2023-04-05T07:24:58+00:00,2019
+11952,734,21.2(b),,First aid allowanceâ€”Part-time or casual maximum payment,False,1.2,Percent,,10.35,per week,2019-07-01,2021-01-31,,2023-04-05T07:24:58+00:00,2019
+11950,733,21.2(a),,Fork-lift driver allowance,True,1.5,Percent,,12.94,per week,2019-07-01,2021-01-31,,2023-04-05T07:24:58+00:00,2019
+12157,733,21.2(a),,Fork-lift driver allowanceâ€”Part-time or casual fork-lift driver,True,0.3,Percent,,2.59,per day,2019-07-01,2021-01-31,,2023-04-05T07:24:58+00:00,2019
+73,733,21.2(a),,Fork-lift driver allowanceâ€”Part-time or casual maximum payment,True,1.5,Percent,,12.94,per week,2019-07-01,2021-01-31,,2023-04-05T07:22:58+00:00,2019
+86,737,21.3(b)(i),,Overnight stay allowanceâ€”outside ordinary business operating hours,False,6.0,Percent,,51.75,per overnight stay period,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
+87,738,32.3(a),,Penaltyâ€”Monday to Fridayâ€”7.00pm to midnight,False,10.0,Percent,,2.27,per hour,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
+11954,739,32.3(b),,Penaltyâ€”Monday to Fridayâ€”midnight to 7.00 am,False,15.0,Percent,,3.41,per hour,2019-07-01,2021-01-31,,2023-04-05T07:24:58+00:00,2019
+84,736,21.3(a),,Split shift allowanceâ€”2 hours and up to 3 hours,False,0.33,Percent,,2.85,per day,2019-07-01,2021-01-31,,2022-03-03T09:01:31+00:00,2019
+11953,736,21.3(a),,Split shift allowanceâ€”More than 3 hours,False,0.5,Percent,,4.31,per day,2019-07-01,2021-01-31,,2023-04-05T07:24:58+00:00,2019
+81,735,21.2(c),,Airport cateringâ€”supervisory allowanceâ€”11 to 20 employees,False,3.1,Percent,,25.96,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
+80,735,21.2(c),,Airport cateringâ€”supervisory allowanceâ€”6 to 10 employees,False,2.75,Percent,,23.03,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
+82,735,21.2(c),,Airport cateringâ€”supervisory allowanceâ€”More than 20 employees,False,5.2,Percent,,43.54,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
+79,735,21.2(c),,Airport cateringâ€”supervisory allowanceâ€”Up to 5 employees,False,2.0,Percent,,16.75,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
+93,740,39.2,1% of the standard weekly rate,Deductions - A meal,False,1.0,Percent,,8.37,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
+114,741,39.3,â€”,Deductions - A meal - Same rate all ages,False,1.0,Percent,,8.37,per meal,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
+90,740,39.2,97.5% of 25% of standard weekly rate,Deductions - Shared room and 3 meals a day,False,25.0,Percent,,204.12,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
+99,741,39.3,45%,Deductions - Shared room and 3Â meals a day  - 15 yrs & under,False,25.0,Percent,,91.85,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
+100,741,39.3,55%,Deductions - Shared room and 3Â meals a day  - 16 yrs,False,25.0,Percent,,112.27,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
+101,741,39.3,70%,Deductions - Shared room and 3Â meals a day  - 17 yrs,False,25.0,Percent,,142.88,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
+102,741,39.3,80%,Deductions - Shared room and 3Â meals a day  - 18 yrs,False,25.0,Percent,,163.3,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
+103,741,39.3,90%,Deductions - Shared room and 3Â meals a day  - 19 yrs,False,25.0,Percent,,183.71,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
+92,740,39.2,92.5% of 25% of standard weekly rate,"Deductions - Shared room only, no meals",False,25.0,Percent,,193.65,per meal,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
+109,741,39.3,45%,Deductions - Shared room only; no meals - 15 yrs & under,False,25.0,Percent,,87.14,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
+110,741,39.3,55%,Deductions - Shared room only; no meals -16 yrs,False,25.0,Percent,,106.51,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
+111,741,39.3,70%,Deductions - Shared room only; no meals -17 yrs,False,25.0,Percent,,135.56,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
+112,741,39.3,80%,Deductions - Shared room only; no meals -18 yrs,False,25.0,Percent,,154.92,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
+113,741,39.3,90%,Deductions - Shared room only; no meals -19 yrs,False,25.0,Percent,,174.29,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
+89,740,39.2,25% of standard weekly rate,Deductions - Single room and 3 meals a day,False,25.0,Percent,,209.35,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
+94,741,39.3,45%,Deductions - Single room and 3Â meals a day  - 15 yrs & under,False,25.0,Percent,,94.21,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
+95,741,39.3,55%,Deductions - Single room and 3Â meals a day - 16 yrs,False,25.0,Percent,,115.14,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
+96,741,39.3,70%,Deductions - Single room and 3Â meals a day - 17 yrs,False,25.0,Percent,,146.55,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
+97,741,39.3,80%,Deductions - Single room and 3Â meals a day - 18 yrs,False,25.0,Percent,,167.48,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
+98,741,39.3,90%,Deductions - Single room and 3Â meals a day - 19 yrs,False,25.0,Percent,,188.42,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
+91,740,39.2,95% of 25% of standard weekly rate,"Deductions - Single room only, no meals",False,25.0,Percent,,198.88,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
+104,741,39.3,45%,Deductions - Single room only; no meals - 15 yrs & under,False,25.0,Percent,,89.5,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
+105,741,39.3,55%,Deductions - Single room only; no meals -16 yrs,False,25.0,Percent,,109.38,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
+106,741,39.3,70%,Deductions - Single room only; no meals -17 yrs,False,25.0,Percent,,139.22,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
+107,741,39.3,80%,Deductions - Single room only; no meals -18 yrs,False,25.0,Percent,,159.1,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
+108,741,39.3,90%,Deductions - Single room only; no meals -19 yrs,False,25.0,Percent,,178.99,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
+75,734,21.2(b),,First aid allowanceâ€”Full-time employee,False,1.2,Percent,,10.05,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
+11951,734,21.2(b),,First aid allowanceâ€”Part-time or casual employee,False,0.24,Percent,,2.01,per day,2018-07-01,2019-06-30,,2023-04-05T07:24:57+00:00,2018
+11952,734,21.2(b),,First aid allowanceâ€”Part-time or casual maximum payment,False,1.2,Percent,,10.05,per week,2018-07-01,2019-06-30,,2023-04-05T07:24:57+00:00,2018
+11950,733,21.2(a),,Fork-lift driver allowance,True,1.5,Percent,,12.56,per week,2018-07-01,2019-06-30,,2023-04-05T07:24:57+00:00,2018
+12157,733,21.2(a),,Fork-lift driver allowanceâ€”Part-time or casual fork-lift driver,True,0.3,Percent,,2.51,per day,2018-07-01,2019-06-30,,2023-04-05T07:24:57+00:00,2018
+73,733,21.2(a),,Fork-lift driver allowanceâ€”Part-time or casual maximum payment,True,1.5,Percent,,12.56,per week,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
+86,737,21.3(b)(i),,Overnight stay allowanceâ€”outside ordinary business operating hours,False,6.0,Percent,,50.24,per overnight stay period,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
+87,738,32.3(a),,Penaltyâ€”Monday to Fridayâ€”7.00pm to midnight,False,10.0,Percent,,2.2,per hour,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
+11954,739,32.3(b),,Penaltyâ€”Monday to Fridayâ€”midnight to 7.00 am,False,15.0,Percent,,3.31,per hour,2018-07-01,2019-06-30,,2023-04-05T07:24:57+00:00,2018
+84,736,21.3(a),,Split shift allowanceâ€”2 hours and up to 3 hours,False,0.33,Percent,,2.76,per day,2018-07-01,2019-06-30,,2022-02-15T05:49:51+00:00,2018
+11953,736,21.3(a),,Split shift allowanceâ€”More than 3 hours,False,0.5,Percent,,4.19,per day,2018-07-01,2019-06-30,,2023-04-05T07:24:57+00:00,2018
+81,735,21.2(c),,Airport cateringâ€”supervisory allowanceâ€”11 to 20 employees,False,3.1,Percent,,25.08,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
+80,735,21.2(c),,Airport cateringâ€”supervisory allowanceâ€”6 to 10 employees,False,2.75,Percent,,22.25,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
+82,735,21.2(c),,Airport cateringâ€”supervisory allowanceâ€”More than 20 employees,False,5.2,Percent,,42.07,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
+79,735,21.2(c),,Airport cateringâ€”supervisory allowanceâ€”Up to 5 employees,False,2.0,Percent,,16.18,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
+12256,740,39.2,1% of the standard weekly rate,Deductions - A meal,False,1.0,Percent,,8.09,per week,2017-07-01,2018-06-30,,2023-04-05T07:24:57+00:00,2017
+114,741,39.3,â€”,Deductions - A meal - Same rate all ages,False,1.0,Percent,,8.09,per meal,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
+90,740,39.2,97.5% of 25% of standard weekly rate,Deductions - Shared room and 3 meals a day,False,25.0,Percent,,197.22,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
+99,741,39.3,45%,Deductions - Shared room and 3Â meals a day  - 15 yrs & under,False,25.0,Percent,,88.75,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
+100,741,39.3,55%,Deductions - Shared room and 3Â meals a day  - 16 yrs,False,25.0,Percent,,108.47,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
+101,741,39.3,70%,Deductions - Shared room and 3Â meals a day  - 17 yrs,False,25.0,Percent,,138.05,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
+102,741,39.3,80%,Deductions - Shared room and 3Â meals a day  - 18 yrs,False,25.0,Percent,,157.78,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
+103,741,39.3,90%,Deductions - Shared room and 3Â meals a day  - 19 yrs,False,25.0,Percent,,177.5,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
+92,740,39.2,92.5% of 25% of standard weekly rate,"Deductions - Shared room only, no meals",False,25.0,Percent,,187.11,per meal,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
+109,741,39.3,45%,Deductions - Shared room only; no meals - 15 yrs & under,False,25.0,Percent,,84.2,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
+110,741,39.3,55%,Deductions - Shared room only; no meals -16 yrs,False,25.0,Percent,,102.91,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
+111,741,39.3,70%,Deductions - Shared room only; no meals -17 yrs,False,25.0,Percent,,130.98,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
+112,741,39.3,80%,Deductions - Shared room only; no meals -18 yrs,False,25.0,Percent,,149.69,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
+113,741,39.3,90%,Deductions - Shared room only; no meals -19 yrs,False,25.0,Percent,,168.4,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
+89,740,39.2,25% of standard weekly rate,Deductions - Single room and 3 meals a day,False,25.0,Percent,,202.28,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
+94,741,39.3,45%,Deductions - Single room and 3Â meals a day  - 15 yrs & under,False,25.0,Percent,,91.03,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
+95,741,39.3,55%,Deductions - Single room and 3Â meals a day - 16 yrs,False,25.0,Percent,,111.25,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
+96,741,39.3,70%,Deductions - Single room and 3Â meals a day - 17 yrs,False,25.0,Percent,,141.6,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
+97,741,39.3,80%,Deductions - Single room and 3Â meals a day - 18 yrs,False,25.0,Percent,,161.82,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
+98,741,39.3,90%,Deductions - Single room and 3Â meals a day - 19 yrs,False,25.0,Percent,,182.05,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
+91,740,39.2,95% of 25% of standard weekly rate,"Deductions - Single room only, no meals",False,25.0,Percent,,192.17,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
+104,741,39.3,45%,Deductions - Single room only; no meals - 15 yrs & under,False,25.0,Percent,,86.48,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
+105,741,39.3,55%,Deductions - Single room only; no meals -16 yrs,False,25.0,Percent,,105.69,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
+106,741,39.3,70%,Deductions - Single room only; no meals -17 yrs,False,25.0,Percent,,134.52,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
+107,741,39.3,80%,Deductions - Single room only; no meals -18 yrs,False,25.0,Percent,,153.74,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
+108,741,39.3,90%,Deductions - Single room only; no meals -19 yrs,False,25.0,Percent,,172.95,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
+75,734,21.2(b),,First aid allowanceâ€”Full-time employee,False,1.2,Percent,,9.71,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
+11951,734,21.2(b),,First aid allowanceâ€”Part-time or casual employee,False,0.24,Percent,,1.94,per day,2017-07-01,2018-06-30,,2023-04-05T07:24:57+00:00,2017
+11952,734,21.2(b),,First aid allowanceâ€”Part-time or casual maximum payment,False,1.2,Percent,,9.71,per week,2017-07-01,2018-06-30,,2023-04-05T07:24:57+00:00,2017
+11950,733,21.2(a),,Fork-lift driver allowance,True,1.5,Percent,,12.14,per week,2017-07-01,2018-06-30,,2023-04-05T07:24:57+00:00,2017
+12157,733,21.2(a),,Fork-lift driver allowanceâ€”Part-time or casual fork-lift driver,True,0.3,Percent,,2.43,per day,2017-07-01,2018-06-30,,2023-04-05T07:24:57+00:00,2017
+73,733,21.2(a),,Fork-lift driver allowanceâ€”Part-time or casual maximum payment,True,1.5,Percent,,12.14,per week,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
+86,737,21.3(b)(i),,Overnight stay allowanceâ€”outside ordinary business operating hours,False,6.0,Percent,,48.55,per overnight stay period,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
+87,738,32.3(a),,Penaltyâ€”Monday to Fridayâ€”7.00pm to midnight,False,10.0,Percent,,2.13,per hour,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
+11954,739,32.3(b),,Penaltyâ€”Monday to Fridayâ€”midnight to 7.00 am,False,15.0,Percent,,3.19,per hour,2017-07-01,2018-06-30,,2023-04-05T07:24:57+00:00,2017
+84,736,21.3(a),,Split shift allowanceâ€”2 hours and up to 3 hours,False,0.33,Percent,,2.67,per day,2017-07-01,2018-06-30,,2022-02-15T05:49:51+00:00,2017
+11953,736,21.3(a),,Split shift allowanceâ€”More than 3 hours,False,0.5,Percent,,4.05,per day,2017-07-01,2018-06-30,,2023-04-05T07:24:57+00:00,2017
+81,735,21.2(c),,Airport cateringâ€”supervisory allowanceâ€”11 to 20 employees,False,3.1,Percent,,24.28,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
+80,735,21.2(c),,Airport cateringâ€”supervisory allowanceâ€”6 to 10 employees,False,2.75,Percent,,21.54,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
+82,735,21.2(c),,Airport cateringâ€”supervisory allowanceâ€”More than 20 employees,False,5.2,Percent,,40.73,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
+79,735,21.2(c),,Airport cateringâ€”supervisory allowanceâ€”Up to 5 employees,False,2.0,Percent,,15.67,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
+12256,740,39.2,1% of the standard weekly rate,Deductions - A meal,False,1.0,Percent,,7.83,per week,2016-07-01,2017-06-30,,2023-04-05T07:24:56+00:00,2016
+114,741,39.3,"â€”
+",Deductions - A meal - Same rate all ages,False,1.0,Percent,,7.83,per meal,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
+90,740,39.2,97.5% of 25% of standard weekly rate,Deductions - Shared room and 3 meals a day,False,25.0,Percent,,190.93,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
+99,741,39.3,45%,Deductions - Shared room and 3Â meals a day  - 15 yrs & under,False,25.0,Percent,,85.92,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
+100,741,39.3,55%,Deductions - Shared room and 3Â meals a day  - 16 yrs,False,25.0,Percent,,105.01,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
+101,741,39.3,70%,Deductions - Shared room and 3Â meals a day  - 17 yrs,False,25.0,Percent,,133.65,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
+102,741,39.3,80%,Deductions - Shared room and 3Â meals a day  - 18 yrs,False,25.0,Percent,,152.74,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
+103,741,39.3,90%,Deductions - Shared room and 3Â meals a day  - 19 yrs,False,25.0,Percent,,171.84,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
+92,740,39.2,92.5% of 25% of standard weekly rate,"Deductions - Shared room only, no meals",False,25.0,Percent,,181.14,per meal,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
+109,741,39.3,45%,Deductions - Shared room only; no meals - 15 yrs & under,False,25.0,Percent,,81.51,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
+110,741,39.3,55%,Deductions - Shared room only; no meals -16 yrs,False,25.0,Percent,,99.63,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
+111,741,39.3,70%,Deductions - Shared room only; no meals -17 yrs,False,25.0,Percent,,126.8,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
+112,741,39.3,80%,Deductions - Shared room only; no meals -18 yrs,False,25.0,Percent,,144.91,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
+113,741,39.3,90%,Deductions - Shared room only; no meals -19 yrs,False,25.0,Percent,,163.03,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
+89,740,39.2,25% of standard weekly rate,Deductions - Single room and 3 meals a day,False,25.0,Percent,,195.83,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
+94,741,39.3,45%,Deductions - Single room and 3Â meals a day  - 15 yrs & under,False,25.0,Percent,,88.12,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
+95,741,39.3,55%,Deductions - Single room and 3Â meals a day - 16 yrs,False,25.0,Percent,,107.71,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
+96,741,39.3,70%,Deductions - Single room and 3Â meals a day - 17 yrs,False,25.0,Percent,,137.08,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
+97,741,39.3,80%,Deductions - Single room and 3Â meals a day - 18 yrs,False,25.0,Percent,,156.66,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
+98,741,39.3,90%,Deductions - Single room and 3Â meals a day - 19 yrs,False,25.0,Percent,,176.25,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
+91,740,39.2,95% of 25% of standard weekly rate,"Deductions - Single room only, no meals",False,25.0,Percent,,186.04,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
+104,741,39.3,45%,Deductions - Single room only; no meals - 15 yrs & under,False,25.0,Percent,,83.71,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
+105,741,39.3,55%,Deductions - Single room only; no meals -16 yrs,False,25.0,Percent,,102.32,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
+106,741,39.3,70%,Deductions - Single room only; no meals -17 yrs,False,25.0,Percent,,130.22,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
+107,741,39.3,80%,Deductions - Single room only; no meals -18 yrs,False,25.0,Percent,,148.82,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
+108,741,39.3,90%,Deductions - Single room only; no meals -19 yrs,False,25.0,Percent,,167.43,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
+75,734,21.2(b),,First aid allowanceâ€”Full-time employee,False,1.2,Percent,,9.4,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
+11951,734,21.2(b),,First aid allowanceâ€”Part-time or casual employee,False,0.24,Percent,,1.88,per day,2016-07-01,2017-06-30,,2023-04-05T07:24:56+00:00,2016
+11952,734,21.2(b),,First aid allowanceâ€”Part-time or casual maximum payment,False,1.2,Percent,,9.4,per week,2016-07-01,2017-06-30,,2023-04-05T07:24:56+00:00,2016
+11950,733,21.2(a),,Fork-lift driver allowance,True,1.5,Percent,,11.75,per week,2016-07-01,2017-06-30,,2023-04-05T07:24:56+00:00,2016
+12157,733,21.2(a),,Fork-lift driver allowanceâ€”Part-time or casual fork-lift driver,True,0.3,Percent,,2.35,per day,2016-07-01,2017-06-30,,2023-04-05T07:24:56+00:00,2016
+73,733,21.2(a),,Fork-lift driver allowanceâ€”Part-time or casual maximum payment,True,1.5,Percent,,11.75,per week,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
+86,737,21.3(b)(i),,Overnight stay allowanceâ€”outside ordinary business operating hours,False,6.0,Percent,,47.0,per overnight stay period,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
+87,738,32.3(a),,Penaltyâ€”Monday to Fridayâ€”7.00pm to midnight,False,10.0,Percent,,2.06,per hour,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
+11954,739,32.3(b),,Penaltyâ€”Monday to Fridayâ€”midnight to 7.00 am,False,15.0,Percent,,3.09,per hour,2016-07-01,2017-06-30,,2023-04-05T07:24:56+00:00,2016
+84,736,21.3(a),,Split shift allowanceâ€”2 hours and up to 3 hours,False,0.33,Percent,,2.58,per day,2016-07-01,2017-06-30,,2022-02-15T05:49:51+00:00,2016
+11953,736,21.3(a),,Split shift allowanceâ€”More than 3 hours,False,0.5,Percent,,3.92,per day,2016-07-01,2017-06-30,,2023-04-05T07:24:56+00:00,2016
+81,735,21.2(c),,Airport cateringâ€”supervisory allowanceâ€”11 to 20 employees,False,3.1,Percent,,23.71,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
+80,735,21.2(c),,Airport cateringâ€”supervisory allowanceâ€”6 to 10 employees,False,2.75,Percent,,21.03,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
+82,735,21.2(c),,Airport cateringâ€”supervisory allowanceâ€”More than 20 employees,False,5.2,Percent,,39.77,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
+79,735,21.2(c),,Airport cateringâ€”supervisory allowanceâ€”Up to 5 employees,False,2.0,Percent,,15.3,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
+12256,740,39.2,1% of the standard weekly rate,Deductions - A meal,False,1.0,Percent,,7.65,per week,2015-07-01,2016-06-30,,2023-04-05T07:24:55+00:00,2015
+114,741,39.3,â€”,Deductions - A meal - Same rate all ages,False,1.0,Percent,,7.65,per meal,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
+90,740,39.2,97.5% of 25% of standard weekly rate,Deductions - Shared room and 3 meals a day,False,25.0,Percent,,186.45,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
+99,741,39.3,45%,Deductions - Shared room and 3Â meals a day  - 15 yrs & under,False,25.0,Percent,,83.9,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
+100,741,39.3,55%,Deductions - Shared room and 3Â meals a day  - 16 yrs,False,25.0,Percent,,102.55,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
+101,741,39.3,70%,Deductions - Shared room and 3Â meals a day  - 17 yrs,False,25.0,Percent,,130.52,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
+102,741,39.3,80%,Deductions - Shared room and 3Â meals a day  - 18 yrs,False,25.0,Percent,,149.16,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
+103,741,39.3,90%,Deductions - Shared room and 3Â meals a day  - 19 yrs,False,25.0,Percent,,167.81,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
+92,740,39.2,92.5% of 25% of standard weekly rate,"Deductions - Shared room only, no meals",False,25.0,Percent,,176.89,per meal,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
+109,741,39.3,45%,Deductions - Shared room only; no meals - 15 yrs & under,False,25.0,Percent,,79.6,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
+110,741,39.3,55%,Deductions - Shared room only; no meals -16 yrs,False,25.0,Percent,,97.29,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
+111,741,39.3,70%,Deductions - Shared room only; no meals -17 yrs,False,25.0,Percent,,123.82,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
+112,741,39.3,80%,Deductions - Shared room only; no meals -18 yrs,False,25.0,Percent,,141.51,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
+113,741,39.3,90%,Deductions - Shared room only; no meals -19 yrs,False,25.0,Percent,,159.2,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
+89,740,39.2,25% of standard weekly rate,Deductions - Single room and 3 meals a day,False,25.0,Percent,,191.23,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
+94,741,39.3,45%,Deductions - Single room and 3Â meals a day  - 15 yrs & under,False,25.0,Percent,,86.05,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
+95,741,39.3,55%,Deductions - Single room and 3Â meals a day - 16 yrs,False,25.0,Percent,,105.18,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
+96,741,39.3,70%,Deductions - Single room and 3Â meals a day - 17 yrs,False,25.0,Percent,,133.86,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
+97,741,39.3,80%,Deductions - Single room and 3Â meals a day - 18 yrs,False,25.0,Percent,,152.98,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
+98,741,39.3,90%,Deductions - Single room and 3Â meals a day - 19 yrs,False,25.0,Percent,,172.11,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
+91,740,39.2,95% of 25% of standard weekly rate,"Deductions - Single room only, no meals",False,25.0,Percent,,181.67,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
+104,741,39.3,45%,Deductions - Single room only; no meals - 15 yrs & under,False,25.0,Percent,,81.75,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
+105,741,39.3,55%,Deductions - Single room only; no meals -16 yrs,False,25.0,Percent,,99.92,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
+106,741,39.3,70%,Deductions - Single room only; no meals -17 yrs,False,25.0,Percent,,127.17,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
+107,741,39.3,80%,Deductions - Single room only; no meals -18 yrs,False,25.0,Percent,,145.34,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
+108,741,39.3,90%,Deductions - Single room only; no meals -19 yrs,False,25.0,Percent,,163.5,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
+75,734,21.2(b),,First aid allowanceâ€”Full-time employee,False,1.2,Percent,,9.18,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
+11951,734,21.2(b),,First aid allowanceâ€”Part-time or casual employee,False,0.24,Percent,,1.84,per day,2015-07-01,2016-06-30,,2023-04-05T07:24:55+00:00,2015
+11952,734,21.2(b),,First aid allowanceâ€”Part-time or casual maximum payment,False,1.2,Percent,,9.18,per week,2015-07-01,2016-06-30,,2023-04-05T07:24:55+00:00,2015
+11950,733,21.2(a),,Fork-lift driver allowance,True,1.5,Percent,,11.47,per week,2015-07-01,2016-06-30,,2023-04-05T07:24:55+00:00,2015
+12157,733,21.2(a),,Fork-lift driver allowanceâ€”Part-time or casual fork-lift driver,True,0.3,Percent,,2.29,per day,2015-07-01,2016-06-30,,2023-04-05T07:24:55+00:00,2015
+73,733,21.2(a),,Fork-lift driver allowanceâ€”Part-time or casual maximum payment,True,1.5,Percent,,11.47,per week,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
+86,737,21.3(b)(i),,Overnight stay allowanceâ€”outside ordinary business operating hours,False,6.0,Percent,,45.89,per overnight stay period,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
+87,738,32.3(a),,Penaltyâ€”Monday to Fridayâ€”7.00pm to midnight,False,10.0,Percent,,2.01,per hour,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
+11954,739,32.3(b),,Penaltyâ€”Monday to Fridayâ€”midnight to 7.00 am,False,15.0,Percent,,3.02,per hour,2015-07-01,2016-06-30,,2023-04-05T07:24:55+00:00,2015
+84,736,21.3(a),,Split shift allowanceâ€”2 hours and up to 3 hours,False,0.33,Percent,,2.52,per day,2015-07-01,2016-06-30,,2022-02-15T05:49:51+00:00,2015
+11953,736,21.3(a),,Split shift allowanceâ€”More than 3 hours,False,0.5,Percent,,3.82,per day,2015-07-01,2016-06-30,,2023-04-05T07:24:55+00:00,2015

@@ -1,149 +1,903 @@
 classification_fixed_id,clause_fixed_id,clauses,clause_description,parent_classification_name,classification,classification_level,next_down_classification_fixed_id,next_up_classification_fixed_id,operative_from,operative_to,version_number,last_modified_datetime,published_year
-88481,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),,Level 5*,,,,1/07/2023,,3,2023-06-02T08:37:38+00:00,2023
-88520,22667,18.4(b) - Junior office employees,Junior office employees,,Level 2*,,,,1/07/2023,,3,2023-06-02T08:37:38+00:00,2023
-88493,22667,18.4(b) - Junior office employees,Junior office employees,,Introductory Level*,,,,1/07/2023,,3,2023-06-02T08:37:38+00:00,2023
-88377,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),,Introductory Level*,,,,1/07/2023,,3,2023-06-02T08:37:38+00:00,2023
-88444,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),,Level 2*,,,,1/07/2023,,3,2023-06-02T08:37:38+00:00,2023
-88475,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),,Level 4*,,,,1/07/2023,,3,2023-06-02T08:37:38+00:00,2023
-88561,22667,18.4(b) - Junior office employees,Junior office employees,,Level 5*,,,,1/07/2023,,3,2023-06-02T08:37:38+00:00,2023
-88449,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),,Level 3*,,,,1/07/2023,,3,2023-06-02T08:37:38+00:00,2023
-88609,22672,18.4(a) - Junior Casino gaming,Junior employees,,Introductory Level*,,,,1/07/2023,,3,2023-06-02T08:37:38+00:00,2023
-88636,22672,18.4(a) - Junior Casino gaming,Junior employees,,Level 4*,,,,1/07/2023,,3,2023-06-02T08:37:38+00:00,2023
-88392,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),,Level 1*,,,,1/07/2023,,3,2023-06-02T08:37:38+00:00,2023
-88554,22667,18.4(b) - Junior office employees,Junior office employees,,Level 4*,,,,1/07/2023,,3,2023-06-02T08:37:38+00:00,2023
-88553,22667,18.4(b) - Junior office employees,Junior office employees,,Level 3*,,,,1/07/2023,,3,2023-06-02T08:37:38+00:00,2023
-88627,22672,18.4(a) - Junior Casino gaming,Junior employees,,Level 3A*,,,,1/07/2023,,3,2023-06-02T08:37:38+00:00,2023
-88623,22672,18.4(a) - Junior Casino gaming,Junior employees,,Level 3*,,,,1/07/2023,,3,2023-06-02T08:37:38+00:00,2023
-88619,22672,18.4(a) - Junior Casino gaming,Junior employees,,Level 2*,,,,1/07/2023,,3,2023-06-02T08:37:38+00:00,2023
-88644,22672,18.4(a) - Junior Casino gaming,Junior employees,,Level 6*,,,,1/07/2023,,3,2023-06-02T08:37:38+00:00,2023
-88615,22672,18.4(a) - Junior Casino gaming,Junior employees,,Level 1*,,,,1/07/2023,,3,2023-06-02T08:37:38+00:00,2023
-88640,22672,18.4(a) - Junior Casino gaming,Junior employees,,Level 5*,,,,1/07/2023,,3,2023-06-02T08:37:38+00:00,2023
-108883,27952,I.5.2*_LoadedRates,For penalty table I.5.2,,Level 3,1,,108884,1/07/2023,,4,2023-06-19T11:07:30+00:00,2023
-88391,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Introductory Level,20 years of age,1,,88442,1/07/2023,,5,2023-06-02T08:37:38+00:00,2023
-88519,22667,18.4(b) - Junior office employees,Junior office employees,Introductory,20 years of age,1,,88526,1/07/2023,,5,2023-06-02T08:37:38+00:00,2023
-108887,27953,I.5.3*_LoadedRates - Casino gaming employees,For penalty table I.5.3,,Level 3,1,,108889,1/07/2023,,5,2023-06-19T11:07:48+00:00,2023
-88614,22672,18.4(a) - Junior Casino gaming,Junior employees,Introductory level,20 years of age,1,,88618,1/07/2023,,5,2023-06-02T08:37:38+00:00,2023
-292,13,18.3,Casino Gaming Employees,,Introductory level,1,,293,1/07/2023,,5,2023-06-02T08:37:38+00:00,2023
-88390,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Introductory Level,19 years of age,1,,88441,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-91139,22672,18.4(a) - Junior Casino gaming,Junior employees,Introductory level,19 years of age,1,,88617,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-108888,27953,I.5.3*_LoadedRates - Casino gaming employees,For penalty table I.5.3,,Level 3A,1,,108889,1/07/2023,,5,2023-06-19T11:07:48+00:00,2023
-90436,22697,19.1(b),Cooking apprentices,55%,1st year,1,,90437,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88518,22667,18.4(b) - Junior office employees,Junior office employees,Introductory,19 years of age,1,,88525,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88612,22672,18.4(a) - Junior Casino gaming,Junior employees,Introductory level,18 years of age,1,,88616,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88516,22667,18.4(b) - Junior office employees,Junior office employees,Introductory,17 years of age,1,,88523,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88379,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Introductory Level,17 years of age,1,,88394,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88710,22702,19.5 - Adult cooking apprentices,Adult cooking apprentices,,1st year,1,,88709,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88714,22703,19.5 - Adult waiting apprentices,Adult waiting apprentices,,1st 6 months,1,,88717,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-242,11,18.1,Hospitality Employees,,Introductory level,1,,243,1/07/2023,,5,2023-06-02T08:37:38+00:00,2023
-88378,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Introductory Level,16 years of age and under,1,,88393,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88517,22667,18.4(b) - Junior office employees,Junior office employees,Introductory,18 years of age,1,,88524,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88515,22667,18.4(b) - Junior office employees,Junior office employees,Introductory,16 years of age,1,,88522,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-311,14,18.2,Managerial Staff (Hotels),,Managerial staff (Hotels),1,,,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88389,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Introductory Level,18 years of age,1,,88395,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88514,22667,18.4(b) - Junior office employees,Junior office employees,Introductory,15 years of age and under,1,,88521,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-90451,22698,19.2(b),Waiting apprentices,70% of the standard weekly rate,1st 6 months,1,,90452,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88709,22702,19.5 - Adult cooking apprentices,Adult cooking apprentices,,2nd year,2,88710,88711,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88393,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 1,16 years of age and under,2,88378,88443,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88526,22667,18.4(b) - Junior office employees,Junior office employees,Level 2,20 years of age,2,88519,88552,1/07/2023,,5,2023-06-02T08:37:38+00:00,2023
-88717,22703,19.5 - Adult waiting apprentices,Adult waiting apprentices,,2nd 6 months,2,88714,88716,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88525,22667,18.4(b) - Junior office employees,Junior office employees,Level 2,19 years of age,2,88518,88551,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88522,22667,18.4(b) - Junior office employees,Junior office employees,Level 2,16 years of age,2,88514,88548,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88524,22667,18.4(b) - Junior office employees,Junior office employees,Level 2,18 years of age,2,88517,88550,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-243,11,18.1,Hospitality Employees,Food and beverage attendant grade 1; Guest service grade 1; Kitchen attendant grade 1,Level 1,2,242,246,1/07/2023,,5,2023-06-02T08:37:38+00:00,2023
-88395,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 1,18 years of age,2,88389,88446,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-90437,22697,19.1(b),Cooking apprentices,65%,2nd year,2,90436,90438,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-108889,27953,I.5.3*_LoadedRates - Casino gaming employees,For penalty table I.5.3,,Level 4,2,108887,108890,1/07/2023,,5,2023-06-19T11:07:48+00:00,2023
-88523,22667,18.4(b) - Junior office employees,Junior office employees,Level 2,17 years of age,2,88516,88549,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88616,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 1,18 years of age,2,88612,88620,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-108884,27952,I.5.2*_LoadedRates,For penalty table I.5.2,,Level 4,2,108883,108885,1/07/2023,,4,2023-06-19T11:07:30+00:00,2023
-88521,22667,18.4(b) - Junior office employees,Junior office employees,Level 2,15 years of age and under,2,88514,88527,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-90452,22698,19.2(b),Waiting apprentices,85% of the standard weekly rate,2nd 6 months,2,90451,90453,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88618,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 1,20 years of age,2,88614,88622,1/07/2023,,5,2023-06-02T08:37:38+00:00,2023
-88617,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 1,19 years of age,2,91139,88621,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-293,13,18.3,Casino Gaming Employees,Casino electronic gaming employee grade 1,Level 1,2,292,294,1/07/2023,,5,2023-06-02T08:37:38+00:00,2023
-88711,22702,19.5 - Adult cooking apprentices,Adult cooking apprentices,,3rd year,2,88709,88712,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88441,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 1,19 years of age,2,88390,88447,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88394,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 1,17 years of age,2,88379,88445,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88442,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 1,20 years of age,2,88391,88448,1/07/2023,,5,2023-06-02T08:37:38+00:00,2023
-88622,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 2,20 years of age,3,88618,88626,1/07/2023,,5,2023-06-02T08:37:38+00:00,2023
-88549,22667,18.4(b) - Junior office employees,Junior office employees,Level 3,17 years of age,3,88523,88523,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88620,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 2,18 years of age,3,88616,88624,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-90438,22697,19.1(b),Cooking apprentices,80%,3rd year,3,90437,90439,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88527,22667,18.4(b) - Junior office employees,Junior office employees,Level 3,15 years of age and under,3,88521,88521,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88716,22703,19.5 - Adult waiting apprentices,Adult waiting apprentices,,3rd 6 months,3,88717,88754,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88552,22667,18.4(b) - Junior office employees,Junior office employees,Level 3,20 years of age,3,88526,88526,1/07/2023,,5,2023-06-02T08:37:38+00:00,2023
-88621,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 2,19 years of age,3,88617,88625,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88447,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 2,19 years of age,3,88441,88473,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88550,22667,18.4(b) - Junior office employees,Junior office employees,Level 3,18 years of age,3,88524,88524,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88446,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 2,18 years of age,3,88395,88472,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-108890,27953,I.5.3*_LoadedRates - Casino gaming employees,For penalty table I.5.3,,Level 5,3,108889,108891,1/07/2023,,5,2023-06-19T11:07:48+00:00,2023
-88445,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 2,17 years of age,3,88394,88471,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88548,22667,18.4(b) - Junior office employees,Junior office employees,Level 3,16 years of age,3,88522,88522,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-294,13,18.3,Casino Gaming Employees,Casino electronic gaming employee grade 2; Casino equipment technician grade�1; Casino table gaming employee grade 1; Customer liaison officer; Gaming finance employee grade�1,Level 2,3,293,299,1/07/2023,,5,2023-06-02T08:37:38+00:00,2023
-90453,22698,19.2(b),Waiting apprentices,Midway between the minimum rate prescribed for Food and beverage attendant grade 2 in Table 3�Minimum rates and the standard weekly rate,3rd 6 months,3,90452,90454,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88551,22667,18.4(b) - Junior office employees,Junior office employees,Level 3,19 years of age,3,88525,88525,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88443,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 2,16 years of age and under,3,88393,88470,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-108885,27952,I.5.2*_LoadedRates,For penalty table I.5.2,,Level 5,3,108884,108886,1/07/2023,,4,2023-06-19T11:07:30+00:00,2023
-88448,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 2,20 years of age,3,88442,88474,1/07/2023,,5,2023-06-02T08:37:38+00:00,2023
-246,11,18.1,Hospitality Employees,Clerical grade 1; Cook grade 1; Door person/security officer grade 1; Food and beverage attendant grade 2; Front office grade 1; Gardener grade 1; Guest service grade 2; Kitchen attendant grade 2; Leisure attendant grade 1; Storeperson grade 1,Level 2,3,243,257,1/07/2023,,5,2023-06-02T08:37:38+00:00,2023
-88712,22702,19.5 - Adult cooking apprentices,Adult cooking apprentices,,4th year � not attained standard of proficiency,3,88711,88713,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88713,22702,19.5 - Adult cooking apprentices,Adult cooking apprentices,,4th year � attained standard of proficiency,4,88712,,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88471,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 3,17 years of age,4,88445,88477,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88472,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 3,18 years of age,4,88446,88478,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88555,22667,18.4(b) - Junior office employees,Junior office employees,Level 4,15 years of age and under,4,88562,88527,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-257,11,18.1,Hospitality Employees,Clerical grade 2; Cook grade 2; Food and beverage attendant grade 3; Fork-lift driver; Front office grade 2; Gardener grade 2; Guest service grade 3; Handyperson; Kitchen attendant grade 3; Leisure attendant grade 2; Storeperson grade 2; Timekeeper/security officer grade 2,Level 3,4,246,268,1/07/2023,,5,2023-06-02T08:37:38+00:00,2023
-88559,22667,18.4(b) - Junior office employees,Junior office employees,Level 4,19 years of age,4,88566,88551,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-299,13,18.3,Casino Gaming Employees,Casino equipment technician grade�2; Gaming finance employee grade�2; Security officer grade 1,Level 3,4,294,303,1/07/2023,,6,2023-06-02T08:37:38+00:00,2023
-88626,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 3,20 years of age,4,88622,88639,1/07/2023,,5,2023-06-02T08:37:38+00:00,2023
-88474,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 3,20 years of age,4,88448,88480,1/07/2023,,5,2023-06-02T08:37:38+00:00,2023
-88470,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 3,16 years of age and under,4,88443,88476,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-108886,27952,I.5.2*_LoadedRates,For penalty table I.5.2,,Level 6,4,108885,,1/07/2023,,4,2023-06-19T11:07:30+00:00,2023
-90454,22698,19.2(b),Waiting apprentices,Midway between the rate specified for the 3rd 6 months and the standard weekly rate,4th 6 months � not attained standard of proficiency,4,90453,90455,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88556,22667,18.4(b) - Junior office employees,Junior office employees,Level 4,16 years of age,4,88563,88548,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88473,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 3,19 years of age,4,88447,88479,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88557,22667,18.4(b) - Junior office employees,Junior office employees,Level 4,17 years of age,4,88564,88549,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88630,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 3A,20 years of age,4,88622,88639,1/07/2023,,5,2023-06-02T08:37:38+00:00,2023
-88558,22667,18.4(b) - Junior office employees,Junior office employees,Level 4,18 years of age,4,88565,88550,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-302,13,18.3,Casino Gaming Employees,Casino table gaming employee grade 2,Level 3A,4,294,303,1/07/2023,,6,2023-06-02T08:37:38+00:00,2023
-88625,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 3,19 years of age,4,88621,88638,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88628,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 3A,18 years of age,4,88620,88637,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88624,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 3,18 years of age,4,88620,88637,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88560,22667,18.4(b) - Junior office employees,Junior office employees,Level 4,20 years of age,4,88567,88519,1/07/2023,,5,2023-06-02T08:37:38+00:00,2023
-88754,22703,19.5 - Adult waiting apprentices,Adult waiting apprentices,,4th 6 months � not attained standard of proficiency,4,88716,88755,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-90439,22697,19.1(b),Cooking apprentices,95%,4th year � not attained standard of proficiency,4,90438,90440,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-108891,27953,I.5.3*_LoadedRates - Casino gaming employees,For penalty table I.5.3,,Level 6,4,108890,,1/07/2023,,5,2023-06-19T11:07:48+00:00,2023
-88629,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 3A,19 years of age,4,88621,88638,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88637,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 4,18 years of age,5,88624,88641,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88562,22667,18.4(b) - Junior office employees,Junior office employees,Level 5,15 years of age and under,5,,,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88638,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 4,19 years of age,5,88625,88642,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88565,22667,18.4(b) - Junior office employees,Junior office employees,Level 5,18 years of age,5,88558,,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88755,22703,19.5 - Adult waiting apprentices,Adult waiting apprentices,,4th 6 months � attained standard of proficiency,5,88754,,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88564,22667,18.4(b) - Junior office employees,Junior office employees,Level 5,17 years of age,5,88557,,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88480,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 4,20 years of age,5,88474,88486,1/07/2023,,5,2023-06-02T08:37:38+00:00,2023
-88479,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 4,19 years of age,5,88473,88485,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88478,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 4,18 years of age,5,88472,88484,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88567,22667,18.4(b) - Junior office employees,Junior office employees,Level 5,20 years of age,5,88560,,1/07/2023,,5,2023-06-02T08:37:38+00:00,2023
-88563,22667,18.4(b) - Junior office employees,Junior office employees,Level 5,16 years of age,5,88556,,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-90455,22698,19.2(b),Waiting apprentices,100% of the standard weekly rate,4th 6 months � attained standard of proficiency,5,90454,,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88477,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 4,17 years of age,5,88471,88483,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88639,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 4,20 years of age,5,88626,88643,1/07/2023,,5,2023-06-02T08:37:38+00:00,2023
-268,11,18.1,Hospitality Employees,Clerical grade 3; Cook (tradesperson) grade 3; Food and beverage attendant (tradesperson) grade 4; Front office grade 3; Gardener grade 3 (tradesperson); Guest service grade 4; Leisure attendant grade 3; Storeperson grade 3,Level 4,5,257,276,1/07/2023,,5,2023-06-02T08:37:38+00:00,2023
-88476,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 4,16 years of age and under,5,88470,88482,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-90440,22697,19.1(b),Cooking apprentices,100%,4th year � attained standard of proficiency,5,90439,,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88566,22667,18.4(b) - Junior office employees,Junior office employees,Level 5,19 years of age,5,88559,,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88483,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 5,17 years of age,6,88477,,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-303,13,18.3,Casino Gaming Employees,Casino equipment technician grade�3; Gaming finance employee grade�3; Security officer grade 2,Level 4,6,294,306,1/07/2023,,6,2023-06-02T08:37:38+00:00,2023
-88482,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 5,16 years of age and under,6,88476,,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88484,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 5,18 years of age,6,88478,,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-276,11,18.1,Hospitality Employees,Clerical supervisor; Cook (tradesperson) grade 4; Food and beverage supervisor; Front office supervisor; Gardener grade 4 (tradesperson); Guest service supervisor,Level 5,6,268,282,1/07/2023,,5,2023-06-02T08:37:38+00:00,2023
-88485,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 5,19 years of age,6,88479,,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88641,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 5,18 years of age,6,88637,88645,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88486,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 5,20 years of age,6,88480,,1/07/2023,,5,2023-06-02T08:37:38+00:00,2023
-88643,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 5,20 years of age,6,88639,88647,1/07/2023,,5,2023-06-02T08:37:38+00:00,2023
-88642,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 5,19 years of age,6,88638,88646,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-306,13,18.3,Casino Gaming Employees,Casino table gaming employee grade 3; Gaming finance employee grade 4,Level 5,7,303,308,1/07/2023,,5,2023-06-02T08:37:38+00:00,2023
-88646,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 6,19 years of age,7,88642,,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-88647,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 6,20 years of age,7,88643,,1/07/2023,,5,2023-06-02T08:37:38+00:00,2023
-88645,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 6,18 years of age,7,88641,,1/07/2023,,4,2023-06-02T08:37:38+00:00,2023
-282,11,18.1,Hospitality Employees,Cook (tradesperson) grade 5,Level 6,7,276,,1/07/2023,,5,2023-06-02T08:37:38+00:00,2023
-308,13,18.3,Casino Gaming Employees,Casino table gaming employee grade 4; Gaming finance employee grade 5; Surveillance operator,Level 6,8,306,,1/07/2023,,6,2023-06-02T08:37:38+00:00,2023
+88481,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),,Level 5*,,,,2023-07-01,,3,2023-06-02T08:37:38+00:00,2023
+88520,22667,18.4(b) - Junior office employees,Junior office employees,,Level 2*,,,,2023-07-01,,3,2023-06-02T08:37:38+00:00,2023
+88493,22667,18.4(b) - Junior office employees,Junior office employees,,Introductory Level*,,,,2023-07-01,,3,2023-06-02T08:37:38+00:00,2023
+88377,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),,Introductory Level*,,,,2023-07-01,,3,2023-06-02T08:37:38+00:00,2023
+88444,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),,Level 2*,,,,2023-07-01,,3,2023-06-02T08:37:38+00:00,2023
+88475,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),,Level 4*,,,,2023-07-01,,3,2023-06-02T08:37:38+00:00,2023
+88561,22667,18.4(b) - Junior office employees,Junior office employees,,Level 5*,,,,2023-07-01,,3,2023-06-02T08:37:38+00:00,2023
+88449,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),,Level 3*,,,,2023-07-01,,3,2023-06-02T08:37:38+00:00,2023
+88609,22672,18.4(a) - Junior Casino gaming,Junior employees,,Introductory Level*,,,,2023-07-01,,3,2023-06-02T08:37:38+00:00,2023
+88636,22672,18.4(a) - Junior Casino gaming,Junior employees,,Level 4*,,,,2023-07-01,,3,2023-06-02T08:37:38+00:00,2023
+88392,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),,Level 1*,,,,2023-07-01,,3,2023-06-02T08:37:38+00:00,2023
+88554,22667,18.4(b) - Junior office employees,Junior office employees,,Level 4*,,,,2023-07-01,,3,2023-06-02T08:37:38+00:00,2023
+88553,22667,18.4(b) - Junior office employees,Junior office employees,,Level 3*,,,,2023-07-01,,3,2023-06-02T08:37:38+00:00,2023
+88627,22672,18.4(a) - Junior Casino gaming,Junior employees,,Level 3A*,,,,2023-07-01,,3,2023-06-02T08:37:38+00:00,2023
+88623,22672,18.4(a) - Junior Casino gaming,Junior employees,,Level 3*,,,,2023-07-01,,3,2023-06-02T08:37:38+00:00,2023
+88619,22672,18.4(a) - Junior Casino gaming,Junior employees,,Level 2*,,,,2023-07-01,,3,2023-06-02T08:37:38+00:00,2023
+88644,22672,18.4(a) - Junior Casino gaming,Junior employees,,Level 6*,,,,2023-07-01,,3,2023-06-02T08:37:38+00:00,2023
+88615,22672,18.4(a) - Junior Casino gaming,Junior employees,,Level 1*,,,,2023-07-01,,3,2023-06-02T08:37:38+00:00,2023
+88640,22672,18.4(a) - Junior Casino gaming,Junior employees,,Level 5*,,,,2023-07-01,,3,2023-06-02T08:37:38+00:00,2023
+108883,27952,I.5.2*_LoadedRates,For penalty table I.5.2,,Level 3,1.0,,108884.0,2023-07-01,,4,2023-06-19T11:07:30+00:00,2023
+88391,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Introductory Level,20 years of age,1.0,,88442.0,2023-07-01,,6,2023-08-09T15:57:30+00:00,2023
+88519,22667,18.4(b) - Junior office employees,Junior office employees,Introductory,20 years of age,1.0,,88526.0,2023-07-01,,6,2023-08-09T15:59:53+00:00,2023
+108887,27953,I.5.3*_LoadedRates - Casino gaming employees,For penalty table I.5.3,,Level 3,1.0,,108889.0,2023-07-01,,5,2023-06-19T11:07:48+00:00,2023
+88614,22672,18.4(a) - Junior Casino gaming,Junior employees,Introductory level,20 years of age,1.0,,88618.0,2023-07-01,,6,2023-08-09T13:57:28+00:00,2023
+292,13,18.3,Casino Gaming Employees,,Introductory level,1.0,,293.0,2023-07-01,,5,2023-06-02T08:37:38+00:00,2023
+88390,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Introductory Level,19 years of age,1.0,,88441.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+91139,22672,18.4(a) - Junior Casino gaming,Junior employees,Introductory level,19 years of age,1.0,,88617.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+108888,27953,I.5.3*_LoadedRates - Casino gaming employees,For penalty table I.5.3,,Level 3A,1.0,,108889.0,2023-07-01,,5,2023-06-19T11:07:48+00:00,2023
+90436,22697,19.1(b),Cooking apprentices,55%,1st year,1.0,,90437.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88518,22667,18.4(b) - Junior office employees,Junior office employees,Introductory,19 years of age,1.0,,88525.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88612,22672,18.4(a) - Junior Casino gaming,Junior employees,Introductory level,18 years of age,1.0,,88616.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88516,22667,18.4(b) - Junior office employees,Junior office employees,Introductory,17 years of age,1.0,,88523.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88379,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Introductory Level,17 years of age,1.0,,88394.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88710,22702,19.5 - Adult cooking apprentices,Adult cooking apprentices,,1st year,1.0,,88709.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88714,22703,19.5 - Adult waiting apprentices,Adult waiting apprentices,,1st 6 months,1.0,,88717.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+242,11,18.1,Hospitality Employees,,Introductory level,1.0,,243.0,2023-07-01,,5,2023-06-02T08:37:38+00:00,2023
+88378,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Introductory Level,16 years of age and under,1.0,,88393.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88517,22667,18.4(b) - Junior office employees,Junior office employees,Introductory,18 years of age,1.0,,88524.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88515,22667,18.4(b) - Junior office employees,Junior office employees,Introductory,16 years of age,1.0,,88522.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+311,14,18.2,Managerial Staff (Hotels),,Managerial staff (Hotels),1.0,,,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88389,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Introductory Level,18 years of age,1.0,,88395.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88514,22667,18.4(b) - Junior office employees,Junior office employees,Introductory,15 years of age and under,1.0,,88521.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+90451,22698,19.2(b),Waiting apprentices,70% of the standard weekly rate,1st 6 months,1.0,,90452.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88709,22702,19.5 - Adult cooking apprentices,Adult cooking apprentices,,2nd year,2.0,88710.0,88711.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88393,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 1,16 years of age and under,2.0,88378.0,88443.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88526,22667,18.4(b) - Junior office employees,Junior office employees,Level 2,20 years of age,2.0,88519.0,88552.0,2023-07-01,,6,2023-08-09T15:59:53+00:00,2023
+88717,22703,19.5 - Adult waiting apprentices,Adult waiting apprentices,,2nd 6 months,2.0,88714.0,88716.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88525,22667,18.4(b) - Junior office employees,Junior office employees,Level 2,19 years of age,2.0,88518.0,88551.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88522,22667,18.4(b) - Junior office employees,Junior office employees,Level 2,16 years of age,2.0,88514.0,88548.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88524,22667,18.4(b) - Junior office employees,Junior office employees,Level 2,18 years of age,2.0,88517.0,88550.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+243,11,18.1,Hospitality Employees,Food and beverage attendant grade 1; Guest service grade 1; Kitchen attendant grade 1,Level 1,2.0,242.0,246.0,2023-07-01,,5,2023-06-02T08:37:38+00:00,2023
+88395,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 1,18 years of age,2.0,88389.0,88446.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+90437,22697,19.1(b),Cooking apprentices,65%,2nd year,2.0,90436.0,90438.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+108889,27953,I.5.3*_LoadedRates - Casino gaming employees,For penalty table I.5.3,,Level 4,2.0,108887.0,108890.0,2023-07-01,,5,2023-06-19T11:07:48+00:00,2023
+88523,22667,18.4(b) - Junior office employees,Junior office employees,Level 2,17 years of age,2.0,88516.0,88549.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88616,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 1,18 years of age,2.0,88612.0,88620.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+108884,27952,I.5.2*_LoadedRates,For penalty table I.5.2,,Level 4,2.0,108883.0,108885.0,2023-07-01,,4,2023-06-19T11:07:30+00:00,2023
+88521,22667,18.4(b) - Junior office employees,Junior office employees,Level 2,15 years of age and under,2.0,88514.0,88527.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+90452,22698,19.2(b),Waiting apprentices,85% of the standard weekly rate,2nd 6 months,2.0,90451.0,90453.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88618,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 1,20 years of age,2.0,88614.0,88622.0,2023-07-01,,6,2023-08-09T14:07:34+00:00,2023
+88617,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 1,19 years of age,2.0,91139.0,88621.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+293,13,18.3,Casino Gaming Employees,Casino electronic gaming employee grade 1,Level 1,2.0,292.0,294.0,2023-07-01,,5,2023-06-02T08:37:38+00:00,2023
+88711,22702,19.5 - Adult cooking apprentices,Adult cooking apprentices,,3rd year,2.0,88709.0,88712.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88441,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 1,19 years of age,2.0,88390.0,88447.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88394,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 1,17 years of age,2.0,88379.0,88445.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88442,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 1,20 years of age,2.0,88391.0,88448.0,2023-07-01,,6,2023-08-09T15:57:30+00:00,2023
+88622,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 2,20 years of age,3.0,88618.0,88626.0,2023-07-01,,6,2023-08-09T14:07:34+00:00,2023
+88549,22667,18.4(b) - Junior office employees,Junior office employees,Level 3,17 years of age,3.0,88523.0,88523.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88620,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 2,18 years of age,3.0,88616.0,88624.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+90438,22697,19.1(b),Cooking apprentices,80%,3rd year,3.0,90437.0,90439.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88527,22667,18.4(b) - Junior office employees,Junior office employees,Level 3,15 years of age and under,3.0,88521.0,88521.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88716,22703,19.5 - Adult waiting apprentices,Adult waiting apprentices,,3rd 6 months,3.0,88717.0,88754.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88552,22667,18.4(b) - Junior office employees,Junior office employees,Level 3,20 years of age,3.0,88526.0,88526.0,2023-07-01,,6,2023-08-09T15:59:53+00:00,2023
+88621,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 2,19 years of age,3.0,88617.0,88625.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88447,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 2,19 years of age,3.0,88441.0,88473.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88550,22667,18.4(b) - Junior office employees,Junior office employees,Level 3,18 years of age,3.0,88524.0,88524.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88446,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 2,18 years of age,3.0,88395.0,88472.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+108890,27953,I.5.3*_LoadedRates - Casino gaming employees,For penalty table I.5.3,,Level 5,3.0,108889.0,108891.0,2023-07-01,,5,2023-06-19T11:07:48+00:00,2023
+88445,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 2,17 years of age,3.0,88394.0,88471.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88548,22667,18.4(b) - Junior office employees,Junior office employees,Level 3,16 years of age,3.0,88522.0,88522.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+294,13,18.3,Casino Gaming Employees,Casino electronic gaming employee grade 2; Casino equipment technician grade 1; Casino table gaming employee grade 1; Customer liaison officer; Gaming finance employee grade 1,Level 2,3.0,293.0,299.0,2023-07-01,,5,2023-06-02T08:37:38+00:00,2023
+90453,22698,19.2(b),Waiting apprentices,Midway between the minimum rate prescribed for Food and beverage attendant grade 2 in Table 3—Minimum rates and the standard weekly rate,3rd 6 months,3.0,90452.0,90454.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88551,22667,18.4(b) - Junior office employees,Junior office employees,Level 3,19 years of age,3.0,88525.0,88525.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88443,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 2,16 years of age and under,3.0,88393.0,88470.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+108885,27952,I.5.2*_LoadedRates,For penalty table I.5.2,,Level 5,3.0,108884.0,108886.0,2023-07-01,,4,2023-06-19T11:07:30+00:00,2023
+88448,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 2,20 years of age,3.0,88442.0,88474.0,2023-07-01,,6,2023-08-09T15:57:30+00:00,2023
+246,11,18.1,Hospitality Employees,Clerical grade 1; Cook grade 1; Door person/security officer grade 1; Food and beverage attendant grade 2; Front office grade 1; Gardener grade 1; Guest service grade 2; Kitchen attendant grade 2; Leisure attendant grade 1; Storeperson grade 1,Level 2,3.0,243.0,257.0,2023-07-01,,5,2023-06-02T08:37:38+00:00,2023
+88712,22702,19.5 - Adult cooking apprentices,Adult cooking apprentices,,4th year – not attained standard of proficiency,3.0,88711.0,88713.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88713,22702,19.5 - Adult cooking apprentices,Adult cooking apprentices,,4th year – attained standard of proficiency,4.0,88712.0,,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88471,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 3,17 years of age,4.0,88445.0,88477.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88472,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 3,18 years of age,4.0,88446.0,88478.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88555,22667,18.4(b) - Junior office employees,Junior office employees,Level 4,15 years of age and under,4.0,88562.0,88527.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+257,11,18.1,Hospitality Employees,Clerical grade 2; Cook grade 2; Food and beverage attendant grade 3; Fork-lift driver; Front office grade 2; Gardener grade 2; Guest service grade 3; Handyperson; Kitchen attendant grade 3; Leisure attendant grade 2; Storeperson grade 2; Timekeeper/security officer grade 2,Level 3,4.0,246.0,268.0,2023-07-01,,5,2023-06-02T08:37:38+00:00,2023
+88559,22667,18.4(b) - Junior office employees,Junior office employees,Level 4,19 years of age,4.0,88566.0,88551.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+299,13,18.3,Casino Gaming Employees,Casino equipment technician grade 2; Gaming finance employee grade 2; Security officer grade 1,Level 3,4.0,294.0,303.0,2023-07-01,,6,2023-06-02T08:37:38+00:00,2023
+88626,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 3,20 years of age,4.0,88622.0,88639.0,2023-07-01,,6,2023-08-09T14:07:34+00:00,2023
+88474,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 3,20 years of age,4.0,88448.0,88480.0,2023-07-01,,6,2023-08-09T15:57:30+00:00,2023
+88470,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 3,16 years of age and under,4.0,88443.0,88476.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+108886,27952,I.5.2*_LoadedRates,For penalty table I.5.2,,Level 6,4.0,108885.0,,2023-07-01,,4,2023-06-19T11:07:30+00:00,2023
+90454,22698,19.2(b),Waiting apprentices,Midway between the rate specified for the 3rd 6 months and the standard weekly rate,4th 6 months – not attained standard of proficiency,4.0,90453.0,90455.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88556,22667,18.4(b) - Junior office employees,Junior office employees,Level 4,16 years of age,4.0,88563.0,88548.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88473,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 3,19 years of age,4.0,88447.0,88479.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88557,22667,18.4(b) - Junior office employees,Junior office employees,Level 4,17 years of age,4.0,88564.0,88549.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88630,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 3A,20 years of age,4.0,88622.0,88639.0,2023-07-01,,6,2023-08-09T14:07:34+00:00,2023
+88558,22667,18.4(b) - Junior office employees,Junior office employees,Level 4,18 years of age,4.0,88565.0,88550.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+302,13,18.3,Casino Gaming Employees,Casino table gaming employee grade 2,Level 3A,4.0,294.0,303.0,2023-07-01,,6,2023-06-02T08:37:38+00:00,2023
+88625,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 3,19 years of age,4.0,88621.0,88638.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88628,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 3A,18 years of age,4.0,88620.0,88637.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88624,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 3,18 years of age,4.0,88620.0,88637.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88560,22667,18.4(b) - Junior office employees,Junior office employees,Level 4,20 years of age,4.0,88567.0,88519.0,2023-07-01,,6,2023-08-09T15:59:53+00:00,2023
+88754,22703,19.5 - Adult waiting apprentices,Adult waiting apprentices,,4th 6 months – not attained standard of proficiency,4.0,88716.0,88755.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+90439,22697,19.1(b),Cooking apprentices,95%,4th year – not attained standard of proficiency,4.0,90438.0,90440.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+108891,27953,I.5.3*_LoadedRates - Casino gaming employees,For penalty table I.5.3,,Level 6,4.0,108890.0,,2023-07-01,,5,2023-06-19T11:07:48+00:00,2023
+88629,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 3A,19 years of age,4.0,88621.0,88638.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88637,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 4,18 years of age,5.0,88624.0,88641.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88562,22667,18.4(b) - Junior office employees,Junior office employees,Level 5,15 years of age and under,5.0,,,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88638,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 4,19 years of age,5.0,88625.0,88642.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88565,22667,18.4(b) - Junior office employees,Junior office employees,Level 5,18 years of age,5.0,88558.0,,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88755,22703,19.5 - Adult waiting apprentices,Adult waiting apprentices,,4th 6 months – attained standard of proficiency,5.0,88754.0,,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88564,22667,18.4(b) - Junior office employees,Junior office employees,Level 5,17 years of age,5.0,88557.0,,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88480,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 4,20 years of age,5.0,88474.0,88486.0,2023-07-01,,6,2023-08-09T15:57:30+00:00,2023
+88479,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 4,19 years of age,5.0,88473.0,88485.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88478,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 4,18 years of age,5.0,88472.0,88484.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88567,22667,18.4(b) - Junior office employees,Junior office employees,Level 5,20 years of age,5.0,88560.0,,2023-07-01,,6,2023-08-09T15:59:53+00:00,2023
+88563,22667,18.4(b) - Junior office employees,Junior office employees,Level 5,16 years of age,5.0,88556.0,,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+90455,22698,19.2(b),Waiting apprentices,100% of the standard weekly rate,4th 6 months – attained standard of proficiency,5.0,90454.0,,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88477,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 4,17 years of age,5.0,88471.0,88483.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88639,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 4,20 years of age,5.0,88626.0,88643.0,2023-07-01,,6,2023-08-09T14:07:34+00:00,2023
+268,11,18.1,Hospitality Employees,Clerical grade 3; Cook (tradesperson) grade 3; Food and beverage attendant (tradesperson) grade 4; Front office grade 3; Gardener grade 3 (tradesperson); Guest service grade 4; Leisure attendant grade 3; Storeperson grade 3,Level 4,5.0,257.0,276.0,2023-07-01,,5,2023-06-02T08:37:38+00:00,2023
+88476,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 4,16 years of age and under,5.0,88470.0,88482.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+90440,22697,19.1(b),Cooking apprentices,100%,4th year – attained standard of proficiency,5.0,90439.0,,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88566,22667,18.4(b) - Junior office employees,Junior office employees,Level 5,19 years of age,5.0,88559.0,,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88483,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 5,17 years of age,6.0,88477.0,,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+303,13,18.3,Casino Gaming Employees,Casino equipment technician grade 3; Gaming finance employee grade 3; Security officer grade 2,Level 4,6.0,294.0,306.0,2023-07-01,,6,2023-06-02T08:37:38+00:00,2023
+88482,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 5,16 years of age and under,6.0,88476.0,,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88484,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 5,18 years of age,6.0,88478.0,,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+276,11,18.1,Hospitality Employees,Clerical supervisor; Cook (tradesperson) grade 4; Food and beverage supervisor; Front office supervisor; Gardener grade 4 (tradesperson); Guest service supervisor,Level 5,6.0,268.0,282.0,2023-07-01,,5,2023-06-02T08:37:38+00:00,2023
+88485,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 5,19 years of age,6.0,88479.0,,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88641,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 5,18 years of age,6.0,88637.0,88645.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88486,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 5,20 years of age,6.0,88480.0,,2023-07-01,,6,2023-08-09T15:57:30+00:00,2023
+88643,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 5,20 years of age,6.0,88639.0,88647.0,2023-07-01,,6,2023-08-09T14:07:34+00:00,2023
+88642,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 5,19 years of age,6.0,88638.0,88646.0,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+306,13,18.3,Casino Gaming Employees,Casino table gaming employee grade 3; Gaming finance employee grade 4,Level 5,7.0,303.0,308.0,2023-07-01,,5,2023-06-02T08:37:38+00:00,2023
+88646,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 6,19 years of age,7.0,88642.0,,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+88647,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 6,20 years of age,7.0,88643.0,,2023-07-01,,6,2023-08-09T14:07:34+00:00,2023
+88645,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 6,18 years of age,7.0,88641.0,,2023-07-01,,4,2023-06-02T08:37:38+00:00,2023
+282,11,18.1,Hospitality Employees,Cook (tradesperson) grade 5,Level 6,7.0,276.0,,2023-07-01,,5,2023-06-02T08:37:38+00:00,2023
+308,13,18.3,Casino Gaming Employees,Casino table gaming employee grade 4; Gaming finance employee grade 5; Surveillance operator,Level 6,8.0,306.0,,2023-07-01,,6,2023-06-02T08:37:38+00:00,2023
+88449,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),,Level 3*,,,,2022-10-01,2023-06-30,2,2022-06-24T11:31:58+00:00,2022
+88561,22667,18.4(b) - Junior office employees,Junior office employees,,Level 5*,,,,2022-10-01,2023-06-30,2,2022-06-24T11:31:58+00:00,2022
+88636,22672,18.4(a) - Junior Casino gaming,Junior employees,,Level 4*,,,,2022-10-01,2023-06-30,2,2022-06-24T11:31:58+00:00,2022
+88377,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),,Introductory Level*,,,,2022-10-01,2023-06-30,2,2022-06-24T11:31:58+00:00,2022
+88444,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),,Level 2*,,,,2022-10-01,2023-06-30,2,2022-06-24T11:31:58+00:00,2022
+88619,22672,18.4(a) - Junior Casino gaming,Junior employees,,Level 2*,,,,2022-10-01,2023-06-30,2,2022-06-24T11:31:58+00:00,2022
+88627,22672,18.4(a) - Junior Casino gaming,Junior employees,,Level 3A*,,,,2022-10-01,2023-06-30,2,2022-06-24T11:31:58+00:00,2022
+88553,22667,18.4(b) - Junior office employees,Junior office employees,,Level 3*,,,,2022-10-01,2023-06-30,2,2022-06-24T11:31:58+00:00,2022
+88520,22667,18.4(b) - Junior office employees,Junior office employees,,Level 2*,,,,2022-10-01,2023-06-30,2,2022-06-24T11:31:58+00:00,2022
+88615,22672,18.4(a) - Junior Casino gaming,Junior employees,,Level 1*,,,,2022-10-01,2023-06-30,2,2022-06-24T11:31:58+00:00,2022
+88609,22672,18.4(a) - Junior Casino gaming,Junior employees,,Introductory Level*,,,,2022-10-01,2023-06-30,2,2022-06-24T11:31:58+00:00,2022
+88640,22672,18.4(a) - Junior Casino gaming,Junior employees,,Level 5*,,,,2022-10-01,2023-06-30,2,2022-06-24T11:31:58+00:00,2022
+88392,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),,Level 1*,,,,2022-10-01,2023-06-30,2,2022-06-24T11:31:58+00:00,2022
+88644,22672,18.4(a) - Junior Casino gaming,Junior employees,,Level 6*,,,,2022-10-01,2023-06-30,2,2022-06-24T11:31:58+00:00,2022
+88554,22667,18.4(b) - Junior office employees,Junior office employees,,Level 4*,,,,2022-10-01,2023-06-30,2,2022-06-24T11:31:58+00:00,2022
+88493,22667,18.4(b) - Junior office employees,Junior office employees,,Introductory Level*,,,,2022-10-01,2023-06-30,2,2022-06-24T11:31:58+00:00,2022
+88475,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),,Level 4*,,,,2022-10-01,2023-06-30,2,2022-06-24T11:31:58+00:00,2022
+88623,22672,18.4(a) - Junior Casino gaming,Junior employees,,Level 3*,,,,2022-10-01,2023-06-30,2,2022-06-24T11:31:58+00:00,2022
+88481,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),,Level 5*,,,,2022-10-01,2023-06-30,2,2022-06-24T11:31:58+00:00,2022
+88517,22667,18.4(b) - Junior office employees,Junior office employees,Introductory,18 years of age,1.0,,88524.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88519,22667,18.4(b) - Junior office employees,Junior office employees,Introductory,20 years of age,1.0,,88526.0,2022-10-01,2023-06-30,4,2023-08-31T16:39:52+00:00,2022
+88614,22672,18.4(a) - Junior Casino gaming,Junior employees,Introductory level,20 years of age,1.0,,88618.0,2022-10-01,2023-06-30,4,2023-08-31T16:39:52+00:00,2022
+88391,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Introductory Level,20 years of age,1.0,,88442.0,2022-10-01,2023-06-30,4,2023-08-31T16:39:52+00:00,2022
+88514,22667,18.4(b) - Junior office employees,Junior office employees,Introductory,15 years of age and under,1.0,,88521.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88378,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Introductory Level,16 years of age and under,1.0,,88393.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88515,22667,18.4(b) - Junior office employees,Junior office employees,Introductory,16 years of age,1.0,,88522.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88390,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Introductory Level,19 years of age,1.0,,88441.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+292,13,18.3,Casino Gaming Employees,,Introductory level,1.0,,293.0,2022-10-01,2023-06-30,4,2022-07-01T17:27:06+00:00,2022
+88612,22672,18.4(a) - Junior Casino gaming,Junior employees,Introductory level,18 years of age,1.0,,88616.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88389,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Introductory Level,18 years of age,1.0,,88395.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+91139,22672,18.4(a) - Junior Casino gaming,Junior employees,Introductory level,19 years of age,1.0,,88617.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88516,22667,18.4(b) - Junior office employees,Junior office employees,Introductory,17 years of age,1.0,,88523.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88518,22667,18.4(b) - Junior office employees,Junior office employees,Introductory,19 years of age,1.0,,88525.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+242,11,18.1,Hospitality Employees,,Introductory level,1.0,,243.0,2022-10-01,2023-06-30,4,2022-07-01T17:25:19+00:00,2022
+88379,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Introductory Level,17 years of age,1.0,,88394.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88710,22702,19.5 - Adult cooking apprentices,Adult cooking apprentices,,1st year,1.0,,88709.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+311,14,18.2,Managerial Staff (Hotels),,Managerial staff (Hotels),1.0,,,2022-10-01,2023-06-30,3,2022-07-01T17:26:00+00:00,2022
+108883,27952,I.5.2*_LoadedRates,For penalty table I.5.2,,Level 3,1.0,,108884.0,2022-10-01,2023-06-30,2,2022-06-24T11:31:58+00:00,2022
+90436,22697,19.1(b),Cooking apprentices,55%,1st year,1.0,,90437.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+108887,27953,I.5.3*_LoadedRates - Casino gaming employees,For penalty table I.5.3,,Level 3,1.0,,108889.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88714,22703,19.5 - Adult waiting apprentices,Adult waiting apprentices,,1st 6 months,1.0,,88717.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+108888,27953,I.5.3*_LoadedRates - Casino gaming employees,For penalty table I.5.3,,Level 3A,1.0,,108889.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+90451,22698,19.2(b),Waiting apprentices,70% of the standard weekly rate,1st 6 months,1.0,,90452.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+90437,22697,19.1(b),Cooking apprentices,65%,2nd year,2.0,90436.0,90438.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+108884,27952,I.5.2*_LoadedRates,For penalty table I.5.2,,Level 4,2.0,108883.0,108885.0,2022-10-01,2023-06-30,2,2022-06-24T11:31:58+00:00,2022
+108889,27953,I.5.3*_LoadedRates - Casino gaming employees,For penalty table I.5.3,,Level 4,2.0,108887.0,108890.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88711,22702,19.5 - Adult cooking apprentices,Adult cooking apprentices,,3rd year,2.0,88709.0,88712.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+243,11,18.1,Hospitality Employees,Food and beverage attendant grade 1; Guest service grade 1; Kitchen attendant grade 1,Level 1,2.0,242.0,246.0,2022-10-01,2023-06-30,4,2022-07-01T17:25:19+00:00,2022
+88709,22702,19.5 - Adult cooking apprentices,Adult cooking apprentices,,2nd year,2.0,88710.0,88711.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+293,13,18.3,Casino Gaming Employees,Casino electronic gaming employee grade 1,Level 1,2.0,292.0,294.0,2022-10-01,2023-06-30,4,2022-07-01T17:27:06+00:00,2022
+90452,22698,19.2(b),Waiting apprentices,85% of the standard weekly rate,2nd 6 months,2.0,90451.0,90453.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88393,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 1,16 years of age and under,2.0,88378.0,88443.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88717,22703,19.5 - Adult waiting apprentices,Adult waiting apprentices,,2nd 6 months,2.0,88714.0,88716.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88442,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 1,20 years of age,2.0,88391.0,88448.0,2022-10-01,2023-06-30,4,2023-08-31T16:39:52+00:00,2022
+88521,22667,18.4(b) - Junior office employees,Junior office employees,Level 2,15 years of age and under,2.0,88514.0,88527.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88522,22667,18.4(b) - Junior office employees,Junior office employees,Level 2,16 years of age,2.0,88514.0,88548.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88441,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 1,19 years of age,2.0,88390.0,88447.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88524,22667,18.4(b) - Junior office employees,Junior office employees,Level 2,18 years of age,2.0,88517.0,88550.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88394,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 1,17 years of age,2.0,88379.0,88445.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88526,22667,18.4(b) - Junior office employees,Junior office employees,Level 2,20 years of age,2.0,88519.0,88552.0,2022-10-01,2023-06-30,4,2023-08-31T16:39:52+00:00,2022
+88525,22667,18.4(b) - Junior office employees,Junior office employees,Level 2,19 years of age,2.0,88518.0,88551.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88395,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 1,18 years of age,2.0,88389.0,88446.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88617,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 1,19 years of age,2.0,91139.0,88621.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88616,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 1,18 years of age,2.0,88612.0,88620.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88523,22667,18.4(b) - Junior office employees,Junior office employees,Level 2,17 years of age,2.0,88516.0,88549.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88618,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 1,20 years of age,2.0,88614.0,88622.0,2022-10-01,2023-06-30,4,2023-08-31T16:39:52+00:00,2022
+88621,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 2,19 years of age,3.0,88617.0,88625.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88448,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 2,20 years of age,3.0,88442.0,88474.0,2022-10-01,2023-06-30,4,2023-08-31T16:39:52+00:00,2022
+88550,22667,18.4(b) - Junior office employees,Junior office employees,Level 3,18 years of age,3.0,88524.0,88524.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88548,22667,18.4(b) - Junior office employees,Junior office employees,Level 3,16 years of age,3.0,88522.0,88522.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88552,22667,18.4(b) - Junior office employees,Junior office employees,Level 3,20 years of age,3.0,88526.0,88526.0,2022-10-01,2023-06-30,4,2023-08-31T16:39:52+00:00,2022
+88620,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 2,18 years of age,3.0,88616.0,88624.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88622,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 2,20 years of age,3.0,88618.0,88626.0,2022-10-01,2023-06-30,4,2023-08-31T16:39:52+00:00,2022
+88446,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 2,18 years of age,3.0,88395.0,88472.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88447,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 2,19 years of age,3.0,88441.0,88473.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88443,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 2,16 years of age and under,3.0,88393.0,88470.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+294,13,18.3,Casino Gaming Employees,Casino electronic gaming employee grade 2; Casino equipment technician grade 1; Casino table gaming employee grade 1; Customer liaison officer; Gaming finance employee grade 1,Level 2,3.0,293.0,299.0,2022-10-01,2023-06-30,4,2022-07-01T17:27:06+00:00,2022
+88712,22702,19.5 - Adult cooking apprentices,Adult cooking apprentices,,4th year – not attained standard of proficiency,3.0,88711.0,88713.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88551,22667,18.4(b) - Junior office employees,Junior office employees,Level 3,19 years of age,3.0,88525.0,88525.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88527,22667,18.4(b) - Junior office employees,Junior office employees,Level 3,15 years of age and under,3.0,88521.0,88521.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88549,22667,18.4(b) - Junior office employees,Junior office employees,Level 3,17 years of age,3.0,88523.0,88523.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88716,22703,19.5 - Adult waiting apprentices,Adult waiting apprentices,,3rd 6 months,3.0,88717.0,88754.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88445,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 2,17 years of age,3.0,88394.0,88471.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+108890,27953,I.5.3*_LoadedRates - Casino gaming employees,For penalty table I.5.3,,Level 5,3.0,108889.0,108891.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+90438,22697,19.1(b),Cooking apprentices,80%,3rd year,3.0,90437.0,90439.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+246,11,18.1,Hospitality Employees,Clerical grade 1; Cook grade 1; Door person/security officer grade 1; Food and beverage attendant grade 2; Front office grade 1; Gardener grade 1; Guest service grade 2; Kitchen attendant grade 2; Leisure attendant grade 1; Storeperson grade 1,Level 2,3.0,243.0,257.0,2022-10-01,2023-06-30,4,2022-07-01T17:25:19+00:00,2022
+90453,22698,19.2(b),Waiting apprentices,Midway between the minimum rate prescribed for Food and beverage attendant grade 2 in Table 3—Minimum rates and the standard weekly rate,3rd 6 months,3.0,90452.0,90454.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+108885,27952,I.5.2*_LoadedRates,For penalty table I.5.2,,Level 5,3.0,108884.0,108886.0,2022-10-01,2023-06-30,2,2022-06-24T11:31:58+00:00,2022
+108886,27952,I.5.2*_LoadedRates,For penalty table I.5.2,,Level 6,4.0,108885.0,,2022-10-01,2023-06-30,2,2022-06-24T11:31:58+00:00,2022
+108891,27953,I.5.3*_LoadedRates - Casino gaming employees,For penalty table I.5.3,,Level 6,4.0,108890.0,,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+90439,22697,19.1(b),Cooking apprentices,95%,4th year – not attained standard of proficiency,4.0,90438.0,90440.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88713,22702,19.5 - Adult cooking apprentices,Adult cooking apprentices,,4th year – attained standard of proficiency,4.0,88712.0,,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+302,13,18.3,Casino Gaming Employees,Casino table gaming employee grade 2,Level 3A,4.0,294.0,303.0,2022-10-01,2023-06-30,5,2022-07-01T17:27:06+00:00,2022
+88474,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 3,20 years of age,4.0,88448.0,88480.0,2022-10-01,2023-06-30,4,2023-08-31T16:39:52+00:00,2022
+257,11,18.1,Hospitality Employees,Clerical grade 2; Cook grade 2; Food and beverage attendant grade 3; Fork-lift driver; Front office grade 2; Gardener grade 2; Guest service grade 3; Handyperson; Kitchen attendant grade 3; Leisure attendant grade 2; Storeperson grade 2; Timekeeper/security officer grade 2,Level 3,4.0,246.0,268.0,2022-10-01,2023-06-30,4,2022-07-01T17:25:19+00:00,2022
+88754,22703,19.5 - Adult waiting apprentices,Adult waiting apprentices,,4th 6 months – not attained standard of proficiency,4.0,88716.0,88755.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+299,13,18.3,Casino Gaming Employees,Casino equipment technician grade 2; Gaming finance employee grade 2; Security officer grade 1,Level 3,4.0,294.0,303.0,2022-10-01,2023-06-30,5,2022-07-01T17:27:06+00:00,2022
+88470,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 3,16 years of age and under,4.0,88443.0,88476.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+90454,22698,19.2(b),Waiting apprentices,Midway between the rate specified for the 3rd 6 months and the standard weekly rate,4th 6 months – not attained standard of proficiency,4.0,90453.0,90455.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88628,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 3A,18 years of age,4.0,88620.0,88637.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88471,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 3,17 years of age,4.0,88445.0,88477.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88555,22667,18.4(b) - Junior office employees,Junior office employees,Level 4,15 years of age and under,4.0,88562.0,88527.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88556,22667,18.4(b) - Junior office employees,Junior office employees,Level 4,16 years of age,4.0,88563.0,88548.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88624,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 3,18 years of age,4.0,88620.0,88637.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88472,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 3,18 years of age,4.0,88446.0,88478.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88557,22667,18.4(b) - Junior office employees,Junior office employees,Level 4,17 years of age,4.0,88564.0,88549.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88559,22667,18.4(b) - Junior office employees,Junior office employees,Level 4,19 years of age,4.0,88566.0,88551.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88560,22667,18.4(b) - Junior office employees,Junior office employees,Level 4,20 years of age,4.0,88567.0,88519.0,2022-10-01,2023-06-30,4,2023-08-31T16:39:52+00:00,2022
+88473,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 3,19 years of age,4.0,88447.0,88479.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88625,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 3,19 years of age,4.0,88621.0,88638.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88630,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 3A,20 years of age,4.0,88622.0,88639.0,2022-10-01,2023-06-30,4,2023-08-31T16:39:52+00:00,2022
+88558,22667,18.4(b) - Junior office employees,Junior office employees,Level 4,18 years of age,4.0,88565.0,88550.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88629,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 3A,19 years of age,4.0,88621.0,88638.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88626,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 3,20 years of age,4.0,88622.0,88639.0,2022-10-01,2023-06-30,4,2023-08-31T16:39:52+00:00,2022
+88565,22667,18.4(b) - Junior office employees,Junior office employees,Level 5,18 years of age,5.0,88558.0,,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88638,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 4,19 years of age,5.0,88625.0,88642.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88564,22667,18.4(b) - Junior office employees,Junior office employees,Level 5,17 years of age,5.0,88557.0,,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88637,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 4,18 years of age,5.0,88624.0,88641.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88567,22667,18.4(b) - Junior office employees,Junior office employees,Level 5,20 years of age,5.0,88560.0,,2022-10-01,2023-06-30,4,2023-08-31T16:39:52+00:00,2022
+88562,22667,18.4(b) - Junior office employees,Junior office employees,Level 5,15 years of age and under,5.0,,,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88480,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 4,20 years of age,5.0,88474.0,88486.0,2022-10-01,2023-06-30,4,2023-08-31T16:39:52+00:00,2022
+88639,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 4,20 years of age,5.0,88626.0,88643.0,2022-10-01,2023-06-30,4,2023-08-31T16:39:52+00:00,2022
+88477,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 4,17 years of age,5.0,88471.0,88483.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88563,22667,18.4(b) - Junior office employees,Junior office employees,Level 5,16 years of age,5.0,88556.0,,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88566,22667,18.4(b) - Junior office employees,Junior office employees,Level 5,19 years of age,5.0,88559.0,,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88479,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 4,19 years of age,5.0,88473.0,88485.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88755,22703,19.5 - Adult waiting apprentices,Adult waiting apprentices,,4th 6 months – attained standard of proficiency,5.0,88754.0,,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+90455,22698,19.2(b),Waiting apprentices,100% of the standard weekly rate,4th 6 months – attained standard of proficiency,5.0,90454.0,,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88476,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 4,16 years of age and under,5.0,88470.0,88482.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88478,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 4,18 years of age,5.0,88472.0,88484.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+268,11,18.1,Hospitality Employees,Clerical grade 3; Cook (tradesperson) grade 3; Food and beverage attendant (tradesperson) grade 4; Front office grade 3; Gardener grade 3 (tradesperson); Guest service grade 4; Leisure attendant grade 3; Storeperson grade 3,Level 4,5.0,257.0,276.0,2022-10-01,2023-06-30,4,2022-07-01T17:25:19+00:00,2022
+90440,22697,19.1(b),Cooking apprentices,100%,4th year – attained standard of proficiency,5.0,90439.0,,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88642,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 5,19 years of age,6.0,88638.0,88646.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88643,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 5,20 years of age,6.0,88639.0,88647.0,2022-10-01,2023-06-30,4,2023-08-31T16:39:52+00:00,2022
+88641,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 5,18 years of age,6.0,88637.0,88645.0,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88485,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 5,19 years of age,6.0,88479.0,,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+303,13,18.3,Casino Gaming Employees,Casino equipment technician grade 3; Gaming finance employee grade 3; Security officer grade 2,Level 4,6.0,294.0,306.0,2022-10-01,2023-06-30,5,2022-07-01T17:27:06+00:00,2022
+276,11,18.1,Hospitality Employees,Clerical supervisor; Cook (tradesperson) grade 4; Food and beverage supervisor; Front office supervisor; Gardener grade 4 (tradesperson); Guest service supervisor,Level 5,6.0,268.0,282.0,2022-10-01,2023-06-30,4,2022-07-01T17:25:19+00:00,2022
+88486,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 5,20 years of age,6.0,88480.0,,2022-10-01,2023-06-30,4,2023-08-31T16:39:52+00:00,2022
+88483,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 5,17 years of age,6.0,88477.0,,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88484,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 5,18 years of age,6.0,88478.0,,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+88482,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 5,16 years of age and under,6.0,88476.0,,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+306,13,18.3,Casino Gaming Employees,Casino table gaming employee grade 3; Gaming finance employee grade 4,Level 5,7.0,303.0,308.0,2022-10-01,2023-06-30,4,2022-07-01T17:27:06+00:00,2022
+88647,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 6,20 years of age,7.0,88643.0,,2022-10-01,2023-06-30,4,2023-08-31T16:39:52+00:00,2022
+88646,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 6,19 years of age,7.0,88642.0,,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+282,11,18.1,Hospitality Employees,Cook (tradesperson) grade 5,Level 6,7.0,276.0,,2022-10-01,2023-06-30,4,2022-07-01T17:25:19+00:00,2022
+88645,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 6,18 years of age,7.0,88641.0,,2022-10-01,2023-06-30,3,2022-06-24T11:31:58+00:00,2022
+308,13,18.3,Casino Gaming Employees,Casino table gaming employee grade 4; Gaming finance employee grade 5; Surveillance operator,Level 6,8.0,306.0,,2022-10-01,2023-06-30,5,2022-07-01T17:27:06+00:00,2022
+88377,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),,Introductory Level*,,,,2021-11-01,2022-09-30,1,2022-06-28T14:29:04+00:00,2021
+88392,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),,Level 1*,,,,2021-11-01,2022-09-30,1,2022-06-28T14:29:04+00:00,2021
+88449,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),,Level 3*,,,,2021-11-01,2022-09-30,1,2022-06-28T14:29:04+00:00,2021
+88444,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),,Level 2*,,,,2021-11-01,2022-09-30,1,2022-06-28T14:29:04+00:00,2021
+88475,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),,Level 4*,,,,2021-11-01,2022-09-30,1,2022-06-28T14:29:04+00:00,2021
+88481,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),,Level 5*,,,,2021-11-01,2022-09-30,1,2022-06-28T14:29:04+00:00,2021
+88493,22667,18.4(b) - Junior office employees,Junior office employees,,Introductory Level*,,,,2021-11-01,2022-09-30,1,2022-06-28T14:31:54+00:00,2021
+88520,22667,18.4(b) - Junior office employees,Junior office employees,,Level 2*,,,,2021-11-01,2022-09-30,1,2022-06-28T14:31:54+00:00,2021
+88553,22667,18.4(b) - Junior office employees,Junior office employees,,Level 3*,,,,2021-11-01,2022-09-30,1,2022-06-28T14:31:54+00:00,2021
+88561,22667,18.4(b) - Junior office employees,Junior office employees,,Level 5*,,,,2021-11-01,2022-09-30,1,2022-06-28T14:31:54+00:00,2021
+88554,22667,18.4(b) - Junior office employees,Junior office employees,,Level 4*,,,,2021-11-01,2022-09-30,1,2022-06-28T14:31:54+00:00,2021
+88609,22672,18.4(a) - Junior Casino gaming,Junior employees,,Introductory Level*,,,,2021-11-01,2022-09-30,1,2022-06-28T14:30:38+00:00,2021
+88615,22672,18.4(a) - Junior Casino gaming,Junior employees,,Level 1*,,,,2021-11-01,2022-09-30,1,2022-06-28T14:30:38+00:00,2021
+88619,22672,18.4(a) - Junior Casino gaming,Junior employees,,Level 2*,,,,2021-11-01,2022-09-30,1,2022-06-28T14:30:38+00:00,2021
+88623,22672,18.4(a) - Junior Casino gaming,Junior employees,,Level 3*,,,,2021-11-01,2022-09-30,1,2022-06-28T14:30:38+00:00,2021
+88627,22672,18.4(a) - Junior Casino gaming,Junior employees,,Level 3A*,,,,2021-11-01,2022-09-30,1,2022-06-28T14:30:38+00:00,2021
+88636,22672,18.4(a) - Junior Casino gaming,Junior employees,,Level 4*,,,,2021-11-01,2022-09-30,1,2022-06-28T14:30:38+00:00,2021
+88640,22672,18.4(a) - Junior Casino gaming,Junior employees,,Level 5*,,,,2021-11-01,2022-09-30,1,2022-06-28T14:30:38+00:00,2021
+88644,22672,18.4(a) - Junior Casino gaming,Junior employees,,Level 6*,,,,2021-11-01,2022-09-30,1,2022-06-28T14:30:38+00:00,2021
+91139,22672,18.4(a) - Junior Casino gaming,Junior employees,Introductory level,19 years of age,1.0,,88617.0,2021-11-01,2022-09-30,2,2022-06-28T14:30:38+00:00,2021
+90436,22697,19.1(b),Cooking apprentices,55%,1st year,1.0,,90437.0,2021-11-01,2022-09-30,2,2022-06-28T14:32:30+00:00,2021
+90451,22698,19.2(b),Waiting apprentices,70% of the standard weekly rate,1st 6 months,1.0,,90452.0,2021-11-01,2022-09-30,2,2022-06-28T14:32:55+00:00,2021
+108887,27953,J.5.3*_LoadedRates - Casino gaming employees,For penalty table K.5.3,,Level 3,1.0,,108889.0,2021-11-01,2022-09-30,2,2022-06-28T14:33:57+00:00,2021
+88710,22702,19.5 - Adult cooking apprentices,Adult cooking apprentices,,1st year,1.0,,88709.0,2021-11-01,2022-09-30,2,2022-06-28T14:33:14+00:00,2021
+108883,27952,J.5.2*_LoadedRates,For penalty table K.5.2,,Level 3,1.0,,108884.0,2021-11-01,2022-09-30,1,2022-06-28T14:33:43+00:00,2021
+88714,22703,19.5 - Adult waiting apprentices,Adult waiting apprentices,,1st 6 months,1.0,,88717.0,2021-11-01,2022-09-30,2,2022-06-28T14:33:29+00:00,2021
+108888,27953,J.5.3*_LoadedRates - Casino gaming employees,For penalty table K.5.3,,Level 3A,1.0,,108889.0,2021-11-01,2022-09-30,2,2022-06-28T14:33:57+00:00,2021
+88614,22672,18.4(a) - Junior Casino gaming,Junior employees,Introductory level,20 years of age,1.0,,88618.0,2021-11-01,2022-09-30,2,2022-06-28T14:30:38+00:00,2021
+88612,22672,18.4(a) - Junior Casino gaming,Junior employees,Introductory level,18 years of age,1.0,,88616.0,2021-11-01,2022-09-30,2,2022-06-28T14:30:38+00:00,2021
+88517,22667,18.4(b) - Junior office employees,Junior office employees,Introductory,18 years of age,1.0,,88524.0,2021-11-01,2022-09-30,2,2022-06-28T14:31:54+00:00,2021
+88518,22667,18.4(b) - Junior office employees,Junior office employees,Introductory,19 years of age,1.0,,88525.0,2021-11-01,2022-09-30,2,2022-06-28T14:31:54+00:00,2021
+88515,22667,18.4(b) - Junior office employees,Junior office employees,Introductory,16 years of age,1.0,,88522.0,2021-11-01,2022-09-30,2,2022-06-28T14:31:54+00:00,2021
+88516,22667,18.4(b) - Junior office employees,Junior office employees,Introductory,17 years of age,1.0,,88523.0,2021-11-01,2022-09-30,2,2022-06-28T14:31:54+00:00,2021
+88519,22667,18.4(b) - Junior office employees,Junior office employees,Introductory,20 years of age,1.0,,88526.0,2021-11-01,2022-09-30,2,2022-06-28T14:31:54+00:00,2021
+88514,22667,18.4(b) - Junior office employees,Junior office employees,Introductory,15 years of age and under,1.0,,88521.0,2021-11-01,2022-09-30,2,2022-06-28T14:31:54+00:00,2021
+88391,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Introductory Level,20 years of age,1.0,,88442.0,2021-11-01,2022-09-30,2,2022-06-28T14:29:04+00:00,2021
+311,14,18.2,Managerial Staff (Hotels),,Managerial staff (Hotels),1.0,,,2021-11-01,2022-09-30,1,2022-06-28T14:26:36+00:00,2021
+88379,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Introductory Level,17 years of age,1.0,,88394.0,2021-11-01,2022-09-30,2,2022-06-28T14:29:04+00:00,2021
+88378,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Introductory Level,16 years of age and under,1.0,,88393.0,2021-11-01,2022-09-30,2,2022-06-28T14:29:04+00:00,2021
+88389,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Introductory Level,18 years of age,1.0,,88395.0,2021-11-01,2022-09-30,2,2022-06-28T14:29:04+00:00,2021
+88390,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Introductory Level,19 years of age,1.0,,88441.0,2021-11-01,2022-09-30,2,2022-06-28T14:29:04+00:00,2021
+292,13,18.3,Casino Gaming Employees,,Introductory level,1.0,,293.0,2021-11-01,2022-09-30,2,2022-06-28T14:27:26+00:00,2021
+242,11,18.1,Hospitality Employees,,Introductory level,1.0,,243.0,2021-11-01,2022-09-30,2,2022-06-28T14:26:10+00:00,2021
+243,11,18.1,Hospitality Employees,Food and beverage attendant grade 1; Guest service grade 1; Kitchen attendant grade 1,Level 1,2.0,242.0,246.0,2021-11-01,2022-09-30,2,2022-06-28T14:26:10+00:00,2021
+293,13,18.3,Casino Gaming Employees,Casino electronic gaming employee grade 1,Level 1,2.0,292.0,294.0,2021-11-01,2022-09-30,2,2022-06-28T14:27:26+00:00,2021
+88394,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 1,17 years of age,2.0,88379.0,88445.0,2021-11-01,2022-09-30,2,2022-06-28T14:29:04+00:00,2021
+88441,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 1,19 years of age,2.0,88390.0,88447.0,2021-11-01,2022-09-30,2,2022-06-28T14:29:04+00:00,2021
+88395,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 1,18 years of age,2.0,88389.0,88446.0,2021-11-01,2022-09-30,2,2022-06-28T14:29:04+00:00,2021
+88393,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 1,16 years of age and under,2.0,88378.0,88443.0,2021-11-01,2022-09-30,2,2022-06-28T14:29:04+00:00,2021
+88442,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 1,20 years of age,2.0,88391.0,88448.0,2021-11-01,2022-09-30,2,2022-06-28T14:29:04+00:00,2021
+88523,22667,18.4(b) - Junior office employees,Junior office employees,Level 2,17 years of age,2.0,88516.0,88549.0,2021-11-01,2022-09-30,2,2022-06-28T14:31:54+00:00,2021
+88524,22667,18.4(b) - Junior office employees,Junior office employees,Level 2,18 years of age,2.0,88517.0,88550.0,2021-11-01,2022-09-30,2,2022-06-28T14:31:54+00:00,2021
+88522,22667,18.4(b) - Junior office employees,Junior office employees,Level 2,16 years of age,2.0,88514.0,88548.0,2021-11-01,2022-09-30,2,2022-06-28T14:31:54+00:00,2021
+88521,22667,18.4(b) - Junior office employees,Junior office employees,Level 2,15 years of age and under,2.0,88514.0,88527.0,2021-11-01,2022-09-30,2,2022-06-28T14:31:54+00:00,2021
+88526,22667,18.4(b) - Junior office employees,Junior office employees,Level 2,20 years of age,2.0,88519.0,88552.0,2021-11-01,2022-09-30,2,2022-06-28T14:31:54+00:00,2021
+88525,22667,18.4(b) - Junior office employees,Junior office employees,Level 2,19 years of age,2.0,88518.0,88551.0,2021-11-01,2022-09-30,2,2022-06-28T14:31:54+00:00,2021
+88617,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 1,19 years of age,2.0,91139.0,88621.0,2021-11-01,2022-09-30,2,2022-06-28T14:30:38+00:00,2021
+88618,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 1,20 years of age,2.0,88614.0,88622.0,2021-11-01,2022-09-30,2,2022-06-28T14:30:38+00:00,2021
+88616,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 1,18 years of age,2.0,88612.0,88620.0,2021-11-01,2022-09-30,2,2022-06-28T14:30:38+00:00,2021
+88717,22703,19.5 - Adult waiting apprentices,Adult waiting apprentices,,2nd 6 months,2.0,88714.0,88716.0,2021-11-01,2022-09-30,2,2022-06-28T14:33:29+00:00,2021
+108884,27952,J.5.2*_LoadedRates,For penalty table K.5.2,,Level 4,2.0,108883.0,108885.0,2021-11-01,2022-09-30,1,2022-06-28T14:33:43+00:00,2021
+108889,27953,J.5.3*_LoadedRates - Casino gaming employees,For penalty table K.5.3,,Level 4,2.0,108887.0,108890.0,2021-11-01,2022-09-30,2,2022-06-28T14:33:57+00:00,2021
+90452,22698,19.2(b),Waiting apprentices,85% of the standard weekly rate,2nd 6 months,2.0,90451.0,90453.0,2021-11-01,2022-09-30,2,2022-06-28T14:32:55+00:00,2021
+90437,22697,19.1(b),Cooking apprentices,65%,2nd year,2.0,90436.0,90438.0,2021-11-01,2022-09-30,2,2022-06-28T14:32:30+00:00,2021
+88709,22702,19.5 - Adult cooking apprentices,Adult cooking apprentices,,2nd year,2.0,88710.0,88711.0,2021-11-01,2022-09-30,2,2022-06-28T14:33:14+00:00,2021
+88711,22702,19.5 - Adult cooking apprentices,Adult cooking apprentices,,3rd year,2.0,88709.0,88712.0,2021-11-01,2022-09-30,2,2022-06-28T14:33:14+00:00,2021
+90453,22698,19.2(b),Waiting apprentices,Midway between the minimum rate prescribed for Food and beverage attendant grade 2 in Table 3—Minimum rates and the standard weekly rate,3rd 6 months,3.0,90452.0,90454.0,2021-11-01,2022-09-30,2,2022-06-28T14:32:55+00:00,2021
+108890,27953,J.5.3*_LoadedRates - Casino gaming employees,For penalty table K.5.3,,Level 5,3.0,108889.0,108891.0,2021-11-01,2022-09-30,2,2022-06-28T14:33:57+00:00,2021
+108885,27952,J.5.2*_LoadedRates,For penalty table K.5.2,,Level 5,3.0,108884.0,108886.0,2021-11-01,2022-09-30,1,2022-06-28T14:33:43+00:00,2021
+90438,22697,19.1(b),Cooking apprentices,80%,3rd year,3.0,90437.0,90439.0,2021-11-01,2022-09-30,2,2022-06-28T14:32:30+00:00,2021
+88716,22703,19.5 - Adult waiting apprentices,Adult waiting apprentices,,3rd 6 months,3.0,88717.0,88754.0,2021-11-01,2022-09-30,2,2022-06-28T14:33:29+00:00,2021
+88712,22702,19.5 - Adult cooking apprentices,Adult cooking apprentices,,4th year – not attained standard of proficiency,3.0,88711.0,88713.0,2021-11-01,2022-09-30,2,2022-06-28T14:33:14+00:00,2021
+88620,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 2,18 years of age,3.0,88616.0,88624.0,2021-11-01,2022-09-30,2,2022-06-28T14:30:38+00:00,2021
+88622,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 2,20 years of age,3.0,88618.0,88626.0,2021-11-01,2022-09-30,2,2022-06-28T14:30:38+00:00,2021
+88621,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 2,19 years of age,3.0,88617.0,88625.0,2021-11-01,2022-09-30,2,2022-06-28T14:30:38+00:00,2021
+88549,22667,18.4(b) - Junior office employees,Junior office employees,Level 3,17 years of age,3.0,88523.0,88523.0,2021-11-01,2022-09-30,2,2022-06-28T14:31:54+00:00,2021
+88527,22667,18.4(b) - Junior office employees,Junior office employees,Level 3,15 years of age and under,3.0,88521.0,88521.0,2021-11-01,2022-09-30,2,2022-06-28T14:31:54+00:00,2021
+88551,22667,18.4(b) - Junior office employees,Junior office employees,Level 3,19 years of age,3.0,88525.0,88525.0,2021-11-01,2022-09-30,2,2022-06-28T14:31:54+00:00,2021
+88552,22667,18.4(b) - Junior office employees,Junior office employees,Level 3,20 years of age,3.0,88526.0,88526.0,2021-11-01,2022-09-30,2,2022-06-28T14:31:54+00:00,2021
+88550,22667,18.4(b) - Junior office employees,Junior office employees,Level 3,18 years of age,3.0,88524.0,88524.0,2021-11-01,2022-09-30,2,2022-06-28T14:31:54+00:00,2021
+88548,22667,18.4(b) - Junior office employees,Junior office employees,Level 3,16 years of age,3.0,88522.0,88522.0,2021-11-01,2022-09-30,2,2022-06-28T14:31:54+00:00,2021
+88443,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 2,16 years of age and under,3.0,88393.0,88470.0,2021-11-01,2022-09-30,2,2022-06-28T14:29:04+00:00,2021
+88447,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 2,19 years of age,3.0,88441.0,88473.0,2021-11-01,2022-09-30,2,2022-06-28T14:29:04+00:00,2021
+88445,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 2,17 years of age,3.0,88394.0,88471.0,2021-11-01,2022-09-30,2,2022-06-28T14:29:04+00:00,2021
+88448,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 2,20 years of age,3.0,88442.0,88474.0,2021-11-01,2022-09-30,2,2022-06-28T14:29:04+00:00,2021
+88446,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 2,18 years of age,3.0,88395.0,88472.0,2021-11-01,2022-09-30,2,2022-06-28T14:29:04+00:00,2021
+294,13,18.3,Casino Gaming Employees,Casino electronic gaming employee grade 2; Casino equipment technician grade 1; Casino table gaming employee grade 1; Customer liaison officer; Gaming finance employee grade 1,Level 2,3.0,293.0,299.0,2021-11-01,2022-09-30,2,2022-06-28T14:27:26+00:00,2021
+246,11,18.1,Hospitality Employees,Clerical grade 1; Cook grade 1; Door person/security officer grade 1; Food and beverage attendant grade 2; Front office grade 1; Gardener grade 1; Guest service grade 2; Kitchen attendant grade 2; Leisure attendant grade 1; Storeperson grade 1,Level 2,3.0,243.0,257.0,2021-11-01,2022-09-30,2,2022-06-28T14:26:10+00:00,2021
+299,13,18.3,Casino Gaming Employees,Casino equipment technician grade 2; Gaming finance employee grade 2; Security officer grade 1,Level 3,4.0,294.0,303.0,2021-11-01,2022-09-30,3,2022-06-28T14:27:26+00:00,2021
+257,11,18.1,Hospitality Employees,Clerical grade 2; Cook grade 2; Food and beverage attendant grade 3; Fork-lift driver; Front office grade 2; Gardener grade 2; Guest service grade 3; Handyperson; Kitchen attendant grade 3; Leisure attendant grade 2; Storeperson grade 2; Timekeeper/security officer grade 2,Level 3,4.0,246.0,268.0,2021-11-01,2022-09-30,2,2022-06-28T14:26:10+00:00,2021
+88470,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 3,16 years of age and under,4.0,88443.0,88476.0,2021-11-01,2022-09-30,2,2022-06-28T14:29:04+00:00,2021
+88471,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 3,17 years of age,4.0,88445.0,88477.0,2021-11-01,2022-09-30,2,2022-06-28T14:29:04+00:00,2021
+88473,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 3,19 years of age,4.0,88447.0,88479.0,2021-11-01,2022-09-30,2,2022-06-28T14:29:04+00:00,2021
+88472,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 3,18 years of age,4.0,88446.0,88478.0,2021-11-01,2022-09-30,2,2022-06-28T14:29:04+00:00,2021
+88474,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 3,20 years of age,4.0,88448.0,88480.0,2021-11-01,2022-09-30,2,2022-06-28T14:29:04+00:00,2021
+302,13,18.3,Casino Gaming Employees,Casino table gaming employee grade 2,Level 3A,4.0,294.0,303.0,2021-11-01,2022-09-30,3,2022-06-28T14:27:26+00:00,2021
+88556,22667,18.4(b) - Junior office employees,Junior office employees,Level 4,16 years of age,4.0,88563.0,88548.0,2021-11-01,2022-09-30,2,2022-06-28T14:31:54+00:00,2021
+88557,22667,18.4(b) - Junior office employees,Junior office employees,Level 4,17 years of age,4.0,88564.0,88549.0,2021-11-01,2022-09-30,2,2022-06-28T14:31:54+00:00,2021
+88555,22667,18.4(b) - Junior office employees,Junior office employees,Level 4,15 years of age and under,4.0,88562.0,88527.0,2021-11-01,2022-09-30,2,2022-06-28T14:31:54+00:00,2021
+88559,22667,18.4(b) - Junior office employees,Junior office employees,Level 4,19 years of age,4.0,88566.0,88551.0,2021-11-01,2022-09-30,2,2022-06-28T14:31:54+00:00,2021
+88560,22667,18.4(b) - Junior office employees,Junior office employees,Level 4,20 years of age,4.0,88567.0,88519.0,2021-11-01,2022-09-30,2,2022-06-28T14:31:54+00:00,2021
+88625,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 3,19 years of age,4.0,88621.0,88638.0,2021-11-01,2022-09-30,2,2022-06-28T14:30:38+00:00,2021
+88626,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 3,20 years of age,4.0,88622.0,88639.0,2021-11-01,2022-09-30,2,2022-06-28T14:30:38+00:00,2021
+88628,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 3A,18 years of age,4.0,88620.0,88637.0,2021-11-01,2022-09-30,2,2022-06-28T14:30:38+00:00,2021
+88630,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 3A,20 years of age,4.0,88622.0,88639.0,2021-11-01,2022-09-30,2,2022-06-28T14:30:38+00:00,2021
+88629,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 3A,19 years of age,4.0,88621.0,88638.0,2021-11-01,2022-09-30,2,2022-06-28T14:30:38+00:00,2021
+88624,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 3,18 years of age,4.0,88620.0,88637.0,2021-11-01,2022-09-30,2,2022-06-28T14:30:38+00:00,2021
+88558,22667,18.4(b) - Junior office employees,Junior office employees,Level 4,18 years of age,4.0,88565.0,88550.0,2021-11-01,2022-09-30,2,2022-06-28T14:31:54+00:00,2021
+88713,22702,19.5 - Adult cooking apprentices,Adult cooking apprentices,,4th year – attained standard of proficiency,4.0,88712.0,,2021-11-01,2022-09-30,2,2022-06-28T14:33:14+00:00,2021
+88754,22703,19.5 - Adult waiting apprentices,Adult waiting apprentices,,4th 6 months – not attained standard of proficiency,4.0,88716.0,88755.0,2021-11-01,2022-09-30,2,2022-06-28T14:33:29+00:00,2021
+108891,27953,J.5.3*_LoadedRates - Casino gaming employees,For penalty table K.5.3,,Level 6,4.0,108890.0,,2021-11-01,2022-09-30,2,2022-06-28T14:33:57+00:00,2021
+108886,27952,J.5.2*_LoadedRates,For penalty table K.5.2,,Level 6,4.0,108885.0,,2021-11-01,2022-09-30,1,2022-06-28T14:33:43+00:00,2021
+90439,22697,19.1(b),Cooking apprentices,95%,4th year – not attained standard of proficiency,4.0,90438.0,90440.0,2021-11-01,2022-09-30,2,2022-06-28T14:32:30+00:00,2021
+90454,22698,19.2(b),Waiting apprentices,Midway between the rate specified for the 3rd 6 months and the standard weekly rate,4th 6 months – not attained standard of proficiency,4.0,90453.0,90455.0,2021-11-01,2022-09-30,2,2022-06-28T14:32:55+00:00,2021
+90455,22698,19.2(b),Waiting apprentices,100% of the standard weekly rate,4th 6 months – attained standard of proficiency,5.0,90454.0,,2021-11-01,2022-09-30,2,2022-06-28T14:32:55+00:00,2021
+90440,22697,19.1(b),Cooking apprentices,100%,4th year – attained standard of proficiency,5.0,90439.0,,2021-11-01,2022-09-30,2,2022-06-28T14:32:30+00:00,2021
+88755,22703,19.5 - Adult waiting apprentices,Adult waiting apprentices,,4th 6 months – attained standard of proficiency,5.0,88754.0,,2021-11-01,2022-09-30,2,2022-06-28T14:33:29+00:00,2021
+88565,22667,18.4(b) - Junior office employees,Junior office employees,Level 5,18 years of age,5.0,88558.0,,2021-11-01,2022-09-30,2,2022-06-28T14:31:54+00:00,2021
+88563,22667,18.4(b) - Junior office employees,Junior office employees,Level 5,16 years of age,5.0,88556.0,,2021-11-01,2022-09-30,2,2022-06-28T14:31:54+00:00,2021
+88567,22667,18.4(b) - Junior office employees,Junior office employees,Level 5,20 years of age,5.0,88560.0,,2021-11-01,2022-09-30,2,2022-06-28T14:31:54+00:00,2021
+88638,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 4,19 years of age,5.0,88625.0,88642.0,2021-11-01,2022-09-30,2,2022-06-28T14:30:38+00:00,2021
+88639,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 4,20 years of age,5.0,88626.0,88643.0,2021-11-01,2022-09-30,2,2022-06-28T14:30:38+00:00,2021
+88637,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 4,18 years of age,5.0,88624.0,88641.0,2021-11-01,2022-09-30,2,2022-06-28T14:30:38+00:00,2021
+88564,22667,18.4(b) - Junior office employees,Junior office employees,Level 5,17 years of age,5.0,88557.0,,2021-11-01,2022-09-30,2,2022-06-28T14:31:54+00:00,2021
+88562,22667,18.4(b) - Junior office employees,Junior office employees,Level 5,15 years of age and under,5.0,,,2021-11-01,2022-09-30,2,2022-06-28T14:31:54+00:00,2021
+88566,22667,18.4(b) - Junior office employees,Junior office employees,Level 5,19 years of age,5.0,88559.0,,2021-11-01,2022-09-30,2,2022-06-28T14:31:54+00:00,2021
+88480,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 4,20 years of age,5.0,88474.0,88486.0,2021-11-01,2022-09-30,2,2022-06-28T14:29:04+00:00,2021
+88478,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 4,18 years of age,5.0,88472.0,88484.0,2021-11-01,2022-09-30,2,2022-06-28T14:29:04+00:00,2021
+88479,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 4,19 years of age,5.0,88473.0,88485.0,2021-11-01,2022-09-30,2,2022-06-28T14:29:04+00:00,2021
+88476,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 4,16 years of age and under,5.0,88470.0,88482.0,2021-11-01,2022-09-30,2,2022-06-28T14:29:04+00:00,2021
+88477,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 4,17 years of age,5.0,88471.0,88483.0,2021-11-01,2022-09-30,2,2022-06-28T14:29:04+00:00,2021
+268,11,18.1,Hospitality Employees,Clerical grade 3; Cook (tradesperson) grade 3; Food and beverage attendant (tradesperson) grade 4; Front office grade 3; Gardener grade 3 (tradesperson); Guest service grade 4; Leisure attendant grade 3; Storeperson grade 3,Level 4,5.0,257.0,276.0,2021-11-01,2022-09-30,2,2022-06-28T14:26:10+00:00,2021
+303,13,18.3,Casino Gaming Employees,Casino equipment technician grade 3; Gaming finance employee grade 3; Security officer grade 2,Level 4,6.0,294.0,306.0,2021-11-01,2022-09-30,3,2022-06-28T14:27:26+00:00,2021
+88483,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 5,17 years of age,6.0,88477.0,,2021-11-01,2022-09-30,2,2022-06-28T14:29:04+00:00,2021
+276,11,18.1,Hospitality Employees,Clerical supervisor; Cook (tradesperson) grade 4; Food and beverage supervisor; Front office supervisor; Gardener grade 4 (tradesperson); Guest service supervisor,Level 5,6.0,268.0,282.0,2021-11-01,2022-09-30,2,2022-06-28T14:26:10+00:00,2021
+88484,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 5,18 years of age,6.0,88478.0,,2021-11-01,2022-09-30,2,2022-06-28T14:29:04+00:00,2021
+88482,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 5,16 years of age and under,6.0,88476.0,,2021-11-01,2022-09-30,2,2022-06-28T14:29:04+00:00,2021
+88486,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 5,20 years of age,6.0,88480.0,,2021-11-01,2022-09-30,2,2022-06-28T14:29:04+00:00,2021
+88485,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 5,19 years of age,6.0,88479.0,,2021-11-01,2022-09-30,2,2022-06-28T14:29:04+00:00,2021
+88641,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 5,18 years of age,6.0,88637.0,88645.0,2021-11-01,2022-09-30,2,2022-06-28T14:30:38+00:00,2021
+88643,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 5,20 years of age,6.0,88639.0,88647.0,2021-11-01,2022-09-30,2,2022-06-28T14:30:38+00:00,2021
+88642,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 5,19 years of age,6.0,88638.0,88646.0,2021-11-01,2022-09-30,2,2022-06-28T14:30:38+00:00,2021
+88646,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 6,19 years of age,7.0,88642.0,,2021-11-01,2022-09-30,2,2022-06-28T14:30:38+00:00,2021
+88647,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 6,20 years of age,7.0,88643.0,,2021-11-01,2022-09-30,2,2022-06-28T14:30:38+00:00,2021
+88645,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 6,18 years of age,7.0,88641.0,,2021-11-01,2022-09-30,2,2022-06-28T14:30:38+00:00,2021
+282,11,18.1,Hospitality Employees,Cook (tradesperson) grade 5,Level 6,7.0,276.0,,2021-11-01,2022-09-30,2,2022-06-28T14:26:10+00:00,2021
+306,13,18.3,Casino Gaming Employees,Casino table gaming employee grade 3; Gaming finance employee grade 4,Level 5,7.0,303.0,308.0,2021-11-01,2022-09-30,2,2022-06-28T14:27:26+00:00,2021
+308,13,18.3,Casino Gaming Employees,Casino table gaming employee grade 4; Gaming finance employee grade 5; Surveillance operator,Level 6,8.0,306.0,,2021-11-01,2022-09-30,3,2022-06-28T14:27:26+00:00,2021
+257,11,18.1,Hospitality Employees,Clerical grade 2; Cook grade 2; Food and beverage attendant grade 3; Fork-lift driver; Front office grade 2; Gardener grade 2; Guest service grade 3; Handyperson; Kitchen attendant grade 3; Leisure attendant grade 2; Storeperson grade 2; Timekeeper/security officer grade 2,Level 3,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+243,11,18.1,Hospitality Employees,Food and beverage attendant grade 1; Guest service grade 1; Kitchen attendant grade 1,Level 1,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+276,11,18.1,Hospitality Employees,Clerical supervisor; Cook (tradesperson) grade 4; Food and beverage supervisor; Front office supervisor; Gardener grade 4 (tradesperson); Guest service supervisor,Level 5,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+242,11,18.1,Hospitality Employees,,Introductory level,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+268,11,18.1,Hospitality Employees,Clerical grade 3; Cook (tradesperson) grade 3; Food and beverage attendant (tradesperson) grade 4; Front office grade 3; Gardener grade 3 (tradesperson); Guest service grade 4; Leisure attendant grade 3; Storeperson grade 3,Level 4,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+246,11,18.1,Hospitality Employees,Clerical grade 1; Cook grade 1; Door person/security officer grade 1; Food and beverage attendant grade 2; Front office grade 1; Gardener grade 1; Guest service grade 2; Kitchen attendant grade 2; Leisure attendant grade 1; Storeperson grade 1,Level 2,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+282,11,18.1,Hospitality Employees,Cook (tradesperson) grade 5,Level 6,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+292,13,18.3,Casino Gaming Employees,,Introductory level,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+293,13,18.3,Casino Gaming Employees,Casino electronic gaming employee grade 1,Level 1,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+303,13,18.3,Casino Gaming Employees,Casino equipment technician grade 3; Gaming finance employee grade 3; Security officer grade 2,Level 4,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+299,13,18.3,Casino Gaming Employees,Casino equipment technician grade 2; Gaming finance employee grade 2; Security officer grade 1,Level 3,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+308,13,18.3,Casino Gaming Employees,Casino table gaming employee grade 4; Gaming finance employee grade 5; Surveillance operator,Level 6,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+294,13,18.3,Casino Gaming Employees,Casino electronic gaming employee grade 2; Casino equipment technician grade 1; Casino table gaming employee grade 1; Customer liaison officer; Gaming finance employee grade 1,Level 2,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+306,13,18.3,Casino Gaming Employees,Casino table gaming employee grade 3; Gaming finance employee grade 4,Level 5,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+302,13,18.3,Casino Gaming Employees,Casino table gaming employee grade 2,Level 3A,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+311,14,18.2,Managerial Staff (Hotels),,Managerial staff (Hotels),,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88377,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),,Introductory Level*,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88378,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Introductory Level,16 years of age and under,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88379,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Introductory Level,17 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88392,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),,Level 1*,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88390,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Introductory Level,19 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88394,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 1,17 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88389,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Introductory Level,18 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88393,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 1,16 years of age and under,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88391,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Introductory Level,20 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88395,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 1,18 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88441,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 1,19 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88445,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 2,17 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88443,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 2,16 years of age and under,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88447,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 2,19 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88442,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 1,20 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88446,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 2,18 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88444,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),,Level 2*,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88448,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 2,20 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88449,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),,Level 3*,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88473,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 3,19 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88471,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 3,17 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88475,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),,Level 4*,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88470,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 3,16 years of age and under,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88474,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 3,20 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88472,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 3,18 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88476,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 4,16 years of age and under,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88477,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 4,17 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88481,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),,Level 5*,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88479,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 4,19 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88483,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 5,17 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88478,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 4,18 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88482,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 5,16 years of age and under,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88480,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 4,20 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88484,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 5,18 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88485,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 5,19 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88486,22657,18.4(a) - Junior other than office,Junior employees (other than office juniors),Level 5,20 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88493,22667,18.4(b) - Junior office employees,Junior office employees,,Introductory Level*,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88514,22667,18.4(b) - Junior office employees,Junior office employees,Introductory,15 years of age and under,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88518,22667,18.4(b) - Junior office employees,Junior office employees,Introductory,19 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88516,22667,18.4(b) - Junior office employees,Junior office employees,Introductory,17 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88520,22667,18.4(b) - Junior office employees,Junior office employees,,Level 2*,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88515,22667,18.4(b) - Junior office employees,Junior office employees,Introductory,16 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88519,22667,18.4(b) - Junior office employees,Junior office employees,Introductory,20 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88517,22667,18.4(b) - Junior office employees,Junior office employees,Introductory,18 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88521,22667,18.4(b) - Junior office employees,Junior office employees,Level 2,15 years of age and under,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88522,22667,18.4(b) - Junior office employees,Junior office employees,Level 2,16 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88526,22667,18.4(b) - Junior office employees,Junior office employees,Level 2,20 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88524,22667,18.4(b) - Junior office employees,Junior office employees,Level 2,18 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88548,22667,18.4(b) - Junior office employees,Junior office employees,Level 3,16 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88523,22667,18.4(b) - Junior office employees,Junior office employees,Level 2,17 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88527,22667,18.4(b) - Junior office employees,Junior office employees,Level 3,15 years of age and under,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88525,22667,18.4(b) - Junior office employees,Junior office employees,Level 2,19 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88549,22667,18.4(b) - Junior office employees,Junior office employees,Level 3,17 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88550,22667,18.4(b) - Junior office employees,Junior office employees,Level 3,18 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88554,22667,18.4(b) - Junior office employees,Junior office employees,,Level 4*,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88552,22667,18.4(b) - Junior office employees,Junior office employees,Level 3,20 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88556,22667,18.4(b) - Junior office employees,Junior office employees,Level 4,16 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88551,22667,18.4(b) - Junior office employees,Junior office employees,Level 3,19 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88555,22667,18.4(b) - Junior office employees,Junior office employees,Level 4,15 years of age and under,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88553,22667,18.4(b) - Junior office employees,Junior office employees,,Level 3*,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88557,22667,18.4(b) - Junior office employees,Junior office employees,Level 4,17 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88558,22667,18.4(b) - Junior office employees,Junior office employees,Level 4,18 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88562,22667,18.4(b) - Junior office employees,Junior office employees,Level 5,15 years of age and under,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88560,22667,18.4(b) - Junior office employees,Junior office employees,Level 4,20 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88564,22667,18.4(b) - Junior office employees,Junior office employees,Level 5,17 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88559,22667,18.4(b) - Junior office employees,Junior office employees,Level 4,19 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88563,22667,18.4(b) - Junior office employees,Junior office employees,Level 5,16 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88561,22667,18.4(b) - Junior office employees,Junior office employees,,Level 5*,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88565,22667,18.4(b) - Junior office employees,Junior office employees,Level 5,18 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88566,22667,18.4(b) - Junior office employees,Junior office employees,Level 5,19 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88567,22667,18.4(b) - Junior office employees,Junior office employees,Level 5,20 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88609,22672,18.4(a) - Junior Casino gaming,Junior employees,,Introductory Level*,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88614,22672,18.4(a) - Junior Casino gaming,Junior employees,Introductory level,20 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88616,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 1,18 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88615,22672,18.4(a) - Junior Casino gaming,Junior employees,,Level 1*,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88612,22672,18.4(a) - Junior Casino gaming,Junior employees,Introductory level,18 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88617,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 1,19 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88618,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 1,20 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88622,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 2,20 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88620,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 2,18 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88624,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 3,18 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88619,22672,18.4(a) - Junior Casino gaming,Junior employees,,Level 2*,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88623,22672,18.4(a) - Junior Casino gaming,Junior employees,,Level 3*,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88621,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 2,19 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88625,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 3,19 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88626,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 3,20 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88630,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 3A,20 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88628,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 3A,18 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88637,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 4,18 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88627,22672,18.4(a) - Junior Casino gaming,Junior employees,,Level 3A*,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88636,22672,18.4(a) - Junior Casino gaming,Junior employees,,Level 4*,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88629,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 3A,19 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88638,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 4,19 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88639,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 4,20 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88643,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 5,20 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88641,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 5,18 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88645,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 6,18 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88640,22672,18.4(a) - Junior Casino gaming,Junior employees,,Level 5*,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88644,22672,18.4(a) - Junior Casino gaming,Junior employees,,Level 6*,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88642,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 5,19 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88646,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 6,19 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88647,22672,18.4(a) - Junior Casino gaming,Junior employees,Level 6,20 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+90438,22697,19.1(b),Cooking apprentices,80%,3rd year,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+90436,22697,19.1(b),Cooking apprentices,55%,1st year,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+90440,22697,19.1(b),Cooking apprentices,100%,4th year – attained standard of proficiency,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+91139,22672,18.4(a) - Junior Casino gaming,Junior employees,Introductory level,19 years of age,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+90439,22697,19.1(b),Cooking apprentices,95%,4th year – not attained standard of proficiency,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+90437,22697,19.1(b),Cooking apprentices,65%,2nd year,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+90451,22698,19.2(b),Waiting apprentices,70% of the standard weekly rate,1st 6 months,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+90455,22698,19.2(b),Waiting apprentices,100% of the standard weekly rate,4th 6 months – attained standard of proficiency,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+90453,22698,19.2(b),Waiting apprentices,Midway between the minimum rate prescribed for Food and beverage attendant grade 2 in Table 3—Minimum rates and the standard weekly rate,3rd 6 months,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88709,22702,19.5 - Adult cooking apprentices,Adult cooking apprentices,,2nd year,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+90452,22698,19.2(b),Waiting apprentices,85% of the standard weekly rate,2nd 6 months,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+90454,22698,19.2(b),Waiting apprentices,Midway between the rate specified for the 3rd 6 months and the standard weekly rate,4th 6 months – not attained standard of proficiency,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88710,22702,19.5 - Adult cooking apprentices,Adult cooking apprentices,,1st year,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88711,22702,19.5 - Adult cooking apprentices,Adult cooking apprentices,,3rd year,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88716,22703,19.5 - Adult waiting apprentices,Adult waiting apprentices,,3rd 6 months,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88713,22702,19.5 - Adult cooking apprentices,Adult cooking apprentices,,4th year – attained standard of proficiency,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88754,22703,19.5 - Adult waiting apprentices,Adult waiting apprentices,,4th 6 months – not attained standard of proficiency,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88712,22702,19.5 - Adult cooking apprentices,Adult cooking apprentices,,4th year – not attained standard of proficiency,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88717,22703,19.5 - Adult waiting apprentices,Adult waiting apprentices,,2nd 6 months,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88714,22703,19.5 - Adult waiting apprentices,Adult waiting apprentices,,1st 6 months,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+88755,22703,19.5 - Adult waiting apprentices,Adult waiting apprentices,,4th 6 months – attained standard of proficiency,,,,2021-02-01,2021-10-31,0,2022-03-03T18:52:51+00:00,2020
+108883,27952,K.5.2*_LoadedRates,For penalty table K.5.2,,Level 3,,,,2021-09-03,2021-10-31,0,2023-04-05T17:23:42+00:00,2020
+108887,27953,K.5.3*_LoadedRates - Casino gaming employees,For penalty table K.5.2,,Level 3,,,,2021-09-03,2021-10-31,0,2023-04-05T17:23:42+00:00,2020
+108885,27952,K.5.2*_LoadedRates,For penalty table K.5.2,,Level 5,,,,2021-09-03,2021-10-31,0,2023-04-05T17:23:42+00:00,2020
+108889,27953,K.5.3*_LoadedRates - Casino gaming employees,For penalty table K.5.2,,Level 4,,,,2021-09-03,2021-10-31,0,2023-04-05T17:23:42+00:00,2020
+108884,27952,K.5.2*_LoadedRates,For penalty table K.5.2,,Level 4,,,,2021-09-03,2021-10-31,0,2023-04-05T17:23:42+00:00,2020
+108888,27953,K.5.3*_LoadedRates - Casino gaming employees,For penalty table K.5.2,,Level 3A,,,,2021-09-03,2021-10-31,0,2023-04-05T17:23:42+00:00,2020
+108886,27952,K.5.2*_LoadedRates,For penalty table K.5.2,,Level 6,,,,2021-09-03,2021-10-31,0,2023-04-05T17:23:42+00:00,2020
+108890,27953,K.5.3*_LoadedRates - Casino gaming employees,For penalty table K.5.2,,Level 5,,,,2021-09-03,2021-10-31,0,2023-04-05T17:23:42+00:00,2020
+108891,27953,K.5.3*_LoadedRates - Casino gaming employees,For penalty table K.5.2,,Level 6,,,,2021-09-03,2021-10-31,0,2023-04-05T17:23:42+00:00,2020
+242,11,20.1,Hospitality Employees,,Introductory,,,,2019-07-01,2021-01-31,0,2022-03-03T18:52:51+00:00,2019
+243,11,20.1,Hospitality Employees,Food and beverage attendant grade 1; Guest service grade 1; Kitchen attendant grade 1,Level 1,,,,2019-07-01,2021-01-31,0,2023-08-03T15:38:42+00:00,2019
+244,11,20.1,Hospitality Employees,Level 1,Guest service grade 1,,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+248,11,20.1,Hospitality Employees,Level 2,Door person/security officer grade 1,,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+246,11,20.1,Hospitality Employees,Clerical grade 1; Cook grade 1; Door person/security officer grade 1; Food and beverage attendant grade 2; Front office grade 1; Gardener grade 1; Guest service grade 2; Kitchen attendant grade 2; Leisure attendant grade 1; Storeperson grade 1,Level 2,,,,2019-07-01,2021-01-31,0,2023-08-03T15:38:42+00:00,2019
+250,11,20.1,Hospitality Employees,Level 2,Front office grade 1,,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+245,11,20.1,Hospitality Employees,Level 1,Kitchen attendant grade 1,,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+249,11,20.1,Hospitality Employees,Level 2,Food and beverage attendant grade 2,,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+247,11,20.1,Hospitality Employees,Level 2,Cook grade 1,,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+251,11,20.1,Hospitality Employees,Level 2,Guest service grade 2,,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+252,11,20.1,Hospitality Employees,Level 2,Kitchen attendant grade 2,,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+256,11,20.1,Hospitality Employees,Clerical grade 2; Cook grade 2; Food and beverage attendant grade 3; Fork-lift driver; Front office grade 2; Gardener grade 2; Guest service grade 3; Handyperson; Kitchen attendant grade 3; Leisure attendant grade 2; Storeperson grade 2; Timekeeper/security officer grade 2,Level 3,,,,2019-07-01,2021-01-31,0,2023-08-03T15:38:42+00:00,2019
+254,11,20.1,Hospitality Employees,Level 2,Gardener grade 1,,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+258,11,20.1,Hospitality Employees,Level 3,Food and beverage attendant grade 3,,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+253,11,20.1,Hospitality Employees,Level 2,Leisure attendant grade 1,,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+257,11,20.1,Hospitality Employees,Level 3,Cook grade 2,,,,2019-07-01,2021-01-31,0,2022-03-03T18:52:51+00:00,2019
+255,11,20.1,Hospitality Employees,Level 2,Storeperson grade 1,,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+259,11,20.1,Hospitality Employees,Level 3,Fork-lift driver,,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+260,11,20.1,Hospitality Employees,Level 3,Front office grade 2,,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+264,11,20.1,Hospitality Employees,Level 3,Leisure attendant grade 2,,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+262,11,20.1,Hospitality Employees,Level 3,Handyperson,,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+266,11,20.1,Hospitality Employees,Level 3,Storeperson grade 2,,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+261,11,20.1,Hospitality Employees,Level 3,Guest service grade 3,,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+265,11,20.1,Hospitality Employees,Level 3,Gardener grade 2,,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+263,11,20.1,Hospitality Employees,Level 3,Kitchen attendant grade 3,,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+267,11,20.1,Hospitality Employees,Level 3,Timekeeper/security officer grade 2,,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+268,11,20.1,Hospitality Employees,Clerical grade 3; Cook (tradesperson) grade 3; Food and beverage attendant (tradesperson) grade 4; Front office grade 3; Gardener grade 3 (tradesperson); Guest service grade 4; Leisure attendant grade 3; Storeperson grade 3,Level 4,,,,2019-07-01,2021-01-31,0,2023-08-03T15:38:42+00:00,2019
+272,11,20.1,Hospitality Employees,Level 4,Guest service grade 4,,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+270,11,20.1,Hospitality Employees,Level 4,Food and beverage attendant (tradesperson) grade 4,,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+274,11,20.1,Hospitality Employees,Level 4,Gardener grade 3 (tradesperson),,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+269,11,20.1,Hospitality Employees,Level 4,Cook (tradesperson) grade 3,,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+273,11,20.1,Hospitality Employees,Level 4,Leisure attendant grade 3,,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+271,11,20.1,Hospitality Employees,Level 4,Front office grade 3,,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+275,11,20.1,Hospitality Employees,Level 4,Storeperson grade 3,,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+276,11,20.1,Hospitality Employees,Clerical supervisor; Cook (tradesperson) grade 4; Food and beverage supervisor; Front office supervisor; Gardener grade 4 (tradesperson); Guest service supervisor,Level 5,,,,2019-07-01,2021-01-31,0,2023-08-03T15:38:42+00:00,2019
+280,11,20.1,Hospitality Employees,Level 5,Guest service supervisor,,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+278,11,20.1,Hospitality Employees,Level 5,Food and beverage supervisor,,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+282,11,20.1,Hospitality Employees,Cook (tradesperson) grade 5,Level 6,,,,2019-07-01,2021-01-31,0,2023-08-03T15:38:42+00:00,2019
+277,11,20.1,Hospitality Employees,Level 5,Cook (tradesperson) grade 4,,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+281,11,20.1,Hospitality Employees,Level 5,Gardener grade 4 (tradesperson),,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+279,11,20.1,Hospitality Employees,Level 5,Front office supervisor,,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+283,12,20.2,Managerial staff (Hotels),,Managerial staff (Hotels),,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+292,13,20.3,Casino Gaming Employees,,Introductory,,,,2019-07-01,2021-01-31,0,2022-03-03T18:52:51+00:00,2019
+293,13,20.3,Casino Gaming Employees,Casino electronic gaming employee grade 1,Level 1,,,,2019-07-01,2021-01-31,0,2023-08-03T16:08:13+00:00,2019
+297,13,20.3,Casino Gaming Employees,Level 2,Customer liaison officer,,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+295,13,20.3,Casino Gaming Employees,Level 2,Casino equipment technician grade 1,,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+299,13,20.3,Casino Gaming Employees,Casino equipment technician grade 2; Gaming finance employee grade 2; Security officer grade 1,Level 3,,,,2019-07-01,2021-01-31,0,2023-08-03T16:08:13+00:00,2019
+294,13,20.3,Casino Gaming Employees,Casino electronic gaming employee grade 2; Casino equipment technician grade 1; Casino table gaming employee grade 1; Customer liaison officer; Gaming finance employee grade 1,Level 2,,,,2019-07-01,2021-01-31,0,2023-08-03T16:08:13+00:00,2019
+298,13,20.3,Casino Gaming Employees,Level 2,Gaming finance employee grade 1,,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+296,13,20.3,Casino Gaming Employees,Level 2,Casino table gaming employee grade 1,,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+300,13,20.3,Casino Gaming Employees,Level 3,Gaming finance employee grade 2,,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+301,13,20.3,Casino Gaming Employees,Level 3,Security officer grade 1,,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+305,13,20.3,Casino Gaming Employees,Level 4,Security officer grade 2,,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+303,13,20.3,Casino Gaming Employees,Casino equipment technician grade 3; Gaming finance employee grade 3; Security officer grade 2,Level 4,,,,2019-07-01,2021-01-31,0,2023-08-03T16:08:13+00:00,2019
+307,13,20.3,Casino Gaming Employees,Level 5,Gaming finance employee grade 4,,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+302,13,20.3,Casino Gaming Employees,Casino table gaming employee grade 2,Level 3A,,,,2019-07-01,2021-01-31,0,2023-08-03T16:08:13+00:00,2019
+306,13,20.3,Casino Gaming Employees,Casino table gaming employee grade 3; Gaming finance employee grade 4,Level 5,,,,2019-07-01,2021-01-31,0,2023-08-03T16:08:13+00:00,2019
+304,13,20.3,Casino Gaming Employees,Level 4,Gaming finance employee grade 3,,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+308,13,20.3,Casino Gaming Employees,Casino table gaming employee grade 4; Gaming finance employee grade 5; Surveillance operator,Level 6,,,,2019-07-01,2021-01-31,0,2023-08-03T16:08:13+00:00,2019
+309,13,20.3,Casino Gaming Employees,Level 6,Gaming finance employee grade 5,,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+311,14,27.2(a),Managerial Staff (Hotels),,Salaries absorption (Managerial Staff (Hotels))—minimum amount,,,,2019-07-01,2021-01-31,0,2023-04-05T09:46:37+00:00,2019
+310,13,20.3,Casino Gaming Employees,Level 6,Surveillance operator,,,,2019-07-01,2021-01-31,0,2023-04-05T17:19:29+00:00,2019
+244,11,20.1,Hospitality Employees,Level 1,Guest service grade 1,,,,2018-07-01,2019-06-30,0,2022-02-15T15:47:09+00:00,2018
+242,11,20.1,Hospitality Employees,,Introductory,,,,2018-07-01,2019-06-30,0,2022-02-15T15:47:09+00:00,2018
+246,11,20.1,Hospitality Employees,Clerical grade 1; Cook grade 1; Door person/security officer grade 1; Food and beverage attendant grade 2; Front office grade 1; Gardener grade 1; Guest service grade 2; Kitchen attendant grade 2; Leisure attendant grade 1; Storeperson grade 1,Level 2,,,,2018-07-01,2019-06-30,0,2023-08-03T16:51:17+00:00,2018
+245,11,20.1,Hospitality Employees,Level 1,Kitchen attendant grade 1,,,,2018-07-01,2019-06-30,0,2022-02-15T15:47:09+00:00,2018
+243,11,20.1,Hospitality Employees,Food and beverage attendant grade 1; Guest service grade 1; Kitchen attendant grade 1,Level 1,,,,2018-07-01,2019-06-30,0,2023-08-03T16:51:17+00:00,2018
+247,11,20.1,Hospitality Employees,Level 2,Cook grade 1,,,,2018-07-01,2019-06-30,0,2023-03-06T10:21:51+00:00,2018
+248,11,20.1,Hospitality Employees,Level 2,Door person/security officer grade 1,,,,2018-07-01,2019-06-30,0,2023-03-06T10:21:51+00:00,2018
+252,11,20.1,Hospitality Employees,Level 2,Kitchen attendant grade 2,,,,2018-07-01,2019-06-30,0,2023-03-06T10:21:51+00:00,2018
+250,11,20.1,Hospitality Employees,Level 2,Front office grade 1,,,,2018-07-01,2019-06-30,0,2023-03-06T10:21:51+00:00,2018
+254,11,20.1,Hospitality Employees,Level 2,Gardener grade 1,,,,2018-07-01,2019-06-30,0,2023-03-06T10:21:51+00:00,2018
+249,11,20.1,Hospitality Employees,Level 2,Food and beverage attendant grade 2,,,,2018-07-01,2019-06-30,0,2023-03-06T10:21:51+00:00,2018
+253,11,20.1,Hospitality Employees,Level 2,Leisure attendant grade 1,,,,2018-07-01,2019-06-30,0,2023-03-06T10:21:51+00:00,2018
+251,11,20.1,Hospitality Employees,Level 2,Guest service grade 2,,,,2018-07-01,2019-06-30,0,2023-03-06T10:21:51+00:00,2018
+255,11,20.1,Hospitality Employees,Level 2,Storeperson grade 1,,,,2018-07-01,2019-06-30,0,2023-03-06T10:21:51+00:00,2018
+256,11,20.1,Hospitality Employees,Clerical grade 2; Cook grade 2; Food and beverage attendant grade 3; Fork-lift driver; Front office grade 2; Gardener grade 2; Guest service grade 3; Handyperson; Kitchen attendant grade 3; Leisure attendant grade 2; Storeperson grade 2; Timekeeper/security officer grade 2,Level 3,,,,2018-07-01,2019-06-30,0,2023-08-03T16:51:17+00:00,2018
+260,11,20.1,Hospitality Employees,Level 3,Front office grade 2,,,,2018-07-01,2019-06-30,0,2022-02-15T15:47:09+00:00,2018
+258,11,20.1,Hospitality Employees,Level 3,Food and beverage attendant grade 3,,,,2018-07-01,2019-06-30,0,2022-02-15T15:47:09+00:00,2018
+262,11,20.1,Hospitality Employees,Level 3,Handyperson,,,,2018-07-01,2019-06-30,0,2022-02-15T15:47:09+00:00,2018
+257,11,20.1,Hospitality Employees,Level 3,Cook grade 2,,,,2018-07-01,2019-06-30,0,2022-02-15T15:47:09+00:00,2018
+261,11,20.1,Hospitality Employees,Level 3,Guest service grade 3,,,,2018-07-01,2019-06-30,0,2022-02-15T15:47:09+00:00,2018
+259,11,20.1,Hospitality Employees,Level 3,Fork-lift driver,,,,2018-07-01,2019-06-30,0,2022-02-15T15:47:09+00:00,2018
+263,11,20.1,Hospitality Employees,Level 3,Kitchen attendant grade 3,,,,2018-07-01,2019-06-30,0,2022-02-15T15:47:09+00:00,2018
+264,11,20.1,Hospitality Employees,Level 3,Leisure attendant grade 2,,,,2018-07-01,2019-06-30,0,2022-02-15T15:47:09+00:00,2018
+268,11,20.1,Hospitality Employees,Clerical grade 3; Cook (tradesperson) grade 3; Food and beverage attendant (tradesperson) grade 4; Front office grade 3; Gardener grade 3 (tradesperson); Guest service grade 4; Leisure attendant grade 3; Storeperson grade 3,Level 4,,,,2018-07-01,2019-06-30,0,2023-08-03T16:51:17+00:00,2018
+266,11,20.1,Hospitality Employees,Level 3,Storeperson grade 2,,,,2018-07-01,2019-06-30,0,2022-02-15T15:47:09+00:00,2018
+270,11,20.1,Hospitality Employees,Level 4,Food and beverage attendant (tradesperson) grade 4,,,,2018-07-01,2019-06-30,0,2022-02-15T15:47:09+00:00,2018
+265,11,20.1,Hospitality Employees,Level 3,Gardener grade 2,,,,2018-07-01,2019-06-30,0,2022-02-15T15:47:09+00:00,2018
+269,11,20.1,Hospitality Employees,Level 4,Cook (tradesperson) grade 3,,,,2018-07-01,2019-06-30,0,2022-02-15T15:47:09+00:00,2018
+267,11,20.1,Hospitality Employees,Level 3,Timekeeper/security officer grade 2,,,,2018-07-01,2019-06-30,0,2022-02-15T15:47:09+00:00,2018
+271,11,20.1,Hospitality Employees,Level 4,Front office grade 3,,,,2018-07-01,2019-06-30,0,2022-02-15T15:47:09+00:00,2018
+272,11,20.1,Hospitality Employees,Level 4,Guest service grade 4,,,,2018-07-01,2019-06-30,0,2022-02-15T15:47:09+00:00,2018
+276,11,20.1,Hospitality Employees,Clerical supervisor; Cook (tradesperson) grade 4; Food and beverage supervisor; Front office supervisor; Gardener grade 4 (tradesperson); Guest service supervisor,Level 5,,,,2018-07-01,2019-06-30,0,2023-08-03T16:51:17+00:00,2018
+274,11,20.1,Hospitality Employees,Level 4,Gardener grade 3 (tradesperson),,,,2018-07-01,2019-06-30,0,2022-02-15T15:47:09+00:00,2018
+278,11,20.1,Hospitality Employees,Level 5,Food and beverage supervisor,,,,2018-07-01,2019-06-30,0,2022-02-15T15:47:09+00:00,2018
+273,11,20.1,Hospitality Employees,Level 4,Leisure attendant grade 3,,,,2018-07-01,2019-06-30,0,2022-02-15T15:47:09+00:00,2018
+277,11,20.1,Hospitality Employees,Level 5,Cook (tradesperson) grade 4,,,,2018-07-01,2019-06-30,0,2022-02-15T15:47:09+00:00,2018
+275,11,20.1,Hospitality Employees,Level 4,Storeperson grade 3,,,,2018-07-01,2019-06-30,0,2022-02-15T15:47:09+00:00,2018
+279,11,20.1,Hospitality Employees,Level 5,Front office supervisor,,,,2018-07-01,2019-06-30,0,2022-02-15T15:47:09+00:00,2018
+280,11,20.1,Hospitality Employees,Level 5,Guest service supervisor,,,,2018-07-01,2019-06-30,0,2022-02-15T15:47:09+00:00,2018
+282,11,20.1,Hospitality Employees,Cook (tradesperson) grade 5,Level 6,,,,2018-07-01,2019-06-30,0,2023-08-03T16:51:17+00:00,2018
+281,11,20.1,Hospitality Employees,Level 5,Gardener grade 4 (tradesperson),,,,2018-07-01,2019-06-30,0,2022-02-15T15:47:09+00:00,2018
+283,12,20.2,Managerial staff (Hotels),,Managerial staff (Hotels),,,,2018-07-01,2019-06-30,0,2022-02-15T15:47:09+00:00,2018
+293,13,20.3,Casino Gaming Employees,Casino electronic gaming employee grade 1,Level 1,,,,2018-07-01,2019-06-30,0,2023-08-03T16:57:09+00:00,2018
+295,13,20.3,Casino Gaming Employees,Level 2,Casino equipment technician grade 1,,,,2018-07-01,2019-06-30,0,2022-02-15T15:47:09+00:00,2018
+294,13,20.3,Casino Gaming Employees,Casino electronic gaming employee grade 2; Casino equipment technician grade 1; Casino table gaming employee grade 1; Customer liaison officer; Gaming finance employee grade 1,Level 2,,,,2018-07-01,2019-06-30,0,2023-08-03T16:57:09+00:00,2018
+292,13,20.3,Casino Gaming Employees,,Introductory,,,,2018-07-01,2019-06-30,0,2022-02-15T15:47:09+00:00,2018
+296,13,20.3,Casino Gaming Employees,Level 2,Casino table gaming employee grade 1,,,,2018-07-01,2019-06-30,0,2022-02-15T15:47:09+00:00,2018
+297,13,20.3,Casino Gaming Employees,Level 2,Customer liaison officer,,,,2018-07-01,2019-06-30,0,2022-02-15T15:47:09+00:00,2018
+301,13,20.3,Casino Gaming Employees,Level 3,Security officer grade 1,,,,2018-07-01,2019-06-30,0,2022-02-15T15:47:09+00:00,2018
+299,13,20.3,Casino Gaming Employees,Casino equipment technician grade 2; Gaming finance employee grade 2; Security officer grade 1,Level 3,,,,2018-07-01,2019-06-30,0,2023-08-03T16:57:09+00:00,2018
+303,13,20.3,Casino Gaming Employees,Casino equipment technician grade 3; Gaming finance employee grade 3; Security officer grade 2,Level 4,,,,2018-07-01,2019-06-30,0,2023-08-03T16:57:09+00:00,2018
+298,13,20.3,Casino Gaming Employees,Level 2,Gaming finance employee grade 1,,,,2018-07-01,2019-06-30,0,2022-02-15T15:47:09+00:00,2018
+302,13,20.3,Casino Gaming Employees,Casino table gaming employee grade 2,Level 3A,,,,2018-07-01,2019-06-30,0,2023-08-03T16:57:09+00:00,2018
+300,13,20.3,Casino Gaming Employees,Level 3,Gaming finance employee grade 2,,,,2018-07-01,2019-06-30,0,2022-02-15T15:47:09+00:00,2018
+304,13,20.3,Casino Gaming Employees,Level 4,Gaming finance employee grade 3,,,,2018-07-01,2019-06-30,0,2022-02-15T15:47:09+00:00,2018
+305,13,20.3,Casino Gaming Employees,Level 4,Security officer grade 2,,,,2018-07-01,2019-06-30,0,2022-02-15T15:47:09+00:00,2018
+309,13,20.3,Casino Gaming Employees,Level 6,Gaming finance employee grade 5,,,,2018-07-01,2019-06-30,0,2022-02-15T15:47:09+00:00,2018
+307,13,20.3,Casino Gaming Employees,Level 5,Gaming finance employee grade 4,,,,2018-07-01,2019-06-30,0,2022-02-15T15:47:09+00:00,2018
+311,14,27.2(a),Managerial Staff (Hotels),,Salaries absorption (Managerial Staff (Hotels))—minimum amount,,,,2018-07-01,2019-06-30,0,2023-04-05T09:46:44+00:00,2018
+306,13,20.3,Casino Gaming Employees,Casino table gaming employee grade 3; Gaming finance employee grade 4,Level 5,,,,2018-07-01,2019-06-30,0,2023-08-03T16:57:09+00:00,2018
+310,13,20.3,Casino Gaming Employees,Level 6,Surveillance operator,,,,2018-07-01,2019-06-30,0,2022-02-15T15:47:09+00:00,2018
+308,13,20.3,Casino Gaming Employees,Casino table gaming employee grade 4; Gaming finance employee grade 5; Surveillance operator,Level 6,,,,2018-07-01,2019-06-30,0,2023-08-03T16:57:09+00:00,2018
+243,11,20.1,Hospitality Employees,Food and beverage attendant grade 1; Guest service grade 1; Kitchen attendant grade 1,Level 1,,,,2017-07-01,2018-06-30,0,2023-08-03T17:18:30+00:00,2017
+242,11,20.1,Hospitality Employees,,Introductory,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+244,11,20.1,Hospitality Employees,Level 1,Guest service grade 1,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+245,11,20.1,Hospitality Employees,Level 1,Kitchen attendant grade 1,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+249,11,20.1,Hospitality Employees,Level 2,Food and beverage attendant grade 2,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+247,11,20.1,Hospitality Employees,Level 2,Cook grade 1,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+251,11,20.1,Hospitality Employees,Level 2,Guest service grade 2,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+246,11,20.1,Hospitality Employees,Clerical grade 1; Cook grade 1; Door person/security officer grade 1; Food and beverage attendant grade 2; Front office grade 1; Gardener grade 1; Guest service grade 2; Kitchen attendant grade 2; Leisure attendant grade 1; Storeperson grade 1,Level 2,,,,2017-07-01,2018-06-30,0,2023-08-03T17:18:30+00:00,2017
+250,11,20.1,Hospitality Employees,Level 2,Front office grade 1,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+248,11,20.1,Hospitality Employees,Level 2,Door person/security officer grade 1,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+252,11,20.1,Hospitality Employees,Level 2,Kitchen attendant grade 2,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+253,11,20.1,Hospitality Employees,Level 2,Leisure attendant grade 1,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+257,11,20.1,Hospitality Employees,Level 3,Cook grade 2,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+255,11,20.1,Hospitality Employees,Level 2,Storeperson grade 1,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+259,11,20.1,Hospitality Employees,Level 3,Fork-lift driver,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+254,11,20.1,Hospitality Employees,Level 2,Gardener grade 1,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+258,11,20.1,Hospitality Employees,Level 3,Food and beverage attendant grade 3,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+256,11,20.1,Hospitality Employees,Clerical grade 2; Cook grade 2; Food and beverage attendant grade 3; Fork-lift driver; Front office grade 2; Gardener grade 2; Guest service grade 3; Handyperson; Kitchen attendant grade 3; Leisure attendant grade 2; Storeperson grade 2; Timekeeper/security officer grade 2,Level 3,,,,2017-07-01,2018-06-30,0,2023-08-03T17:18:30+00:00,2017
+260,11,20.1,Hospitality Employees,Level 3,Front office grade 2,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+261,11,20.1,Hospitality Employees,Level 3,Guest service grade 3,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+265,11,20.1,Hospitality Employees,Level 3,Gardener grade 2,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+263,11,20.1,Hospitality Employees,Level 3,Kitchen attendant grade 3,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+267,11,20.1,Hospitality Employees,Level 3,Timekeeper/security officer grade 2,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+262,11,20.1,Hospitality Employees,Level 3,Handyperson,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+266,11,20.1,Hospitality Employees,Level 3,Storeperson grade 2,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+264,11,20.1,Hospitality Employees,Level 3,Leisure attendant grade 2,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+268,11,20.1,Hospitality Employees,Clerical grade 3; Cook (tradesperson) grade 3; Food and beverage attendant (tradesperson) grade 4; Front office grade 3; Gardener grade 3 (tradesperson); Guest service grade 4; Leisure attendant grade 3; Storeperson grade 3,Level 4,,,,2017-07-01,2018-06-30,0,2023-08-03T17:18:30+00:00,2017
+269,11,20.1,Hospitality Employees,Level 4,Cook (tradesperson) grade 3,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+273,11,20.1,Hospitality Employees,Level 4,Leisure attendant grade 3,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+271,11,20.1,Hospitality Employees,Level 4,Front office grade 3,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+275,11,20.1,Hospitality Employees,Level 4,Storeperson grade 3,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+270,11,20.1,Hospitality Employees,Level 4,Food and beverage attendant (tradesperson) grade 4,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+274,11,20.1,Hospitality Employees,Level 4,Gardener grade 3 (tradesperson),,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+272,11,20.1,Hospitality Employees,Level 4,Guest service grade 4,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+276,11,20.1,Hospitality Employees,Clerical supervisor; Cook (tradesperson) grade 4; Food and beverage supervisor; Front office supervisor; Gardener grade 4 (tradesperson); Guest service supervisor,Level 5,,,,2017-07-01,2018-06-30,0,2023-08-03T17:18:30+00:00,2017
+277,11,20.1,Hospitality Employees,Level 5,Cook (tradesperson) grade 4,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+281,11,20.1,Hospitality Employees,Level 5,Gardener grade 4 (tradesperson),,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+279,11,20.1,Hospitality Employees,Level 5,Front office supervisor,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+283,12,20.2,Managerial staff (Hotels),,Managerial staff (Hotels),,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+278,11,20.1,Hospitality Employees,Level 5,Food and beverage supervisor,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+282,11,20.1,Hospitality Employees,Cook (tradesperson) grade 5,Level 6,,,,2017-07-01,2018-06-30,0,2023-08-03T17:18:30+00:00,2017
+280,11,20.1,Hospitality Employees,Level 5,Guest service supervisor,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+292,13,20.3,Casino Gaming Employees,,Introductory,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+293,13,20.3,Casino Gaming Employees,Casino electronic gaming employee grade 1,Level 1,,,,2017-07-01,2018-06-30,0,2023-08-03T17:25:24+00:00,2017
+294,13,20.3,Casino Gaming Employees,Casino electronic gaming employee grade 2; Casino equipment technician grade 1; Casino table gaming employee grade 1; Customer liaison officer; Gaming finance employee grade 1,Level 2,,,,2017-07-01,2018-06-30,0,2023-08-03T17:25:24+00:00,2017
+298,13,20.3,Casino Gaming Employees,Level 2,Gaming finance employee grade 1,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+296,13,20.3,Casino Gaming Employees,Level 2,Casino table gaming employee grade 1,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+300,13,20.3,Casino Gaming Employees,Level 3,Gaming finance employee grade 2,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+295,13,20.3,Casino Gaming Employees,Level 2,Casino equipment technician grade 1,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+299,13,20.3,Casino Gaming Employees,Casino equipment technician grade 2; Gaming finance employee grade 2; Security officer grade 1,Level 3,,,,2017-07-01,2018-06-30,0,2023-08-03T17:25:24+00:00,2017
+297,13,20.3,Casino Gaming Employees,Level 2,Customer liaison officer,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+301,13,20.3,Casino Gaming Employees,Level 3,Security officer grade 1,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+302,13,20.3,Casino Gaming Employees,Casino table gaming employee grade 2,Level 3A,,,,2017-07-01,2018-06-30,0,2023-08-03T17:25:24+00:00,2017
+306,13,20.3,Casino Gaming Employees,Casino table gaming employee grade 3; Gaming finance employee grade 4,Level 5,,,,2017-07-01,2018-06-30,0,2023-08-03T17:25:24+00:00,2017
+304,13,20.3,Casino Gaming Employees,Level 4,Gaming finance employee grade 3,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+308,13,20.3,Casino Gaming Employees,Casino table gaming employee grade 4; Gaming finance employee grade 5; Surveillance operator,Level 6,,,,2017-07-01,2018-06-30,0,2023-08-03T17:25:24+00:00,2017
+303,13,20.3,Casino Gaming Employees,Casino equipment technician grade 3; Gaming finance employee grade 3; Security officer grade 2,Level 4,,,,2017-07-01,2018-06-30,0,2023-08-03T17:25:24+00:00,2017
+307,13,20.3,Casino Gaming Employees,Level 5,Gaming finance employee grade 4,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+305,13,20.3,Casino Gaming Employees,Level 4,Security officer grade 2,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+309,13,20.3,Casino Gaming Employees,Level 6,Gaming finance employee grade 5,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+310,13,20.3,Casino Gaming Employees,Level 6,Surveillance operator,,,,2017-07-01,2018-06-30,0,2022-02-15T15:47:08+00:00,2017
+311,14,27.2(a),Managerial Staff (Hotels),,Salaries absorption (Managerial Staff (Hotels))—minimum amount,,,,2017-07-01,2018-06-30,0,2023-04-05T09:46:47+00:00,2017
+245,11,20.1,Hospitality Employees,Level 1,Kitchen attendant grade 1,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+243,11,20.1,Hospitality Employees,Food and beverage attendant grade 1; Guest service grade 1; Kitchen attendant grade 1,Level 1,,,,2016-07-01,2017-06-30,0,2023-08-03T17:33:31+00:00,2016
+247,11,20.1,Hospitality Employees,Level 2,Cook grade 1,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+242,11,20.1,Hospitality Employees,,Introductory,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+246,11,20.1,Hospitality Employees,Clerical grade 1; Cook grade 1; Door person/security officer grade 1; Food and beverage attendant grade 2; Front office grade 1; Gardener grade 1; Guest service grade 2; Kitchen attendant grade 2; Leisure attendant grade 1; Storeperson grade 1,Level 2,,,,2016-07-01,2017-06-30,0,2023-08-03T17:33:31+00:00,2016
+244,11,20.1,Hospitality Employees,Level 1,Guest service grade 1,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+248,11,20.1,Hospitality Employees,Level 2,Door person/security officer grade 1,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+249,11,20.1,Hospitality Employees,Level 2,Food and beverage attendant grade 2,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+253,11,20.1,Hospitality Employees,Level 2,Leisure attendant grade 1,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+251,11,20.1,Hospitality Employees,Level 2,Guest service grade 2,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+255,11,20.1,Hospitality Employees,Level 2,Storeperson grade 1,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+250,11,20.1,Hospitality Employees,Level 2,Front office grade 1,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+254,11,20.1,Hospitality Employees,Level 2,Gardener grade 1,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+252,11,20.1,Hospitality Employees,Level 2,Kitchen attendant grade 2,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+256,11,20.1,Hospitality Employees,Clerical grade 2; Cook grade 2; Food and beverage attendant grade 3; Fork-lift driver; Front office grade 2; Gardener grade 2; Guest service grade 3; Handyperson; Kitchen attendant grade 3; Leisure attendant grade 2; Storeperson grade 2; Timekeeper/security officer grade 2,Level 3,,,,2016-07-01,2017-06-30,0,2023-08-03T17:33:31+00:00,2016
+257,11,20.1,Hospitality Employees,Level 3,Cook grade 2,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+261,11,20.1,Hospitality Employees,Level 3,Guest service grade 3,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+259,11,20.1,Hospitality Employees,Level 3,Fork-lift driver,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+263,11,20.1,Hospitality Employees,Level 3,Kitchen attendant grade 3,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+258,11,20.1,Hospitality Employees,Level 3,Food and beverage attendant grade 3,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+262,11,20.1,Hospitality Employees,Level 3,Handyperson,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+260,11,20.1,Hospitality Employees,Level 3,Front office grade 2,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+264,11,20.1,Hospitality Employees,Level 3,Leisure attendant grade 2,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+265,11,20.1,Hospitality Employees,Level 3,Gardener grade 2,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+269,11,20.1,Hospitality Employees,Level 4,Cook (tradesperson) grade 3,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+267,11,20.1,Hospitality Employees,Level 3,Timekeeper/security officer grade 2,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+271,11,20.1,Hospitality Employees,Level 4,Front office grade 3,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+266,11,20.1,Hospitality Employees,Level 3,Storeperson grade 2,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+270,11,20.1,Hospitality Employees,Level 4,Food and beverage attendant (tradesperson) grade 4,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+268,11,20.1,Hospitality Employees,Clerical grade 3; Cook (tradesperson) grade 3; Food and beverage attendant (tradesperson) grade 4; Front office grade 3; Gardener grade 3 (tradesperson); Guest service grade 4; Leisure attendant grade 3; Storeperson grade 3,Level 4,,,,2016-07-01,2017-06-30,0,2023-08-03T17:33:31+00:00,2016
+272,11,20.1,Hospitality Employees,Level 4,Guest service grade 4,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+273,11,20.1,Hospitality Employees,Level 4,Leisure attendant grade 3,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+277,11,20.1,Hospitality Employees,Level 5,Cook (tradesperson) grade 4,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+275,11,20.1,Hospitality Employees,Level 4,Storeperson grade 3,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+279,11,20.1,Hospitality Employees,Level 5,Front office supervisor,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+274,11,20.1,Hospitality Employees,Level 4,Gardener grade 3 (tradesperson),,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+278,11,20.1,Hospitality Employees,Level 5,Food and beverage supervisor,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+276,11,20.1,Hospitality Employees,Clerical supervisor; Cook (tradesperson) grade 4; Food and beverage supervisor; Front office supervisor; Gardener grade 4 (tradesperson); Guest service supervisor,Level 5,,,,2016-07-01,2017-06-30,0,2023-08-03T17:33:31+00:00,2016
+280,11,20.1,Hospitality Employees,Level 5,Guest service supervisor,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+281,11,20.1,Hospitality Employees,Level 5,Gardener grade 4 (tradesperson),,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+283,12,20.2,Managerial staff (Hotels),,Managerial staff (Hotels),,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+282,11,20.1,Hospitality Employees,Cook (tradesperson) grade 5,Level 6,,,,2016-07-01,2017-06-30,0,2023-08-03T17:33:31+00:00,2016
+294,13,20.3,Casino Gaming Employees,Casino electronic gaming employee grade 2; Casino equipment technician grade 1; Casino table gaming employee grade 1; Customer liaison officer; Gaming finance employee grade 1,Level 2,,,,2016-07-01,2017-06-30,0,2023-08-03T18:00:12+00:00,2016
+292,13,20.3,Casino Gaming Employees,,Introductory,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+296,13,20.3,Casino Gaming Employees,Level 2,Casino table gaming employee grade 1,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+295,13,20.3,Casino Gaming Employees,Level 2,Casino equipment technician grade 1,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+293,13,20.3,Casino Gaming Employees,Casino electronic gaming employee grade 1,Level 1,,,,2016-07-01,2017-06-30,0,2023-08-03T18:00:12+00:00,2016
+297,13,20.3,Casino Gaming Employees,Level 2,Customer liaison officer,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+298,13,20.3,Casino Gaming Employees,Level 2,Gaming finance employee grade 1,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+302,13,20.3,Casino Gaming Employees,Casino table gaming employee grade 2,Level 3A,,,,2016-07-01,2017-06-30,0,2023-08-03T18:00:12+00:00,2016
+300,13,20.3,Casino Gaming Employees,Level 3,Gaming finance employee grade 2,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+304,13,20.3,Casino Gaming Employees,Level 4,Gaming finance employee grade 3,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+299,13,20.3,Casino Gaming Employees,Casino equipment technician grade 2; Gaming finance employee grade 2; Security officer grade 1,Level 3,,,,2016-07-01,2017-06-30,0,2023-08-03T18:00:12+00:00,2016
+303,13,20.3,Casino Gaming Employees,Casino equipment technician grade 3; Gaming finance employee grade 3; Security officer grade 2,Level 4,,,,2016-07-01,2017-06-30,0,2023-08-03T18:00:12+00:00,2016
+301,13,20.3,Casino Gaming Employees,Level 3,Security officer grade 1,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+305,13,20.3,Casino Gaming Employees,Level 4,Security officer grade 2,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+306,13,20.3,Casino Gaming Employees,Casino table gaming employee grade 3; Gaming finance employee grade 4,Level 5,,,,2016-07-01,2017-06-30,0,2023-08-03T18:00:12+00:00,2016
+310,13,20.3,Casino Gaming Employees,Level 6,Surveillance operator,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+308,13,20.3,Casino Gaming Employees,Casino table gaming employee grade 4; Gaming finance employee grade 5; Surveillance operator,Level 6,,,,2016-07-01,2017-06-30,0,2023-08-03T18:00:12+00:00,2016
+307,13,20.3,Casino Gaming Employees,Level 5,Gaming finance employee grade 4,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+311,14,27.2(a),Managerial Staff (Hotels),,Salaries absorption (Managerial Staff (Hotels))—minimum amount,,,,2016-07-01,2017-06-30,0,2023-04-05T09:46:50+00:00,2016
+309,13,20.3,Casino Gaming Employees,Level 6,Gaming finance employee grade 5,,,,2016-07-01,2017-06-30,0,2022-02-15T15:47:08+00:00,2016
+243,11,20.1,Hospitality Employees,Food and beverage attendant grade 1; Guest service grade 1; Kitchen attendant grade 1,Level 1,,,,2015-07-01,2016-06-30,0,2023-08-03T18:07:30+00:00,2015
+242,11,20.1,Hospitality Employees,,Introductory,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+244,11,20.1,Hospitality Employees,Level 1,Guest service grade 1,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+245,11,20.1,Hospitality Employees,Level 1,Kitchen attendant grade 1,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+249,11,20.1,Hospitality Employees,Level 2,Food and beverage attendant grade 2,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+247,11,20.1,Hospitality Employees,Level 2,Cook grade 1,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+251,11,20.1,Hospitality Employees,Level 2,Guest service grade 2,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+246,11,20.1,Hospitality Employees,Clerical grade 1; Cook grade 1; Door person/security officer grade 1; Food and beverage attendant grade 2; Front office grade 1; Gardener grade 1; Guest service grade 2; Kitchen attendant grade 2; Leisure attendant grade 1; Storeperson grade 1,Level 2,,,,2015-07-01,2016-06-30,0,2023-08-03T18:07:30+00:00,2015
+250,11,20.1,Hospitality Employees,Level 2,Front office grade 1,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+248,11,20.1,Hospitality Employees,Level 2,Door person/security officer grade 1,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+252,11,20.1,Hospitality Employees,Level 2,Kitchen attendant grade 2,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+253,11,20.1,Hospitality Employees,Level 2,Leisure attendant grade 1,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+257,11,20.1,Hospitality Employees,Level 3,Cook grade 2,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+255,11,20.1,Hospitality Employees,Level 2,Storeperson grade 1,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+259,11,20.1,Hospitality Employees,Level 3,Fork-lift driver,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+254,11,20.1,Hospitality Employees,Level 2,Gardener grade 1,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+258,11,20.1,Hospitality Employees,Level 3,Food and beverage attendant grade 3,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+256,11,20.1,Hospitality Employees,Clerical grade 2; Cook grade 2; Food and beverage attendant grade 3; Fork-lift driver; Front office grade 2; Gardener grade 2; Guest service grade 3; Handyperson; Kitchen attendant grade 3; Leisure attendant grade 2; Storeperson grade 2; Timekeeper/security officer grade 2,Level 3,,,,2015-07-01,2016-06-30,0,2023-08-03T18:07:30+00:00,2015
+260,11,20.1,Hospitality Employees,Level 3,Front office grade 2,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+261,11,20.1,Hospitality Employees,Level 3,Guest service grade 3,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+265,11,20.1,Hospitality Employees,Level 3,Gardener grade 2,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+263,11,20.1,Hospitality Employees,Level 3,Kitchen attendant grade 3,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+267,11,20.1,Hospitality Employees,Level 3,Timekeeper/security officer grade 2,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+262,11,20.1,Hospitality Employees,Level 3,Handyperson,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+266,11,20.1,Hospitality Employees,Level 3,Storeperson grade 2,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+264,11,20.1,Hospitality Employees,Level 3,Leisure attendant grade 2,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+268,11,20.1,Hospitality Employees,Clerical grade 3; Cook (tradesperson) grade 3; Food and beverage attendant (tradesperson) grade 4; Front office grade 3; Gardener grade 3 (tradesperson); Guest service grade 4; Leisure attendant grade 3; Storeperson grade 3,Level 4,,,,2015-07-01,2016-06-30,0,2023-08-03T18:07:30+00:00,2015
+269,11,20.1,Hospitality Employees,Level 4,Cook (tradesperson) grade 3,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+273,11,20.1,Hospitality Employees,Level 4,Leisure attendant grade 3,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+271,11,20.1,Hospitality Employees,Level 4,Front office grade 3,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+275,11,20.1,Hospitality Employees,Level 4,Storeperson grade 3,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+270,11,20.1,Hospitality Employees,Level 4,Food and beverage attendant (tradesperson) grade 4,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+274,11,20.1,Hospitality Employees,Level 4,Gardener grade 3 (tradesperson),,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+272,11,20.1,Hospitality Employees,Level 4,Guest service grade 4,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+276,11,20.1,Hospitality Employees,Clerical supervisor; Cook (tradesperson) grade 4; Food and beverage supervisor; Front office supervisor; Gardener grade 4 (tradesperson); Guest service supervisor,Level 5,,,,2015-07-01,2016-06-30,0,2023-08-03T18:07:30+00:00,2015
+277,11,20.1,Hospitality Employees,Level 5,Cook (tradesperson) grade 4,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+281,11,20.1,Hospitality Employees,Level 5,Gardener grade 4 (tradesperson),,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+279,11,20.1,Hospitality Employees,Level 5,Front office supervisor,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+283,12,20.2,Managerial staff (Hotels),,Managerial staff (Hotels),,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+278,11,20.1,Hospitality Employees,Level 5,Food and beverage supervisor,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+282,11,20.1,Hospitality Employees,Cook (tradesperson) grade 5,Level 6,,,,2015-07-01,2016-06-30,0,2023-08-03T18:07:30+00:00,2015
+280,11,20.1,Hospitality Employees,Level 5,Guest service supervisor,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+292,13,20.3,Casino Gaming Employees,,Introductory,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+293,13,20.3,Casino Gaming Employees,Casino electronic gaming employee grade 1,Level 1,,,,2015-07-01,2016-06-30,0,2023-08-03T18:12:22+00:00,2015
+294,13,20.3,Casino Gaming Employees,Casino electronic gaming employee grade 2; Casino equipment technician grade 1; Casino table gaming employee grade 1; Customer liaison officer; Gaming finance employee grade 1,Level 2,,,,2015-07-01,2016-06-30,0,2023-08-03T18:12:22+00:00,2015
+298,13,20.3,Casino Gaming Employees,Level 2,Gaming finance employee grade 1,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+296,13,20.3,Casino Gaming Employees,Level 2,Casino table gaming employee grade 1,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+300,13,20.3,Casino Gaming Employees,Level 3,Gaming finance employee grade 2,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+295,13,20.3,Casino Gaming Employees,Level 2,Casino equipment technician grade 1,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+299,13,20.3,Casino Gaming Employees,Casino equipment technician grade 2; Gaming finance employee grade 2; Security officer grade 1,Level 3,,,,2015-07-01,2016-06-30,0,2023-08-03T18:12:22+00:00,2015
+297,13,20.3,Casino Gaming Employees,Level 2,Customer liaison officer,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+301,13,20.3,Casino Gaming Employees,Level 3,Security officer grade 1,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+302,13,20.3,Casino Gaming Employees,Casino table gaming employee grade 2,Level 3A,,,,2015-07-01,2016-06-30,0,2023-08-03T18:12:22+00:00,2015
+306,13,20.3,Casino Gaming Employees,Casino table gaming employee grade 3; Gaming finance employee grade 4,Level 5,,,,2015-07-01,2016-06-30,0,2023-08-03T18:12:22+00:00,2015
+304,13,20.3,Casino Gaming Employees,Level 4,Gaming finance employee grade 3,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+308,13,20.3,Casino Gaming Employees,Casino table gaming employee grade 4; Gaming finance employee grade 5; Surveillance operator,Level 6,,,,2015-07-01,2016-06-30,0,2023-08-03T18:12:22+00:00,2015
+303,13,20.3,Casino Gaming Employees,Casino equipment technician grade 3; Gaming finance employee grade 3; Security officer grade 2,Level 4,,,,2015-07-01,2016-06-30,0,2023-08-03T18:12:22+00:00,2015
+307,13,20.3,Casino Gaming Employees,Level 5,Gaming finance employee grade 4,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+305,13,20.3,Casino Gaming Employees,Level 4,Security officer grade 2,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+309,13,20.3,Casino Gaming Employees,Level 6,Gaming finance employee grade 5,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+310,13,20.3,Casino Gaming Employees,Level 6,Surveillance operator,,,,2015-07-01,2016-06-30,0,2022-02-15T15:47:08+00:00,2015
+311,14,27.2(a),Managerial Staff (Hotels),,Salaries absorption (Managerial Staff (Hotels))—minimum amount,,,,2015-07-01,2016-06-30,0,2023-04-05T09:46:53+00:00,2015
