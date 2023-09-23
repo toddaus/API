@@ -1,41 +1,41 @@
 Profession,Grade,Level,Level_no,Award_Desc
-Introductory level,Null,Introductory level,1.0,'An employee who enters the hospitality industry and does not demonstrate the competency requirements of level 1'
-Food and beverage attendant,grade 1,Level 1,2.0,'An employee who is engaged in any of the following picking up glasses; emptying ashtrays;providing general assistance to food and beverage attendants of a higher classification not including service to customers;removing food plates;setting and wiping down tables;cleaning and tidying associated areas'
-Guest service,grade 1,Level 1,2.0,'An employee who is engaged in any of the following performing laundry or linen duties including carrying out minor repairs to linen or clothing (for example, buttons, zips or seams) and working with flat materials; collecting and delivering guests’ personal dry cleaning and laundry, linen and associated materials to and from accommodation areas; performing general cleaning duties; parking guests’ motor vehicles'
-Kitchen attendant,grade 1,Level 1,2.0,'an employee engaged in any of the following: general cleaning duties within a kitchen or food preparation area or scullery, including cleaning cooking and general utensils used in a kitchen or restaurant;assisting employees who are cooking;assembling and preparing ingredients for cooking;general pantry duties'
-Clerical,grade 1,Level 2,3.0,'An employee who is required to perform basic clerical and routine office duties such as collating, filing, photocopying and delivering messages'
-Cook,grade 1,Level 2,3.0,'An employee who is engaged in cooking breakfasts and snacks, baking, pastry cooking or butchering'
-Food and beverage attendant,grade 2,Level 2,3.0,'An employee who has not achieved the appropriate level of training and who is engaged in any of the following: supplying, dispensing and mixing liquor, including selling liquor from the bottle department; assisting in the cellar or bottle department;undertaking general waiting duties for food or beverages or both, including cleaning tables; receiving money; attending a snack bar; performing delivery duties; and taking reservations, greeting and seating guests'
-Front office,grade 1,Level 2,3.0,'An employee who is engaged as an assistant in front office duties including night auditing, performing duties as a telephonist, receptionist or cashier, providing information services or making reservations'
-Gardener,grade 1,Level 2,3.0,'An employee primarily engaged in the following activities:-keeping areas clean and tidy;weeding and watering;trimming or mowing surrounds or similar areas with hand implements;assisting in preparing areas for play;assisting in course or green maintenance and construction;operating a limited range of vehicles, including motor vehicles;performing non-trade tasks incidental to the employee’s work'
-Guest service,grade 2,Level 2,3.0,'An employee who has not achieved the appropriate level of training and who is engaged in any of the following: servicing and cleaning accommodation areas;receiving and assisting guests at the entrance to the establishment; driving a passenger vehicle or courtesy bus; transferring guests’ baggage to and from rooms;assisting in the dry cleaning process; performing cleaning duties using specialised equipment and chemicals; providing butler services such as food, beverage and personalised guest service'
-Kitchen attendant,grade 2,Level 2,3.0,'An employee who has the appropriate level of training, and who is engaged in specialised non-cooking duties in a kitchen or food preparation area or in supervising kitchen attendants'
-Leisure attendant,grade 1,Level 2,3.0,'A person who acts as an assistant instructor or pool attendant or is responsible for the setting up, distribution and care of equipment and the taking of bookings'
-Storeperson,grade 1,Level 2,3.0,'An employee who receives and stores general and perishable goods and cleans the store area'
-Door person/security officer,grade 1,Level 2,3.0,'A person who assists in the maintenance of dress standards and good order at an establishment'
-Clerical,grade 2,Level 3,4.0,'An employee who is engaged in general clerical or office duties, such as typing, filing, basic data entry and calculating functions'
-Cook,grade 2,Level 3,4.0,'An employee who has the appropriate level of training and who performs cooking duties such as baking, pastry cooking or butchering'
-Food and beverage attendant,grade 3,Level 3,4.0,'In addition to the tasks performed by a Food and beverage attendant grade 2, is engaged in any of the following: operating a mechanical lifting device; attending a wagering terminal, electronic gaming terminal or similar terminal; having full control of a cellar or liquor store; mixing a range of sophisticated drinks; training food and beverage attendants of a lower grade; and supervising food and beverage attendants of a lower grade'
-Front office,grade 2,Level 3,4.0,'An employee who has the appropriate level of training and is in the front office engaged in performing duties including as a telephonist, receptionist or cashier, providing information services or making reservations'
-Gardener,grade 2,Level 3,4.0,'In addition to the work of grade 1:operating and carrying out minor maintenance of motorised equipment under supervision, other than machinery or equipment requiring the holding of specialised licences;assisting in the maintenance, renovation and reconstruction of greens and fairways, or the maintenance of playing surfaces, including mowing, rolling, top dressing, seeding, turfing and sprigging, fertilising under supervision, planting and maintenance of trees or pruning under supervision;applying fertilisers, fungicides, herbicides and insecticides under general supervision;performing gardening duties including planting and trimming trees, sowing, planting and cutting grass, and watering plants, gardens, trees, lawns and displays;carrying out routine maintenance of turf, synthetic, artificial or other surfaces for play;completing basic records;assisting in the construction and installation of facilities and systems;performing tasks incidental to the employee’s work;handyperson duties;supervising gardeners of a lower classification'
-Guest service,grade 3,Level 3,4.0,'An employee who has the appropriate level of training and who is engaged in any of the following: providing butler services such as food, beverage and personalised guest service; carrying out major repairs to linen or clothing including basic tailoring and major alterations and refitting; supervising guest service employees of a lower classification;dry cleaning'
-Kitchen attendant,grade 3,Level 3,4.0,'An employee who has the appropriate level of training, including a supervisory course, and has responsibility for the supervision, training and co-ordination of kitchen attendants of a lower classification'
-Leisure attendant,grade 2,Level 3,4.0,'An employee who has the appropriate level of training, and who is engaged in specialised non-cooking duties in a kitchen or food preparation area or in supervising kitchen attendants'
-Storeperson,grade 2,Level 3,4.0,'An employee who, in addition to the duties for a storeperson grade 1, may also operate mechanical lifting equipment such as a fork-lift or who may perform duties of a more complex nature'
-Fork-lift driver,grade 2,Level 3,4.0,'An employee who has a recognised fork-lift licence and who is engaged solely to drive a fork-lift vehicle'
-Handyperson,Null,Level 3,4.0,'A person who is not a tradesperson and whose duties include performing routine repair work and maintenance in and about the employer’s premises'
-Clerical,grade 3,Level 4,5.0,'An employee who has the appropriate level of training and who performs any of the following duties:operates a switchboard, paging system and office equipment;uses knowledge of keyboard and function keys to enter and retrieve data through a computer terminal; copy types at 25 words per minute with at least 98% accuracy; maintains mail register and records; maintains established paper-based filing or records systems in accordance with set procedures including creating and indexing new files, distributing files within the organisation as requested and monitoring file locations; transcribes information into records, completes forms and takes telephone messages;acquires and applies a working knowledge of office or sectional operating procedures and requirements;acquires and applies a working knowledge of the organisation’s structure and personnel in order to deal with inquiries at first instance, locates appropriate staff in different sections, relays internal information, responds to or redirects inquiries and greets visitors;keeps appropriate records;sorts, processes and records original source financial documents (for example, invoices, cheques and correspondence) on a daily basis; maintains and records petty cash; prepares bank deposits and withdrawals and does banking'
-Cook,grade 3,Level 4,5.0,'A commi chef or equivalent who has completed an apprenticeship or passed the appropriate trade test and who is engaged in cooking, baking, pastry cooking or butchering duties'
-Food and beverage attendant,grade 4,Level 4,5.0,'An employee who has completed an apprenticeship in waiting or has passed the appropriate trade test and who carries out specialised skilled duties in a fine dining room or a restaurant'
-Front office,grade 3,Level 4,5.0,'An employee who has the appropriate level of training and is in the front office engaged in duties including assisting in training and supervising front office employees of a lower classification'
-Gardener,grade 3,Level 4,5.0,'An employee who has completed trade or equivalent qualifications and undertakes one or more of the following duties (including non-trade tasks incidental to the employee’s work):operating, maintaining and adjusting machinery as appropriate; cleaning machinery and inspecting machinery after each use and reporting any problems to a management employee; applying fertilisers, fungicides, herbicides and insecticides as directed by a management employee; preparing turf, synthetic, artificial or other surfaces for play; maintaining and repairing vehicles or motor engines; carrying out repairs and minor renovation work; the formation and maintenance of all gardens, lawns and greens; the planting, maintenance and care of trees; training and supervision of employees of a lower classification, including apprentices'
-Guest service,grade 4,Level 4,5.0,'An employee who has completed an apprenticeship or passed the appropriate trade test or otherwise has the appropriate level of training to perform the work of a tradesperson in dry cleaning or tailoring or as a butler'
-Leisure attendant,grade 3,Level 4,5.0,'A person who has the appropriate level of training and who plans and co-ordinates leisure activities for guests and may supervise other leisure attendants'
-Storeperson,grade 3,Level 4,5.0,'An employee who has the appropriate level of training and who:implements quality control techniques and procedures; understands and is responsible for a stores or warehouse area or a large section of such an area; has a highly developed level of interpersonal and communications skills;is able to supervise and provide direction and guidance to other employees, including the ability to assist in the provision of on-the-job training and induction;may exercise skills attained through the successful completion of an appropriate warehousing certificate and other duties'
-Cook,grade 4,Level 5,6.0,'A demi chef or equivalent who has completed an apprenticeship or passed the appropriate trade test and who is engaged to perform general or specialised cooking, butchering, baking or pastry cooking duties or supervises and trains other cooks and kitchen employees'
-Gardener,grade 4,Level 5,6.0,'an employee who has satisfactorily attained the appropriate level of training at trade or the equivalent level, together with the additional requirements in supervision or other appropriate specialist modules. In addition to the duties of levels 1 to 3, the employee is also engaged in the following activities:  supervising and training employees of a lower classification, including tradespersons; presenting written or oral reports, including budgets; carrying out general liaison with management; performing activities requiring application of specialist skills'
-Clerical supervisor,Null,Level 5,6.0,'An employee who has the appropriate level of training, including a supervisory course, and who co-ordinates other clerical staff'
-Guest service supervisor,Null,Level 5,6.0,'An employee who has the appropriate level of training, including a supervisory course, and has responsibility for the supervision, training and co-ordination of employees engaged in a housekeeping department'
-Front office supervisor,Null,Level 5,6.0,'An employee who has the appropriate level of training, including a supervisory course, and has responsibility for the supervision, training and co-ordination of front office employees'
-Food and beverage supervisor,Null,Level 5,6.0,'An employee who has the appropriate level of training, including a supervisory course, and who has responsibility for the supervision, training and co-ordination of food and beverage staff or for stock control for one or more bars'
-Cook,grade 5,Level 6,7.0,'A chef de partie or equivalent who has completed an apprenticeship or passed the appropriate trade test in cooking, butchering, baking or pastry cooking and who performs any of the following:general and specialised duties, including supervision or training of kitchen employees; or ordering and stock control; or supervising kitchen employees in a single kitchen establishment'
+Introductory level,Null,Introductory level,1.0
+Food and beverage attendant,grade 1,Level 1,2.0
+Guest service,grade 1,Level 1,2.0
+Kitchen attendant,grade 1,Level 1,2.0
+Clerical,grade 1,Level 2,3.0
+Cook,grade 1,Level 2,3.0
+Food and beverage attendant,grade 2,Level 2,3.0
+Front office,grade 1,Level 2,3.0
+Gardener,grade 1,Level 2,3.0
+Guest service,grade 2,Level 2,3.0
+Kitchen attendant,grade 2,Level 2,3.0
+Leisure attendant,grade 1,Level 2,3.0
+Storeperson,grade 1,Level 2,3.0
+Door person/security officer,grade 1,Level 2,3.0
+Clerical,grade 2,Level 3,4.0
+Cook,grade 2,Level 3,4.0
+Food and beverage attendant,grade 3,Level 3,4.0
+Front office,grade 2,Level 3,4.0
+Gardener,grade 2,Level 3,4.0
+Guest service,grade 3,Level 3,4.0
+Kitchen attendant,grade 3,Level 3,4.0
+Leisure attendant,grade 2,Level 3,4.0
+Storeperson,grade 2,Level 3,4.0
+Fork-lift driver,grade 2,Level 3,4.0
+Handyperson,Null,Level 3,4.0
+Clerical,grade 3,Level 4,5.0
+Cook,grade 3,Level 4,5.0
+Food and beverage attendant,grade 4,Level 4,5.0
+Front office,grade 3,Level 4,5.0
+Gardener,grade 3,Level 4,5.0
+Guest service,grade 4,Level 4,5.0
+Leisure attendant,grade 3,Level 4,5.0
+Storeperson,grade 3,Level 4,5.0
+Cook,grade 4,Level 5,6.0
+Gardener,grade 4,Level 5,6.0
+Clerical supervisor,Null,Level 5,6.0
+Guest service supervisor,Null,Level 5,6.0
+Front office supervisor,Null,Level 5,6.0
+Food and beverage supervisor,Null,Level 5,6.0
+Cook,grade 5,Level 6,7.0
