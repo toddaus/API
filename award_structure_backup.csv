@@ -1,0 +1,41 @@
+Profession,Grade,Level,Level_no,Award_Desc
+Introductory level,Null,Introductory level,1.0
+Food and beverage attendant,grade 1,Level 1,2.0
+Guest service,grade 1,Level 1,2.0
+Kitchen attendant,grade 1,Level 1,2.0
+Clerical,grade 1,Level 2,3.0
+Cook,grade 1,Level 2,3.0
+Food and beverage attendant,grade 2,Level 2,3.0
+Front office,grade 1,Level 2,3.0
+Gardener,grade 1,Level 2,3.0
+Guest service,grade 2,Level 2,3.0
+Kitchen attendant,grade 2,Level 2,3.0
+Leisure attendant,grade 1,Level 2,3.0
+Storeperson,grade 1,Level 2,3.0
+Door person/security officer,grade 1,Level 2,3.0
+Clerical,grade 2,Level 3,4.0
+Cook,grade 2,Level 3,4.0
+Food and beverage attendant,grade 3,Level 3,4.0
+Front office,grade 2,Level 3,4.0
+Gardener,grade 2,Level 3,4.0
+Guest service,grade 3,Level 3,4.0
+Kitchen attendant,grade 3,Level 3,4.0
+Leisure attendant,grade 2,Level 3,4.0
+Storeperson,grade 2,Level 3,4.0
+Fork-lift driver,grade 2,Level 3,4.0
+Handyperson,Null,Level 3,4.0
+Clerical,grade 3,Level 4,5.0
+Cook,grade 3,Level 4,5.0
+Food and beverage attendant,grade 4,Level 4,5.0
+Front office,grade 3,Level 4,5.0
+Gardener,grade 3,Level 4,5.0
+Guest service,grade 4,Level 4,5.0
+Leisure attendant,grade 3,Level 4,5.0
+Storeperson,grade 3,Level 4,5.0
+Cook,grade 4,Level 5,6.0
+Gardener,grade 4,Level 5,6.0
+Clerical supervisor,Null,Level 5,6.0
+Guest service supervisor,Null,Level 5,6.0
+Front office supervisor,Null,Level 5,6.0
+Food and beverage supervisor,Null,Level 5,6.0
+Cook,grade 5,Level 6,7.0
